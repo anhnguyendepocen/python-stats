@@ -1,0 +1,26 @@
+# Site settings
+title: "NaLette Brodnax"
+description: > 
+  Python & Statistics Bootcamp - Summer 2018
+
+author: NaLette Brodnax
+email: nbrodnax@iq.harvard.edu
+twitter_username: nbrodnax
+github_username: nmbrodnax
+
+baseurl: "/python-stats" # the subpath of your site, e.g. /blog
+url: "https://nmbrodnax.github.io" # the base hostname & protocol for your site
+
+google_analytics_id:
+disqus_id:
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+
+sass:
+    style: compressed
+
+exclude: [vendor]
+
