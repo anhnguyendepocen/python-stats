@@ -5,8 +5,6 @@ title: Home
 <section class="c-archives">
   <link rel="shortcut icon" href="">
   {% for post in site.posts  reversed %}
-  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
   <ul class="c-archives__list">
     <li class="c-archives__item">
       <h3>
