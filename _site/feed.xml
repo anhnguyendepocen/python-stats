@@ -6,9 +6,83 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 May 2018 15:05:17 -0400</pubDate>
-    <lastBuildDate>Wed, 23 May 2018 15:05:17 -0400</lastBuildDate>
+    <pubDate>Sat, 02 Jun 2018 16:21:24 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 16:21:24 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Statistical Inference</title>
+        <description>&lt;p&gt;Topics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;point estimation&lt;/li&gt;
+  &lt;li&gt;confidence estimation&lt;/li&gt;
+  &lt;li&gt;hypothesis testing&lt;/li&gt;
+  &lt;li&gt;linear regression, non-linear regression&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/python-stats/2018/06/lecture4</link>
+        <guid isPermaLink="true">http://localhost:4000/python-stats/2018/06/lecture4</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Probability &amp; Visualization II</title>
+        <description>&lt;p&gt;Topics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;probability axioms, random variables&lt;/li&gt;
+  &lt;li&gt;conditional probability, Bayes’ Rule&lt;/li&gt;
+  &lt;li&gt;distribution functions&lt;/li&gt;
+  &lt;li&gt;law of large numbers, central limit theorem&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/python-stats/2018/06/lecture3</link>
+        <guid isPermaLink="true">http://localhost:4000/python-stats/2018/06/lecture3</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data Wrangling &amp; Visualization I</title>
+        <description>&lt;p&gt;Topics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;transformation tasks&lt;/li&gt;
+  &lt;li&gt;computational problems&lt;/li&gt;
+  &lt;li&gt;visualizing summaries and relationships&lt;/li&gt;
+  &lt;li&gt;descriptive statistics&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 04 Jun 2018 09:00:00 -0400</pubDate>
+        <link>http://localhost:4000/python-stats/2018/06/lecture2</link>
+        <guid isPermaLink="true">http://localhost:4000/python-stats/2018/06/lecture2</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Python</title>
+        <description>&lt;p&gt;Topics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tools, installation, Jupyter notebooks&lt;/li&gt;
+  &lt;li&gt;data types, operators, loops, conditionals&lt;/li&gt;
+  &lt;li&gt;functions, methods, modules, packages, scripts&lt;/li&gt;
+  &lt;li&gt;version control, working with files&lt;/li&gt;
+  &lt;li&gt;structures, indexing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Jun 2018 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/python-stats/2018/06/lecture1</link>
+        <guid isPermaLink="true">http://localhost:4000/python-stats/2018/06/lecture1</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
