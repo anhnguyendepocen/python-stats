@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jun 2018 18:27:39 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 18:27:39 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 19:10:16 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 19:10:16 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -55,6 +55,12 @@
   &lt;li&gt;array attributes, methods, and functions&lt;/li&gt;
   &lt;li&gt;mathematical operations&lt;/li&gt;
   &lt;li&gt;summary statistics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec2_data_wrangling.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec2_data_wrangling.ipynb&quot;&gt;Jupyter notebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;version-control-with-git&quot;&gt;Version Control with Git&lt;/h2&gt;
@@ -125,6 +131,12 @@
   &lt;li&gt;installation, tools&lt;/li&gt;
   &lt;li&gt;data types, operators, loops, conditionals&lt;/li&gt;
   &lt;li&gt;functions, methods, modules, packages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec1_intro_python.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec1_intro_python.ipynb&quot;&gt;Jupyter notebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 05:00:00 -0400</pubDate>
