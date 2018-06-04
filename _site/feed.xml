@@ -6,14 +6,13 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jun 2018 13:18:33 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 13:18:33 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 18:27:39 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 18:27:39 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Statistical Inference</title>
-        <description>&lt;p&gt;Topics&lt;/p&gt;
-
+        <description>&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;point estimation&lt;/li&gt;
   &lt;li&gt;confidence estimation&lt;/li&gt;
@@ -30,9 +29,9 @@
     
       <item>
         <title>Probability &amp; Visualization</title>
-        <description>&lt;p&gt;Topics&lt;/p&gt;
-
+        <description>&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
+  &lt;li&gt;visualizing data and relationships&lt;/li&gt;
   &lt;li&gt;probability axioms, random variables&lt;/li&gt;
   &lt;li&gt;conditional probability, Bayes’ Rule&lt;/li&gt;
   &lt;li&gt;distribution functions&lt;/li&gt;
@@ -48,17 +47,19 @@
     
       <item>
         <title>Data Wrangling</title>
-        <description>&lt;p&gt;Topics&lt;/p&gt;
-
+        <description>&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;transformation tasks&lt;/li&gt;
-  &lt;li&gt;computational problems&lt;/li&gt;
-  &lt;li&gt;visualizing summaries and relationships&lt;/li&gt;
-  &lt;li&gt;descriptive statistics&lt;/li&gt;
+  &lt;li&gt;version control with git&lt;/li&gt;
+  &lt;li&gt;data structures, indexing&lt;/li&gt;
+  &lt;li&gt;working with arrays&lt;/li&gt;
+  &lt;li&gt;array attributes, methods, and functions&lt;/li&gt;
+  &lt;li&gt;mathematical operations&lt;/li&gt;
+  &lt;li&gt;summary statistics&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Version Control with Git&lt;/p&gt;
+&lt;h2 id=&quot;version-control-with-git&quot;&gt;Version Control with Git&lt;/h2&gt;
 
+&lt;h3 id=&quot;before-the-workshop&quot;&gt;Before the workshop&lt;/h3&gt;
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Check whether you already have Git.&lt;/p&gt;
@@ -73,6 +74,42 @@
   &lt;li&gt;From &lt;a href=&quot;https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup&quot;&gt;these instructions&lt;/a&gt;, Complete the sections &lt;em&gt;First-Time Git Setup&lt;/em&gt; and &lt;em&gt;Your Identity&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h3 id=&quot;basic-workflow&quot;&gt;Basic workflow&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Create a repository with a README on &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On your computer, use the command line to clone the repository&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/&amp;lt;your_github_username&amp;gt;/&amp;lt;your_repository_name&amp;gt;.git&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create a new files or make changes to an existing file&lt;/li&gt;
+  &lt;li&gt;Add the names of any files or directories that you want to ignore to your &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitignore&lt;/code&gt; file (creating the file if necessary)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When you want to record a snapshot, add the file to the staging area&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check the status of the repository to make sure the file is properly staged&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git status&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commit your changes and include a description of the changes&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;&amp;lt;short description of changes&quot;&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When you want to update your remote repository, push the changes to Github&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;For a full guide to Git, see the free, web-based version of the book &lt;a href=&quot;https://git-scm.com/book/en/v2&quot; target=&quot;_blank&quot;&gt;Pro Git (2nd Edition)&lt;/a&gt; by Scott Chacon and Ben Straub.&lt;/p&gt;
+
+&lt;p&gt;For a beginner tutorial on using Git with Github, see Github’s &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot; target=&quot;_blank&quot;&gt;Hello World&lt;/a&gt; guide.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 09:00:00 -0400</pubDate>
         <link>http://localhost:4000/python-stats/2018/06/lecture2</link>
@@ -83,14 +120,11 @@
     
       <item>
         <title>Introduction to Python</title>
-        <description>&lt;p&gt;Topics&lt;/p&gt;
-
+        <description>&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;tools, installation, Jupyter notebooks&lt;/li&gt;
+  &lt;li&gt;installation, tools&lt;/li&gt;
   &lt;li&gt;data types, operators, loops, conditionals&lt;/li&gt;
-  &lt;li&gt;functions, methods, modules, packages, scripts&lt;/li&gt;
-  &lt;li&gt;version control, working with files&lt;/li&gt;
-  &lt;li&gt;structures, indexing&lt;/li&gt;
+  &lt;li&gt;functions, methods, modules, packages&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 05:00:00 -0400</pubDate>

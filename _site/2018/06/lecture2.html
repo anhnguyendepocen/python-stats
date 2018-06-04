@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Data Wrangling - NaLette Brodnax</title>
-  <meta name="description" content="Topics">
+  <meta name="description" content="Topics  version control with git  data structures, indexing  working with arrays  array attributes, methods, and functions  mathematical operations  summary ...">
   <link href='https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300,400,900,400italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/python-stats/css/main.css">
   <link rel="canonical" href="http://localhost:4000/python-stats/2018/06/lecture2">
@@ -36,17 +36,19 @@
     
   </ul>
   <div class="c-article__main">
-    <p>Topics</p>
-
+    <h2 id="topics">Topics</h2>
 <ul>
-  <li>transformation tasks</li>
-  <li>computational problems</li>
-  <li>visualizing summaries and relationships</li>
-  <li>descriptive statistics</li>
+  <li>version control with git</li>
+  <li>data structures, indexing</li>
+  <li>working with arrays</li>
+  <li>array attributes, methods, and functions</li>
+  <li>mathematical operations</li>
+  <li>summary statistics</li>
 </ul>
 
-<p>Version Control with Git</p>
+<h2 id="version-control-with-git">Version Control with Git</h2>
 
+<h3 id="before-the-workshop">Before the workshop</h3>
 <ol>
   <li>
     <p>Check whether you already have Git.</p>
@@ -61,6 +63,42 @@
   <li>From <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">these instructions</a>, Complete the sections <em>First-Time Git Setup</em> and <em>Your Identity</em></li>
 </ol>
 
+<h3 id="basic-workflow">Basic workflow</h3>
+<ol>
+  <li>Create a repository with a README on <a href="https://github.com">Github</a></li>
+  <li>
+    <p>On your computer, use the command line to clone the repository</p>
+
+    <p><code class="highlighter-rouge">git clone https://github.com/&lt;your_github_username&gt;/&lt;your_repository_name&gt;.git</code></p>
+  </li>
+  <li>Create a new files or make changes to an existing file</li>
+  <li>Add the names of any files or directories that you want to ignore to your <code class="highlighter-rouge">.gitignore</code> file (creating the file if necessary)</li>
+  <li>
+    <p>When you want to record a snapshot, add the file to the staging area</p>
+
+    <p><code class="highlighter-rouge">git add &lt;filename&gt;</code></p>
+  </li>
+  <li>
+    <p>Check the status of the repository to make sure the file is properly staged</p>
+
+    <p><code class="highlighter-rouge">git status</code></p>
+  </li>
+  <li>
+    <p>Commit your changes and include a description of the changes</p>
+
+    <p><code class="highlighter-rouge">git commit -m "&lt;short description of changes"</code></p>
+  </li>
+  <li>
+    <p>When you want to update your remote repository, push the changes to Github</p>
+
+    <p><code class="highlighter-rouge">git push origin master</code></p>
+  </li>
+</ol>
+
+<h3 id="resources">Resources</h3>
+<p>For a full guide to Git, see the free, web-based version of the book <a href="https://git-scm.com/book/en/v2" target="_blank">Pro Git (2nd Edition)</a> by Scott Chacon and Ben Straub.</p>
+
+<p>For a beginner tutorial on using Git with Github, see Github’s <a href="https://guides.github.com/activities/hello-world/" target="_blank">Hello World</a> guide.</p>
 
   </div>
   <!-- Previous / Next Buttons -->
