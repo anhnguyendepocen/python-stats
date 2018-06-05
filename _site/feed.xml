@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jun 2018 10:32:34 -0400</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2018 10:32:34 -0400</lastBuildDate>
+    <pubDate>Tue, 05 Jun 2018 13:10:35 -0400</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 13:10:35 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -37,6 +37,12 @@
   &lt;li&gt;law of large numbers, central limit theorem&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec3_visualization.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec3_visualization.ipynb&quot;&gt;Jupyter notebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;datasets&quot;&gt;Datasets&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/bachelors_major_ma_2015_16.csv&quot;&gt;Bachelors’ Degrees by Major and Sex, Massachusetts, 2015-2016&lt;/a&gt;, National Center for Education Statistics&lt;/li&gt;
@@ -58,6 +64,45 @@
   &lt;li&gt;Answer the following in your notebook: Are your variables missing any observations? If so, how many?&lt;/li&gt;
   &lt;li&gt;Compute the following descriptive statistics for each variable: mean, variance, and standard deviation&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&quot;bootcamp-project-part-i&quot;&gt;Bootcamp Project Part I&lt;/h2&gt;
+&lt;p&gt;For the final project, you will create a Jupyter notebook and facilitate a short discussion with the group. The notebook should have the following sections:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Background&lt;/li&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Analysis&lt;/li&gt;
+  &lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For today, you will complete the &lt;em&gt;Background&lt;/em&gt; and &lt;em&gt;Data&lt;/em&gt; sections.  These should be brief, or in outline form.&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;What is the topic for your project?&lt;/li&gt;
+  &lt;li&gt;What do you hope to learn?&lt;/li&gt;
+  &lt;li&gt;Who or what is the source of your dataset?&lt;/li&gt;
+  &lt;li&gt;Broadly, what kind of information is included in the dataset?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data&quot;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Describe whether you are interested in a particular variable, or in a relationship between variables&lt;/li&gt;
+  &lt;li&gt;Choose two or three variables of interest&lt;/li&gt;
+  &lt;li&gt;Complete any data manipulation necessary so that you have a data frame with variables as columns and observations as rows&lt;/li&gt;
+  &lt;li&gt;Complete the following
+    &lt;ul&gt;
+      &lt;li&gt;A table of summary statistics, including number of observations, min, max, mean, and standard deviation&lt;/li&gt;
+      &lt;li&gt;A frequency distribution plot (see &lt;code class=&quot;highlighter-rouge&quot;&gt;plt.hist()&lt;/code&gt;) for each variable&lt;/li&gt;
+      &lt;li&gt;A scatterplot for two variables (see &lt;code class=&quot;highlighter-rouge&quot;&gt;plt.scatter()&lt;/code&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet&quot;&gt;Markdown Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Tue, 05 Jun 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/python-stats/2018/06/lecture3</link>
