@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jun 2018 22:48:25 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 22:48:25 -0400</lastBuildDate>
+    <pubDate>Tue, 05 Jun 2018 00:13:06 -0400</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 00:13:06 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -33,7 +33,6 @@
 &lt;ul&gt;
   &lt;li&gt;visualizing data and relationships&lt;/li&gt;
   &lt;li&gt;probability axioms, random variables&lt;/li&gt;
-  &lt;li&gt;conditional probability, Bayes’ Rule&lt;/li&gt;
   &lt;li&gt;distribution functions&lt;/li&gt;
   &lt;li&gt;law of large numbers, central limit theorem&lt;/li&gt;
 &lt;/ul&gt;
@@ -42,7 +41,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/bachelors_major_ma_2015_16.csv&quot;&gt;Bachelors’ Degrees by Major and Sex, Massachusetts, 2015-2016&lt;/a&gt;, National Center for Education Statistics&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/ntia_computer_usage.csv&quot;&gt;Computer and Internet Use, 1994-2015&lt;/a&gt;, National Telecommunications and Information Administration&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/charter_schools.csv&quot;&gt;Illinois Charter Schools, 2009-2010&lt;/a&gt;, Illinois Network of Charter Schools&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/county_demographics_2016.csv&quot;&gt;County Demographics, 2016&lt;/a&gt;, US Census Bureau, American Community Survey&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nat_survey_drug_use_2015.csv&quot;&gt;National Survey on Drug Use and Health&lt;/a&gt;, Substance Abuse and Mental Health Services Administration&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/natality_2007_2016.csv&quot;&gt;Natality by State, 2007-2016&lt;/a&gt;, Centers for Disease Control and Prevention&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nba_player_stats_2017_18.csv&quot;&gt;NBA Player Statistics, 2017-2018 Regular Season&lt;/a&gt;, MySportsFeeds&lt;/li&gt;
