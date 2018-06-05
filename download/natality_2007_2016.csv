@@ -1,0 +1,2116 @@
+﻿State,State_Code,Single_Race,Single_Race_Code,Education,Education_Code,Births,Average_Birth_Weight,Average_Age_of_Mother
+Alabama,1,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,25,3049.36,24.96
+Alabama,1,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,45,3144.98,24.69
+Alabama,1,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,34,3209.97,26.06
+Alabama,1,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,12,3431.08,28.33
+Alabama,1,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,11,3366.45,30.64
+Alabama,1,Asian,A,8th grade or less,1,27,3277.96,30.04
+Alabama,1,Asian,A,9th through 12th grade with no diploma,2,60,3151.92,28.85
+Alabama,1,Asian,A,High school graduate or GED completed,3,188,3153.07,30.17
+Alabama,1,Asian,A,"Some college credit, but not a degree",4,104,3229.62,28.82
+Alabama,1,Asian,A,"Associate degree (AA, AS)",5,54,2969.22,31.09
+Alabama,1,Asian,A,"Bachelor's degree (BA, AB, BS)",6,328,3167.44,31.38
+Alabama,1,Asian,A,"Master's degree (MA, MS)",7,180,3094.75,31.86
+Alabama,1,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,99,3005.93,33.91
+Alabama,1,Black or African American,2054-5,8th grade or less,1,317,3075.85,25.11
+Alabama,1,Black or African American,2054-5,9th through 12th grade with no diploma,2,2686,2957.55,23.86
+Alabama,1,Black or African American,2054-5,High school graduate or GED completed,3,6976,2983.26,24.98
+Alabama,1,Black or African American,2054-5,"Some college credit, but not a degree",4,4694,3015.82,26.21
+Alabama,1,Black or African American,2054-5,"Associate degree (AA, AS)",5,1202,3019.6,29.24
+Alabama,1,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1499,3110.67,30.37
+Alabama,1,Black or African American,2054-5,"Master's degree (MA, MS)",7,664,3149.37,32.82
+Alabama,1,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,101,3044.8,33.8
+Alabama,1,Black or African American,2054-5,nown/Not on certificate,,42,2952.41,27.48
+Alabama,1,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,69,3351.84,26.96
+Alabama,1,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,18,3274,26.67
+Alabama,1,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,32,3101.34,25.44
+Alabama,1,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,14,3264,28.29
+Alabama,1,White,2106-3,8th grade or less,1,1809,3188.6,28.16
+Alabama,1,White,2106-3,9th through 12th grade with no diploma,2,4195,3161.08,24.1
+Alabama,1,White,2106-3,High school graduate or GED completed,3,10530,3242.76,25.46
+Alabama,1,White,2106-3,"Some college credit, but not a degree",4,7872,3285.97,26.97
+Alabama,1,White,2106-3,"Associate degree (AA, AS)",5,3355,3326.46,28.84
+Alabama,1,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,7153,3356.79,30.26
+Alabama,1,White,2106-3,"Master's degree (MA, MS)",7,3001,3362.35,31.89
+Alabama,1,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,787,3348.53,32.66
+Alabama,1,White,2106-3,nown/Not on certificate,,76,3168.45,27.45
+Alabama,1,More than one race,M,8th grade or less,1,15,3126.4,22.2
+Alabama,1,More than one race,M,9th through 12th grade with no diploma,2,109,3031.3,20.66
+Alabama,1,More than one race,M,High school graduate or GED completed,3,290,3212.29,23.72
+Alabama,1,More than one race,M,"Some college credit, but not a degree",4,251,3273.29,26.59
+Alabama,1,More than one race,M,"Associate degree (AA, AS)",5,58,3115.21,27.79
+Alabama,1,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,105,3312.42,29.93
+Alabama,1,More than one race,M,"Master's degree (MA, MS)",7,35,3198.6,32.03
+Alabama,1,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,11,3354.82,33.55
+Alaska,2,American Indian or Alaska Native,1002-5,8th grade or less,1,23,3014.26,27.04
+Alaska,2,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,469,3348.79,24.57
+Alaska,2,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,1113,3428.97,26.27
+Alaska,2,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,418,3484.62,28.04
+Alaska,2,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,68,3691.49,29.88
+Alaska,2,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,57,3570.16,32.81
+Alaska,2,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,18,3495.83,34.78
+Alaska,2,American Indian or Alaska Native,1002-5,nown/Not on certificate,,26,3508.31,26.88
+Alaska,2,Asian,A,9th through 12th grade with no diploma,2,59,3165.39,25.36
+Alaska,2,Asian,A,High school graduate or GED completed,3,200,3144.01,26.75
+Alaska,2,Asian,A,"Some college credit, but not a degree",4,173,3209.49,28.17
+Alaska,2,Asian,A,"Associate degree (AA, AS)",5,63,3127.76,30.62
+Alaska,2,Asian,A,"Bachelor's degree (BA, AB, BS)",6,139,3209.66,31.5
+Alaska,2,Asian,A,"Master's degree (MA, MS)",7,32,3283.59,33.09
+Alaska,2,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,11,3275,32.91
+Alaska,2,Asian,A,nown/Not on certificate,,45,3410.78,31.69
+Alaska,2,Black or African American,2054-5,9th through 12th grade with no diploma,2,22,3012.27,24.23
+Alaska,2,Black or African American,2054-5,High school graduate or GED completed,3,93,3002.39,25.2
+Alaska,2,Black or African American,2054-5,"Some college credit, but not a degree",4,111,3154.23,27.12
+Alaska,2,Black or African American,2054-5,"Associate degree (AA, AS)",5,45,3013.02,30.78
+Alaska,2,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,42,2914.5,29
+Alaska,2,Black or African American,2054-5,"Master's degree (MA, MS)",7,25,3129.88,32.48
+Alaska,2,Black or African American,2054-5,nown/Not on certificate,,12,3439.17,30.67
+Alaska,2,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,18,3601.67,23
+Alaska,2,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,160,3417.28,25.92
+Alaska,2,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,73,3581.77,27.86
+Alaska,2,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,26,3403.5,28.38
+Alaska,2,White,2106-3,8th grade or less,1,36,3414.86,28.39
+Alaska,2,White,2106-3,9th through 12th grade with no diploma,2,345,3312.01,24.55
+Alaska,2,White,2106-3,High school graduate or GED completed,3,1400,3396.58,26.14
+Alaska,2,White,2106-3,"Some college credit, but not a degree",4,1759,3447.89,27.9
+Alaska,2,White,2106-3,"Associate degree (AA, AS)",5,624,3457.41,29.43
+Alaska,2,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1478,3448.82,30.86
+Alaska,2,White,2106-3,"Master's degree (MA, MS)",7,603,3441.32,32.96
+Alaska,2,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,156,3412.62,33.99
+Alaska,2,White,2106-3,nown/Not on certificate,,66,3322.45,29.11
+Alaska,2,More than one race,M,9th through 12th grade with no diploma,2,137,3318.67,23
+Alaska,2,More than one race,M,High school graduate or GED completed,3,380,3387.72,25.94
+Alaska,2,More than one race,M,"Some college credit, but not a degree",4,377,3422.48,27.62
+Alaska,2,More than one race,M,"Associate degree (AA, AS)",5,80,3452.86,28.66
+Alaska,2,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,125,3355.35,31.58
+Alaska,2,More than one race,M,"Master's degree (MA, MS)",7,38,3339.29,32.92
+Alaska,2,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,15,3500.47,33.93
+Arizona,4,American Indian or Alaska Native,1002-5,8th grade or less,1,95,3234.31,26.4
+Arizona,4,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,1220,3276.25,24.51
+Arizona,4,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,1692,3304.05,26.16
+Arizona,4,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,1429,3351.8,27.94
+Arizona,4,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,352,3352.93,30.22
+Arizona,4,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,188,3362.62,31.94
+Arizona,4,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,64,3388.05,33.77
+Arizona,4,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,11,3307.64,34.36
+Arizona,4,American Indian or Alaska Native,1002-5,nown/Not on certificate,,24,3233.62,26.17
+Arizona,4,Asian,A,8th grade or less,1,99,3188.26,31.31
+Arizona,4,Asian,A,9th through 12th grade with no diploma,2,147,3094.56,28.31
+Arizona,4,Asian,A,High school graduate or GED completed,3,340,3143.87,28.35
+Arizona,4,Asian,A,"Some college credit, but not a degree",4,336,3240.53,29.05
+Arizona,4,Asian,A,"Associate degree (AA, AS)",5,201,3208.54,31.71
+Arizona,4,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1140,3126.97,31.44
+Arizona,4,Asian,A,"Master's degree (MA, MS)",7,635,3118.4,32.02
+Arizona,4,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,236,3149.24,33.4
+Arizona,4,Asian,A,nown/Not on certificate,,29,3053.59,29.34
+Arizona,4,Black or African American,2054-5,8th grade or less,1,191,3177.37,30.43
+Arizona,4,Black or African American,2054-5,9th through 12th grade with no diploma,2,636,3101.66,24.01
+Arizona,4,Black or African American,2054-5,High school graduate or GED completed,3,1312,3092.41,25.82
+Arizona,4,Black or African American,2054-5,"Some college credit, but not a degree",4,1281,3099.87,27.38
+Arizona,4,Black or African American,2054-5,"Associate degree (AA, AS)",5,350,3109.96,29.84
+Arizona,4,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,470,3196.85,31.22
+Arizona,4,Black or African American,2054-5,"Master's degree (MA, MS)",7,222,3215.67,32.57
+Arizona,4,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,53,3077,33.26
+Arizona,4,Black or African American,2054-5,nown/Not on certificate,,53,2915.81,27.87
+Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,36,3198.5,25.61
+Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,98,3230.54,27.61
+Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,69,3237.74,28.26
+Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,13,3184.54,27.15
+Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,14,3528.71,31.14
+Arizona,4,White,2106-3,8th grade or less,1,2337,3272.83,29.65
+Arizona,4,White,2106-3,9th through 12th grade with no diploma,2,9996,3231.86,24.91
+Arizona,4,White,2106-3,High school graduate or GED completed,3,17290,3274.76,26.24
+Arizona,4,White,2106-3,"Some college credit, but not a degree",4,16285,3312.46,27.63
+Arizona,4,White,2106-3,"Associate degree (AA, AS)",5,6057,3312.63,29.31
+Arizona,4,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,11693,3362.08,31.04
+Arizona,4,White,2106-3,"Master's degree (MA, MS)",7,3947,3346.92,32.83
+Arizona,4,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1197,3316.57,33.64
+Arizona,4,White,2106-3,nown/Not on certificate,,439,3209.76,27.95
+Arizona,4,More than one race,M,8th grade or less,1,23,3298.57,23.61
+Arizona,4,More than one race,M,9th through 12th grade with no diploma,2,317,3260.4,22.54
+Arizona,4,More than one race,M,High school graduate or GED completed,3,559,3217.25,24.85
+Arizona,4,More than one race,M,"Some college credit, but not a degree",4,685,3276.9,27.09
+Arizona,4,More than one race,M,"Associate degree (AA, AS)",5,200,3321.29,29.52
+Arizona,4,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,294,3242.34,31.09
+Arizona,4,More than one race,M,"Master's degree (MA, MS)",7,111,3249.86,32.95
+Arizona,4,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,35,3258.66,32.86
+Arkansas,5,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,44,3291,23.95
+Arkansas,5,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,84,3280.18,25.05
+Arkansas,5,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,75,3328.03,26.63
+Arkansas,5,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,23,3510.39,28.96
+Arkansas,5,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,20,3561.85,29.4
+Arkansas,5,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,16,3557.56,30.81
+Arkansas,5,Asian,A,8th grade or less,1,31,3312.87,30.48
+Arkansas,5,Asian,A,9th through 12th grade with no diploma,2,53,3143.4,28.09
+Arkansas,5,Asian,A,High school graduate or GED completed,3,154,3219.86,28.65
+Arkansas,5,Asian,A,"Some college credit, but not a degree",4,106,3283.74,28.01
+Arkansas,5,Asian,A,"Associate degree (AA, AS)",5,44,3316.39,31.05
+Arkansas,5,Asian,A,"Bachelor's degree (BA, AB, BS)",6,262,3171.65,30.62
+Arkansas,5,Asian,A,"Master's degree (MA, MS)",7,154,3207.73,31.36
+Arkansas,5,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,58,2982.09,32.79
+Arkansas,5,Black or African American,2054-5,8th grade or less,1,95,3170.39,28.23
+Arkansas,5,Black or African American,2054-5,9th through 12th grade with no diploma,2,1067,2997.41,23.02
+Arkansas,5,Black or African American,2054-5,High school graduate or GED completed,3,2974,2988.05,24.76
+Arkansas,5,Black or African American,2054-5,"Some college credit, but not a degree",4,2060,3056.41,26.03
+Arkansas,5,Black or African American,2054-5,"Associate degree (AA, AS)",5,431,3099.03,28.84
+Arkansas,5,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,570,3111.87,29.72
+Arkansas,5,Black or African American,2054-5,"Master's degree (MA, MS)",7,166,3159.87,32.41
+Arkansas,5,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,29,3078.97,33.14
+Arkansas,5,Black or African American,2054-5,nown/Not on certificate,,70,2785.91,25.26
+Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,36,3306.36,28.97
+Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,179,3170.46,26.88
+Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,166,3101.64,26.08
+Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,66,3225.26,26.62
+Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,nown/Not on certificate,,10,3135.8,24.3
+Arkansas,5,White,2106-3,8th grade or less,1,755,3286.05,29.61
+Arkansas,5,White,2106-3,9th through 12th grade with no diploma,2,3293,3218.23,24.01
+Arkansas,5,White,2106-3,High school graduate or GED completed,3,8823,3254.98,25.17
+Arkansas,5,White,2106-3,"Some college credit, but not a degree",4,6664,3318.69,26.65
+Arkansas,5,White,2106-3,"Associate degree (AA, AS)",5,2267,3341.14,28.26
+Arkansas,5,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,4600,3388.7,29.9
+Arkansas,5,White,2106-3,"Master's degree (MA, MS)",7,1601,3415.17,31.29
+Arkansas,5,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,436,3396.59,32.48
+Arkansas,5,White,2106-3,nown/Not on certificate,,144,3099.54,27.94
+Arkansas,5,More than one race,M,9th through 12th grade with no diploma,2,88,3053.38,22.14
+Arkansas,5,More than one race,M,High school graduate or GED completed,3,193,3164.39,23.5
+Arkansas,5,More than one race,M,"Some college credit, but not a degree",4,193,3287.49,24.85
+Arkansas,5,More than one race,M,"Associate degree (AA, AS)",5,37,3431.32,29.03
+Arkansas,5,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,74,3304.41,29.93
+Arkansas,5,More than one race,M,"Master's degree (MA, MS)",7,21,3318.14,30.57
+California,6,American Indian or Alaska Native,1002-5,8th grade or less,1,72,3286.17,28.03
+California,6,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,377,3269.3,25.28
+California,6,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,781,3310.37,26.3
+California,6,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,607,3345.28,28.51
+California,6,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,154,3359.16,30.9
+California,6,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,152,3360.62,32.11
+California,6,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,61,3321.92,34
+California,6,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,18,3343.33,34.06
+California,6,American Indian or Alaska Native,1002-5,nown/Not on certificate,,114,3235.81,29.04
+California,6,Asian,A,8th grade or less,1,869,3242.66,31.36
+California,6,Asian,A,9th through 12th grade with no diploma,2,1408,3180.09,28.9
+California,6,Asian,A,High school graduate or GED completed,3,8250,3189.93,29.96
+California,6,Asian,A,"Some college credit, but not a degree",4,8994,3175.98,30.64
+California,6,Asian,A,"Associate degree (AA, AS)",5,5510,3199.89,31.99
+California,6,Asian,A,"Bachelor's degree (BA, AB, BS)",6,28540,3193.65,32.63
+California,6,Asian,A,"Master's degree (MA, MS)",7,14814,3185.67,32.97
+California,6,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,4929,3174.14,34.67
+California,6,Asian,A,nown/Not on certificate,,5369,3196.11,32.1
+California,6,Black or African American,2054-5,8th grade or less,1,318,3241.71,29.74
+California,6,Black or African American,2054-5,9th through 12th grade with no diploma,2,2843,3058.27,25.01
+California,6,Black or African American,2054-5,High school graduate or GED completed,3,7991,3114.74,26.54
+California,6,Black or African American,2054-5,"Some college credit, but not a degree",4,7483,3143.89,28.23
+California,6,Black or African American,2054-5,"Associate degree (AA, AS)",5,1694,3170.06,30.56
+California,6,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,2977,3202.89,32.01
+California,6,Black or African American,2054-5,"Master's degree (MA, MS)",7,1382,3211.64,33.86
+California,6,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,349,3257.37,35
+California,6,Black or African American,2054-5,nown/Not on certificate,,1429,3164.44,29.55
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,23,3407.35,31
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,123,3353.52,26.08
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,811,3442.05,27.71
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,562,3380.74,28.75
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,158,3420.87,31.32
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,218,3318.23,32.41
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,"Master's degree (MA, MS)",7,43,3446.67,33.07
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,13,3114.38,35.15
+California,6,Native Hawaiian or Other Pacific Islander,NHOPI,nown/Not on certificate,,150,3382.91,30.44
+California,6,White,2106-3,8th grade or less,1,18881,3304.09,31.42
+California,6,White,2106-3,9th through 12th grade with no diploma,2,42013,3281.56,26.77
+California,6,White,2106-3,High school graduate or GED completed,3,95429,3308.6,26.93
+California,6,White,2106-3,"Some college credit, but not a degree",4,73885,3324.81,28.21
+California,6,White,2106-3,"Associate degree (AA, AS)",5,22829,3346.01,30.06
+California,6,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,58939,3372.79,32.08
+California,6,White,2106-3,"Master's degree (MA, MS)",7,24108,3372.79,33.61
+California,6,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,7997,3335.7,34.59
+California,6,White,2106-3,nown/Not on certificate,,17940,3280.15,30.29
+California,6,More than one race,M,8th grade or less,1,63,3225.35,24.48
+California,6,More than one race,M,9th through 12th grade with no diploma,2,1255,3173.32,23.43
+California,6,More than one race,M,High school graduate or GED completed,3,4140,3269.21,25.72
+California,6,More than one race,M,"Some college credit, but not a degree",4,4967,3285.8,27.95
+California,6,More than one race,M,"Associate degree (AA, AS)",5,1450,3276.19,30.28
+California,6,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,3240,3304.53,32.17
+California,6,More than one race,M,"Master's degree (MA, MS)",7,1272,3305.7,33.7
+California,6,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,477,3328.83,34.59
+California,6,More than one race,M,nown/Not on certificate,,356,3276.53,27.86
+Colorado,8,American Indian or Alaska Native,1002-5,8th grade or less,1,26,2964.62,26.92
+Colorado,8,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,115,3189.99,24.2
+Colorado,8,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,209,3209.08,25.95
+Colorado,8,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,205,3246.87,27.79
+Colorado,8,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,65,3204.86,28.8
+Colorado,8,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,49,3250.63,30.76
+Colorado,8,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,17,3332.41,34.59
+Colorado,8,American Indian or Alaska Native,1002-5,nown/Not on certificate,,13,3052.58,29.69
+Colorado,8,Asian,A,8th grade or less,1,116,3111.88,29.55
+Colorado,8,Asian,A,9th through 12th grade with no diploma,2,176,3095.75,27.1
+Colorado,8,Asian,A,High school graduate or GED completed,3,382,3075.99,29.05
+Colorado,8,Asian,A,"Some college credit, but not a degree",4,397,3031.93,29.6
+Colorado,8,Asian,A,"Associate degree (AA, AS)",5,185,3074.97,32.01
+Colorado,8,Asian,A,"Bachelor's degree (BA, AB, BS)",6,856,3106.57,31.88
+Colorado,8,Asian,A,"Master's degree (MA, MS)",7,523,3056.45,32.63
+Colorado,8,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,190,3133.65,34.23
+Colorado,8,Asian,A,nown/Not on certificate,,55,3010.58,31.56
+Colorado,8,Black or African American,2054-5,8th grade or less,1,168,3312.55,30.39
+Colorado,8,Black or African American,2054-5,9th through 12th grade with no diploma,2,378,3020.6,25.6
+Colorado,8,Black or African American,2054-5,High school graduate or GED completed,3,1064,3043.72,26.81
+Colorado,8,Black or African American,2054-5,"Some college credit, but not a degree",4,1004,3036.62,27.18
+Colorado,8,Black or African American,2054-5,"Associate degree (AA, AS)",5,323,3002.55,30.03
+Colorado,8,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,438,3140.79,31.05
+Colorado,8,Black or African American,2054-5,"Master's degree (MA, MS)",7,154,3115.53,33.28
+Colorado,8,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,34,3031.15,33.41
+Colorado,8,Black or African American,2054-5,nown/Not on certificate,,75,2947.01,30.08
+Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,25,3019.64,26.2
+Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,68,3175.49,26.34
+Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,55,3149.69,28.75
+Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,12,3342.08,29.08
+Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,14,2724.79,28.14
+Colorado,8,White,2106-3,8th grade or less,1,1307,3216.72,30.83
+Colorado,8,White,2106-3,9th through 12th grade with no diploma,2,5208,3146.4,25.03
+Colorado,8,White,2106-3,High school graduate or GED completed,3,11104,3173.68,26.26
+Colorado,8,White,2106-3,"Some college credit, but not a degree",4,11931,3209.86,27.89
+Colorado,8,White,2106-3,"Associate degree (AA, AS)",5,4639,3218.73,29.69
+Colorado,8,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,14708,3260.26,31.66
+Colorado,8,White,2106-3,"Master's degree (MA, MS)",7,6136,3249.57,33.3
+Colorado,8,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1737,3209.37,34.14
+Colorado,8,White,2106-3,nown/Not on certificate,,597,3140.56,29.48
+Colorado,8,More than one race,M,8th grade or less,1,22,3016.09,26.41
+Colorado,8,More than one race,M,9th through 12th grade with no diploma,2,180,3042.53,22.55
+Colorado,8,More than one race,M,High school graduate or GED completed,3,381,3081.13,25.02
+Colorado,8,More than one race,M,"Some college credit, but not a degree",4,544,3118.59,26.9
+Colorado,8,More than one race,M,"Associate degree (AA, AS)",5,154,3190.16,30.03
+Colorado,8,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,361,3235.45,31.51
+Colorado,8,More than one race,M,"Master's degree (MA, MS)",7,140,3199.09,33.19
+Colorado,8,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,43,3297.47,34.35
+Connecticut,9,American Indian or Alaska Native,1002-5,8th grade or less,1,12,3096.17,30.33
+Connecticut,9,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,35,3212.66,25.14
+Connecticut,9,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,45,3285.02,27.67
+Connecticut,9,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,21,3077.29,28.95
+Connecticut,9,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,11,3347.27,27
+Connecticut,9,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,12,3215.17,32.58
+Connecticut,9,Asian,A,8th grade or less,1,50,3284.66,30.48
+Connecticut,9,Asian,A,9th through 12th grade with no diploma,2,141,3298.94,29.33
+Connecticut,9,Asian,A,High school graduate or GED completed,3,237,3169.32,29.65
+Connecticut,9,Asian,A,"Some college credit, but not a degree",4,214,3153.75,29.21
+Connecticut,9,Asian,A,"Associate degree (AA, AS)",5,138,3159.36,29.82
+Connecticut,9,Asian,A,"Bachelor's degree (BA, AB, BS)",6,953,3182.71,31.59
+Connecticut,9,Asian,A,"Master's degree (MA, MS)",7,747,3133.53,32.11
+Connecticut,9,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,271,3194.83,33.79
+Connecticut,9,Black or African American,2054-5,8th grade or less,1,78,3229.46,30.12
+Connecticut,9,Black or African American,2054-5,9th through 12th grade with no diploma,2,550,3083.46,26.16
+Connecticut,9,Black or African American,2054-5,High school graduate or GED completed,3,1571,3121.37,27.47
+Connecticut,9,Black or African American,2054-5,"Some college credit, but not a degree",4,1496,3156.27,28.23
+Connecticut,9,Black or African American,2054-5,"Associate degree (AA, AS)",5,579,3176.06,30.56
+Connecticut,9,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,671,3176.19,31.65
+Connecticut,9,Black or African American,2054-5,"Master's degree (MA, MS)",7,315,3197.64,33.07
+Connecticut,9,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,81,3144.91,34.12
+Connecticut,9,Black or African American,2054-5,nown/Not on certificate,,14,2740.5,27.71
+Connecticut,9,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,10,3433.1,27.3
+Connecticut,9,White,2106-3,8th grade or less,1,655,3297.35,29.95
+Connecticut,9,White,2106-3,9th through 12th grade with no diploma,2,1985,3220.9,26.03
+Connecticut,9,White,2106-3,High school graduate or GED completed,3,4634,3268.81,27.62
+Connecticut,9,White,2106-3,"Some college credit, but not a degree",4,4460,3313.64,28.9
+Connecticut,9,White,2106-3,"Associate degree (AA, AS)",5,2375,3352.08,30.58
+Connecticut,9,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,6682,3372.63,32.25
+Connecticut,9,White,2106-3,"Master's degree (MA, MS)",7,4973,3378.84,33.21
+Connecticut,9,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1045,3344.72,34.34
+Connecticut,9,White,2106-3,nown/Not on certificate,,88,3046.6,31.76
+Connecticut,9,More than one race,M,8th grade or less,1,14,3272.21,27
+Connecticut,9,More than one race,M,9th through 12th grade with no diploma,2,93,3191.68,24.6
+Connecticut,9,More than one race,M,High school graduate or GED completed,3,191,3176.8,25.83
+Connecticut,9,More than one race,M,"Some college credit, but not a degree",4,225,3310.2,27.3
+Connecticut,9,More than one race,M,"Associate degree (AA, AS)",5,84,3291.1,29.4
+Connecticut,9,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,142,3376.75,31.43
+Connecticut,9,More than one race,M,"Master's degree (MA, MS)",7,70,3203.19,33.76
+Connecticut,9,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,17,3207.29,35
+Delaware,10,Asian,A,9th through 12th grade with no diploma,2,23,3388.78,27.17
+Delaware,10,Asian,A,High school graduate or GED completed,3,64,3197.58,29.2
+Delaware,10,Asian,A,"Some college credit, but not a degree",4,38,3176.79,29.79
+Delaware,10,Asian,A,"Associate degree (AA, AS)",5,33,3234.94,30
+Delaware,10,Asian,A,"Bachelor's degree (BA, AB, BS)",6,239,3217.59,30.94
+Delaware,10,Asian,A,"Master's degree (MA, MS)",7,203,3137.34,31.13
+Delaware,10,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,52,3188.92,34.48
+Delaware,10,Black or African American,2054-5,8th grade or less,1,71,3137.17,28.25
+Delaware,10,Black or African American,2054-5,9th through 12th grade with no diploma,2,394,3055.11,24.87
+Delaware,10,Black or African American,2054-5,High school graduate or GED completed,3,1197,3074.53,26.25
+Delaware,10,Black or African American,2054-5,"Some college credit, but not a degree",4,693,3105.93,27.73
+Delaware,10,Black or African American,2054-5,"Associate degree (AA, AS)",5,154,3161.74,30.34
+Delaware,10,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,334,3170.61,30.91
+Delaware,10,Black or African American,2054-5,"Master's degree (MA, MS)",7,165,3191.85,32.78
+Delaware,10,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,42,3090.12,35.21
+Delaware,10,Black or African American,2054-5,nown/Not on certificate,,25,3264.6,29.44
+Delaware,10,White,2106-3,8th grade or less,1,484,3263.05,29.14
+Delaware,10,White,2106-3,9th through 12th grade with no diploma,2,621,3190.11,25.2
+Delaware,10,White,2106-3,High school graduate or GED completed,3,1604,3295.54,26.9
+Delaware,10,White,2106-3,"Some college credit, but not a degree",4,1275,3372.22,27.96
+Delaware,10,White,2106-3,"Associate degree (AA, AS)",5,519,3354.05,30.09
+Delaware,10,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1454,3431.96,31.33
+Delaware,10,White,2106-3,"Master's degree (MA, MS)",7,760,3408.75,32.58
+Delaware,10,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,195,3322.75,33.26
+Delaware,10,White,2106-3,nown/Not on certificate,,30,3067.67,27.07
+Delaware,10,More than one race,M,9th through 12th grade with no diploma,2,46,3135.76,21.96
+Delaware,10,More than one race,M,High school graduate or GED completed,3,84,3170.4,24.98
+Delaware,10,More than one race,M,"Some college credit, but not a degree",4,76,3305.5,25.83
+Delaware,10,More than one race,M,"Associate degree (AA, AS)",5,23,3296.35,31.52
+Delaware,10,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,29,2961.17,29.97
+District of Columbia,11,Asian,A,8th grade or less,1,17,3168.29,32.47
+District of Columbia,11,Asian,A,9th through 12th grade with no diploma,2,14,3243,29.14
+District of Columbia,11,Asian,A,High school graduate or GED completed,3,34,3284.21,30.29
+District of Columbia,11,Asian,A,"Some college credit, but not a degree",4,19,3081.79,30.16
+District of Columbia,11,Asian,A,"Associate degree (AA, AS)",5,11,3301.82,31.91
+District of Columbia,11,Asian,A,"Bachelor's degree (BA, AB, BS)",6,101,3214.21,32.69
+District of Columbia,11,Asian,A,"Master's degree (MA, MS)",7,163,3136.03,34.6
+District of Columbia,11,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,133,3258.94,35.24
+District of Columbia,11,Black or African American,2054-5,8th grade or less,1,199,3193.52,28.86
+District of Columbia,11,Black or African American,2054-5,9th through 12th grade with no diploma,2,856,3041.2,24.96
+District of Columbia,11,Black or African American,2054-5,High school graduate or GED completed,3,2015,3086.18,26.59
+District of Columbia,11,Black or African American,2054-5,"Some college credit, but not a degree",4,1238,3118.65,27.6
+District of Columbia,11,Black or African American,2054-5,"Associate degree (AA, AS)",5,208,3233.59,30.75
+District of Columbia,11,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,545,3207.06,30.94
+District of Columbia,11,Black or African American,2054-5,"Master's degree (MA, MS)",7,267,3258.67,33.62
+District of Columbia,11,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,107,3195.15,35.39
+District of Columbia,11,Black or African American,2054-5,nown/Not on certificate,,45,2883.36,29.04
+District of Columbia,11,White,2106-3,8th grade or less,1,82,3240.26,29.89
+District of Columbia,11,White,2106-3,9th through 12th grade with no diploma,2,103,3223.29,26.73
+District of Columbia,11,White,2106-3,High school graduate or GED completed,3,137,3110.44,27.67
+District of Columbia,11,White,2106-3,"Some college credit, but not a degree",4,111,3359.14,28.93
+District of Columbia,11,White,2106-3,"Associate degree (AA, AS)",5,44,3305.41,30.75
+District of Columbia,11,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,986,3347.78,33.14
+District of Columbia,11,White,2106-3,"Master's degree (MA, MS)",7,1388,3347.57,34.53
+District of Columbia,11,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,789,3386.42,34.87
+District of Columbia,11,White,2106-3,nown/Not on certificate,,17,3218.35,33.35
+District of Columbia,11,More than one race,M,High school graduate or GED completed,3,22,3173.91,27.41
+District of Columbia,11,More than one race,M,"Some college credit, but not a degree",4,38,3156.03,28
+District of Columbia,11,More than one race,M,"Associate degree (AA, AS)",5,11,2827.55,30.09
+District of Columbia,11,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,35,3321.09,33.26
+District of Columbia,11,More than one race,M,"Master's degree (MA, MS)",7,44,3318.93,34.2
+District of Columbia,11,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,33,3348.61,35.45
+Florida,12,American Indian or Alaska Native,1002-5,8th grade or less,1,18,3357.5,25.72
+Florida,12,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,40,3341.62,26.25
+Florida,12,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,121,3275.13,26.02
+Florida,12,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,64,3347.45,28.66
+Florida,12,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,31,3204.81,29.97
+Florida,12,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,33,3294.42,29.67
+Florida,12,Asian,A,8th grade or less,1,244,3254.81,30.37
+Florida,12,Asian,A,9th through 12th grade with no diploma,2,317,3162.77,27.83
+Florida,12,Asian,A,High school graduate or GED completed,3,1460,3184.71,29.27
+Florida,12,Asian,A,"Some college credit, but not a degree",4,969,3199.1,30.25
+Florida,12,Asian,A,"Associate degree (AA, AS)",5,680,3152.88,31.07
+Florida,12,Asian,A,"Bachelor's degree (BA, AB, BS)",6,2483,3189.61,31.91
+Florida,12,Asian,A,"Master's degree (MA, MS)",7,1350,3190.95,32.28
+Florida,12,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,480,3145.26,33.88
+Florida,12,Asian,A,nown/Not on certificate,,103,3173.88,31.25
+Florida,12,Black or African American,2054-5,8th grade or less,1,1457,3158.88,29.25
+Florida,12,Black or African American,2054-5,9th through 12th grade with no diploma,2,7326,3025.08,25.19
+Florida,12,Black or African American,2054-5,High school graduate or GED completed,3,22430,3060.67,26.78
+Florida,12,Black or African American,2054-5,"Some college credit, but not a degree",4,11748,3096.81,27.79
+Florida,12,Black or African American,2054-5,"Associate degree (AA, AS)",5,5171,3134.59,29.82
+Florida,12,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,5358,3149.62,31.16
+Florida,12,Black or African American,2054-5,"Master's degree (MA, MS)",7,2018,3151.26,33.12
+Florida,12,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,455,3159.54,34.02
+Florida,12,Black or African American,2054-5,nown/Not on certificate,,631,2975.46,28.81
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,20,3403.7,31
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,61,3250.92,27.9
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,45,3289.61,29.16
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,20,3434.25,29.4
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,24,3084.46,31.58
+Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,"Master's degree (MA, MS)",7,11,3130.55,33
+Florida,12,White,2106-3,8th grade or less,1,4945,3259.02,28.47
+Florida,12,White,2106-3,9th through 12th grade with no diploma,2,12879,3197.17,24.85
+Florida,12,White,2106-3,High school graduate or GED completed,3,44646,3269.85,27.11
+Florida,12,White,2106-3,"Some college credit, but not a degree",4,29042,3315.08,28.49
+Florida,12,White,2106-3,"Associate degree (AA, AS)",5,16411,3324.31,29.89
+Florida,12,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,31586,3349.47,31.51
+Florida,12,White,2106-3,"Master's degree (MA, MS)",7,12338,3338.45,32.87
+Florida,12,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,3539,3318.01,33.51
+Florida,12,White,2106-3,nown/Not on certificate,,1620,3204.78,29.82
+Florida,12,More than one race,M,8th grade or less,1,27,3156.48,22.52
+Florida,12,More than one race,M,9th through 12th grade with no diploma,2,280,3094.78,21.67
+Florida,12,More than one race,M,High school graduate or GED completed,3,809,3194.05,24.46
+Florida,12,More than one race,M,"Some college credit, but not a degree",4,703,3233.9,26.97
+Florida,12,More than one race,M,"Associate degree (AA, AS)",5,286,3356.9,29.16
+Florida,12,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,471,3311.53,31.03
+Florida,12,More than one race,M,"Master's degree (MA, MS)",7,171,3205.44,32.75
+Florida,12,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,62,3302.02,33.11
+Florida,12,More than one race,M,nown/Not on certificate,,19,3550.32,27.84
+Georgia,13,American Indian or Alaska Native,1002-5,8th grade or less,1,12,3366.58,28.67
+Georgia,13,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,20,3170,25.6
+Georgia,13,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,79,3379.53,26.48
+Georgia,13,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,53,3442.42,27.85
+Georgia,13,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,15,3313.07,31.33
+Georgia,13,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,27,3272.89,30.07
+Georgia,13,Asian,A,8th grade or less,1,309,3284.4,29.42
+Georgia,13,Asian,A,9th through 12th grade with no diploma,2,366,3205.91,27.82
+Georgia,13,Asian,A,High school graduate or GED completed,3,1014,3159.28,29.24
+Georgia,13,Asian,A,"Some college credit, but not a degree",4,504,3196.78,30.05
+Georgia,13,Asian,A,"Associate degree (AA, AS)",5,252,3157.65,31.78
+Georgia,13,Asian,A,"Bachelor's degree (BA, AB, BS)",6,2610,3171.41,31.63
+Georgia,13,Asian,A,"Master's degree (MA, MS)",7,997,3162.29,32.27
+Georgia,13,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,297,3151.63,33.82
+Georgia,13,Asian,A,nown/Not on certificate,,85,3155.86,30.28
+Georgia,13,Black or African American,2054-5,8th grade or less,1,1077,3187.19,27.62
+Georgia,13,Black or African American,2054-5,9th through 12th grade with no diploma,2,5763,2968.56,24.1
+Georgia,13,Black or African American,2054-5,High school graduate or GED completed,3,17031,3025.75,25.81
+Georgia,13,Black or African American,2054-5,"Some college credit, but not a degree",4,10835,3058.16,27.2
+Georgia,13,Black or African American,2054-5,"Associate degree (AA, AS)",5,3024,3090.73,29.54
+Georgia,13,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,6766,3133.07,31.11
+Georgia,13,Black or African American,2054-5,"Master's degree (MA, MS)",7,2393,3139.39,33.38
+Georgia,13,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,457,3150.82,34.29
+Georgia,13,Black or African American,2054-5,nown/Not on certificate,,419,3025.42,28.42
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,25,3416.6,28.44
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,26,3361.19,24.96
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,61,2937.8,27.15
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,38,3297.58,28.71
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,15,3493.07,28.33
+Georgia,13,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,12,3326.75,32.67
+Georgia,13,White,2106-3,8th grade or less,1,3433,3272.57,29.3
+Georgia,13,White,2106-3,9th through 12th grade with no diploma,2,7397,3197.91,24.48
+Georgia,13,White,2106-3,High school graduate or GED completed,3,19351,3267.27,26.13
+Georgia,13,White,2106-3,"Some college credit, but not a degree",4,12940,3322.68,27.61
+Georgia,13,White,2106-3,"Associate degree (AA, AS)",5,5198,3328.03,29.2
+Georgia,13,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,16863,3369.41,31.24
+Georgia,13,White,2106-3,"Master's degree (MA, MS)",7,5822,3378.05,32.5
+Georgia,13,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1346,3347.75,33.56
+Georgia,13,White,2106-3,nown/Not on certificate,,664,3233.3,28.73
+Georgia,13,More than one race,M,8th grade or less,1,38,3146.29,23.24
+Georgia,13,More than one race,M,9th through 12th grade with no diploma,2,261,3054.25,21.84
+Georgia,13,More than one race,M,High school graduate or GED completed,3,734,3161.6,24.31
+Georgia,13,More than one race,M,"Some college credit, but not a degree",4,613,3223.11,26.63
+Georgia,13,More than one race,M,"Associate degree (AA, AS)",5,162,3155.71,29.57
+Georgia,13,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,456,3248.91,30.83
+Georgia,13,More than one race,M,"Master's degree (MA, MS)",7,131,3271.96,32.64
+Georgia,13,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,33,3392,34.82
+Georgia,13,More than one race,M,nown/Not on certificate,,10,2933.2,29.2
+Hawaii,15,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,12,3394.75,31.58
+Hawaii,15,Asian,A,8th grade or less,1,17,2907.18,31.18
+Hawaii,15,Asian,A,9th through 12th grade with no diploma,2,574,3098.67,29.14
+Hawaii,15,Asian,A,High school graduate or GED completed,3,433,3091.15,29.19
+Hawaii,15,Asian,A,"Some college credit, but not a degree",4,704,3117.24,30.02
+Hawaii,15,Asian,A,"Associate degree (AA, AS)",5,776,3044.83,31.05
+Hawaii,15,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1524,3114.87,32.54
+Hawaii,15,Asian,A,"Master's degree (MA, MS)",7,520,3087.48,34.67
+Hawaii,15,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,67,3157.55,34.46
+Hawaii,15,Asian,A,nown/Not on certificate,,37,3090.51,31.32
+Hawaii,15,Black or African American,2054-5,High school graduate or GED completed,3,157,3135.66,25.41
+Hawaii,15,Black or African American,2054-5,"Some college credit, but not a degree",4,114,3186.02,27.18
+Hawaii,15,Black or African American,2054-5,"Associate degree (AA, AS)",5,63,3007.25,29.43
+Hawaii,15,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,82,2954.53,30.01
+Hawaii,15,Black or African American,2054-5,"Master's degree (MA, MS)",7,40,3192.32,33.83
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,89,3205.57,27.28
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,790,3198.34,26.33
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,348,3280.78,26.53
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,286,3264.64,28.33
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,119,3300.9,28.84
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,101,3466.26,30.72
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,"Master's degree (MA, MS)",7,13,3722,29.54
+Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,nown/Not on certificate,,21,3011.24,30.48
+Hawaii,15,White,2106-3,8th grade or less,1,22,3270.05,30.77
+Hawaii,15,White,2106-3,9th through 12th grade with no diploma,2,248,3241.19,26.68
+Hawaii,15,White,2106-3,High school graduate or GED completed,3,987,3356.22,26.17
+Hawaii,15,White,2106-3,"Some college credit, but not a degree",4,958,3361.74,28.01
+Hawaii,15,White,2106-3,"Associate degree (AA, AS)",5,537,3378.08,29.96
+Hawaii,15,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1267,3372.88,31.37
+Hawaii,15,White,2106-3,"Master's degree (MA, MS)",7,556,3335.4,33.81
+Hawaii,15,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,103,3361.49,34.8
+Hawaii,15,White,2106-3,nown/Not on certificate,,28,2989.59,27.96
+Hawaii,15,More than one race,M,8th grade or less,1,28,3169.14,24.61
+Hawaii,15,More than one race,M,9th through 12th grade with no diploma,2,1335,3146.95,25.94
+Hawaii,15,More than one race,M,High school graduate or GED completed,3,1524,3251.05,25.94
+Hawaii,15,More than one race,M,"Some college credit, but not a degree",4,1402,3270.95,27.87
+Hawaii,15,More than one race,M,"Associate degree (AA, AS)",5,802,3221.53,29.61
+Hawaii,15,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,915,3273.27,31.4
+Hawaii,15,More than one race,M,"Master's degree (MA, MS)",7,369,3234.26,33.66
+Hawaii,15,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,41,3386.93,34.02
+Hawaii,15,More than one race,M,nown/Not on certificate,,15,3163.4,27.13
+Idaho,16,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,64,3297.06,24.47
+Idaho,16,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,167,3246.02,26.28
+Idaho,16,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,82,3418.4,27.21
+Idaho,16,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,22,3510.36,29.45
+Idaho,16,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,14,3876,32.86
+Idaho,16,Asian,A,8th grade or less,1,20,3271.95,30.8
+Idaho,16,Asian,A,9th through 12th grade with no diploma,2,24,3161.62,27.54
+Idaho,16,Asian,A,High school graduate or GED completed,3,68,3160.71,28.76
+Idaho,16,Asian,A,"Some college credit, but not a degree",4,50,3358.4,29.02
+Idaho,16,Asian,A,"Associate degree (AA, AS)",5,27,3295.7,30.22
+Idaho,16,Asian,A,"Bachelor's degree (BA, AB, BS)",6,111,3178.44,30.04
+Idaho,16,Asian,A,"Master's degree (MA, MS)",7,64,3176.09,31.78
+Idaho,16,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,24,3069.17,33.92
+Idaho,16,Black or African American,2054-5,8th grade or less,1,45,3304.84,30.82
+Idaho,16,Black or African American,2054-5,9th through 12th grade with no diploma,2,35,3172.83,26.86
+Idaho,16,Black or African American,2054-5,High school graduate or GED completed,3,66,3167.67,26.14
+Idaho,16,Black or African American,2054-5,"Some college credit, but not a degree",4,44,3132.05,26.95
+Idaho,16,Black or African American,2054-5,"Associate degree (AA, AS)",5,21,3438.95,29.29
+Idaho,16,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,23,3558.3,30.22
+Idaho,16,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,13,3221.77,27.31
+Idaho,16,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,18,3387.44,25.22
+Idaho,16,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,16,3377.31,30.69
+Idaho,16,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,10,3298.4,26.1
+Idaho,16,White,2106-3,8th grade or less,1,455,3264.36,30.59
+Idaho,16,White,2106-3,9th through 12th grade with no diploma,2,1778,3176.72,24.06
+Idaho,16,White,2106-3,High school graduate or GED completed,3,5345,3254.29,25.98
+Idaho,16,White,2106-3,"Some college credit, but not a degree",4,5431,3314.05,27.35
+Idaho,16,White,2106-3,"Associate degree (AA, AS)",5,2228,3325.63,29.11
+Idaho,16,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,4472,3392.34,30.18
+Idaho,16,White,2106-3,"Master's degree (MA, MS)",7,949,3339.75,32.65
+Idaho,16,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,266,3377.05,33.17
+Idaho,16,White,2106-3,nown/Not on certificate,,89,3150.27,29.26
+Idaho,16,More than one race,M,9th through 12th grade with no diploma,2,49,3198.43,22.06
+Idaho,16,More than one race,M,High school graduate or GED completed,3,119,3180.76,24.35
+Idaho,16,More than one race,M,"Some college credit, but not a degree",4,138,3274.9,27.44
+Idaho,16,More than one race,M,"Associate degree (AA, AS)",5,21,3232.33,28.52
+Idaho,16,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,47,3382.66,29.94
+Idaho,16,More than one race,M,"Master's degree (MA, MS)",7,16,3289.88,32.81
+Illinois,17,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,23,3205.65,24.52
+Illinois,17,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,36,3395.17,27.36
+Illinois,17,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,43,3307.44,28.86
+Illinois,17,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,16,3331.19,29.94
+Illinois,17,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,16,3495.69,31.44
+Illinois,17,Asian,A,8th grade or less,1,171,3228.19,30.54
+Illinois,17,Asian,A,9th through 12th grade with no diploma,2,317,3157.78,28.13
+Illinois,17,Asian,A,High school graduate or GED completed,3,878,3171.31,29.35
+Illinois,17,Asian,A,"Some college credit, but not a degree",4,813,3182.89,29.44
+Illinois,17,Asian,A,"Associate degree (AA, AS)",5,503,3152.89,30.98
+Illinois,17,Asian,A,"Bachelor's degree (BA, AB, BS)",6,3929,3156.81,31.55
+Illinois,17,Asian,A,"Master's degree (MA, MS)",7,2610,3163.6,32.21
+Illinois,17,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,952,3136.97,33.8
+Illinois,17,Asian,A,nown/Not on certificate,,230,3213.98,30.65
+Illinois,17,Black or African American,2054-5,8th grade or less,1,309,3014.29,26.89
+Illinois,17,Black or African American,2054-5,9th through 12th grade with no diploma,2,3899,2968.76,23.68
+Illinois,17,Black or African American,2054-5,High school graduate or GED completed,3,8600,3035.47,25.29
+Illinois,17,Black or African American,2054-5,"Some college credit, but not a degree",4,7815,3072.21,26.79
+Illinois,17,Black or African American,2054-5,"Associate degree (AA, AS)",5,1765,3102.17,29.71
+Illinois,17,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,2483,3128.71,30.95
+Illinois,17,Black or African American,2054-5,"Master's degree (MA, MS)",7,1187,3172.24,33.11
+Illinois,17,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,269,3204.89,34.68
+Illinois,17,Black or African American,2054-5,nown/Not on certificate,,681,3050.93,28.63
+Illinois,17,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,18,3474.94,29.72
+Illinois,17,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,10,3236.1,33.8
+Illinois,17,White,2106-3,8th grade or less,1,3482,3289.51,30.96
+Illinois,17,White,2106-3,9th through 12th grade with no diploma,2,9375,3220.98,25.46
+Illinois,17,White,2106-3,High school graduate or GED completed,3,22953,3271.62,26.96
+Illinois,17,White,2106-3,"Some college credit, but not a degree",4,21206,3313.45,27.93
+Illinois,17,White,2106-3,"Associate degree (AA, AS)",5,9786,3356.22,29.83
+Illinois,17,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,27562,3384.2,31.53
+Illinois,17,White,2106-3,"Master's degree (MA, MS)",7,14833,3380.53,33.02
+Illinois,17,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,3370,3348.13,33.63
+Illinois,17,White,2106-3,nown/Not on certificate,,2143,3241.49,30.25
+Illinois,17,More than one race,M,8th grade or less,1,25,3251.48,26.84
+Illinois,17,More than one race,M,9th through 12th grade with no diploma,2,249,3069.36,21.59
+Illinois,17,More than one race,M,High school graduate or GED completed,3,449,3162.78,24.29
+Illinois,17,More than one race,M,"Some college credit, but not a degree",4,562,3260.82,26.62
+Illinois,17,More than one race,M,"Associate degree (AA, AS)",5,168,3234.9,29.82
+Illinois,17,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,404,3275.41,31.18
+Illinois,17,More than one race,M,"Master's degree (MA, MS)",7,198,3293.66,33.29
+Illinois,17,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,49,3176.78,34.41
+Illinois,17,More than one race,M,nown/Not on certificate,,14,3226.14,28.14
+Indiana,18,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,16,3277.44,24.5
+Indiana,18,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,42,3216.93,26.02
+Indiana,18,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,21,3489.48,28.33
+Indiana,18,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,10,3633.1,30
+Indiana,18,Asian,A,8th grade or less,1,294,3275.44,30.48
+Indiana,18,Asian,A,9th through 12th grade with no diploma,2,189,3186.63,26.99
+Indiana,18,Asian,A,High school graduate or GED completed,3,486,3245.48,28.81
+Indiana,18,Asian,A,"Some college credit, but not a degree",4,205,3203.83,29.49
+Indiana,18,Asian,A,"Associate degree (AA, AS)",5,100,3249.87,30.35
+Indiana,18,Asian,A,"Bachelor's degree (BA, AB, BS)",6,560,3170.37,31.31
+Indiana,18,Asian,A,"Master's degree (MA, MS)",7,474,3190.68,31.36
+Indiana,18,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,179,3266.05,34.42
+Indiana,18,Asian,A,nown/Not on certificate,,17,3174,28.71
+Indiana,18,Black or African American,2054-5,8th grade or less,1,115,3197.7,27.25
+Indiana,18,Black or African American,2054-5,9th through 12th grade with no diploma,2,1669,3015.25,23.72
+Indiana,18,Black or African American,2054-5,High school graduate or GED completed,3,3660,3063.07,25.24
+Indiana,18,Black or African American,2054-5,"Some college credit, but not a degree",4,2858,3106.35,26.86
+Indiana,18,Black or African American,2054-5,"Associate degree (AA, AS)",5,661,3081.16,29.81
+Indiana,18,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,830,3194.11,30.81
+Indiana,18,Black or African American,2054-5,"Master's degree (MA, MS)",7,316,3188.06,32.45
+Indiana,18,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,66,3345.03,35.26
+Indiana,18,Black or African American,2054-5,nown/Not on certificate,,27,2825.69,28.74
+Indiana,18,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,10,3186.7,22.9
+Indiana,18,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,23,3278.65,27.04
+Indiana,18,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,13,3471.54,27.46
+Indiana,18,White,2106-3,8th grade or less,1,3370,3368.65,28.79
+Indiana,18,White,2106-3,9th through 12th grade with no diploma,2,7020,3196.28,23.99
+Indiana,18,White,2106-3,High school graduate or GED completed,3,18155,3259,25.53
+Indiana,18,White,2106-3,"Some college credit, but not a degree",4,13573,3316.33,27.36
+Indiana,18,White,2106-3,"Associate degree (AA, AS)",5,6445,3332.91,29.34
+Indiana,18,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,14712,3387.99,30.5
+Indiana,18,White,2106-3,"Master's degree (MA, MS)",7,4259,3405.58,32.22
+Indiana,18,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1264,3366.76,33.01
+Indiana,18,White,2106-3,nown/Not on certificate,,90,3024.79,28.83
+Indiana,18,More than one race,M,8th grade or less,1,21,2977.19,23.62
+Indiana,18,More than one race,M,9th through 12th grade with no diploma,2,230,3039.39,21.01
+Indiana,18,More than one race,M,High school graduate or GED completed,3,398,3180.59,23.47
+Indiana,18,More than one race,M,"Some college credit, but not a degree",4,367,3215.66,25.47
+Indiana,18,More than one race,M,"Associate degree (AA, AS)",5,87,3207.82,27.61
+Indiana,18,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,151,3273.97,29.98
+Indiana,18,More than one race,M,"Master's degree (MA, MS)",7,50,3241.14,31.74
+Indiana,18,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,19,3212.74,32.63
+Iowa,19,American Indian or Alaska Native,1002-5,8th grade or less,1,12,3448.75,30.75
+Iowa,19,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,48,3325.04,24.48
+Iowa,19,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,79,3340.18,25.18
+Iowa,19,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,40,3448.07,27.8
+Iowa,19,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,15,3032.27,29.73
+Iowa,19,Asian,A,8th grade or less,1,128,3347.3,30.09
+Iowa,19,Asian,A,9th through 12th grade with no diploma,2,175,3193.93,27.34
+Iowa,19,Asian,A,High school graduate or GED completed,3,226,3277.72,27.91
+Iowa,19,Asian,A,"Some college credit, but not a degree",4,92,3176.89,28.63
+Iowa,19,Asian,A,"Associate degree (AA, AS)",5,64,3270.58,30.81
+Iowa,19,Asian,A,"Bachelor's degree (BA, AB, BS)",6,312,3200.08,30.57
+Iowa,19,Asian,A,"Master's degree (MA, MS)",7,214,3203.94,31
+Iowa,19,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,107,3181.5,33.86
+Iowa,19,Black or African American,2054-5,8th grade or less,1,171,3269.91,31.34
+Iowa,19,Black or African American,2054-5,9th through 12th grade with no diploma,2,445,3112.18,24.94
+Iowa,19,Black or African American,2054-5,High school graduate or GED completed,3,1016,3095.68,25.9
+Iowa,19,Black or African American,2054-5,"Some college credit, but not a degree",4,575,3161.77,26.92
+Iowa,19,Black or African American,2054-5,"Associate degree (AA, AS)",5,151,3110.6,29.71
+Iowa,19,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,166,3225.19,30.51
+Iowa,19,Black or African American,2054-5,"Master's degree (MA, MS)",7,38,3158.21,32.55
+Iowa,19,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,12,3128.5,31.75
+Iowa,19,Black or African American,2054-5,nown/Not on certificate,,11,2963.09,28.73
+Iowa,19,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,12,3108.25,29.67
+Iowa,19,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,42,3040.29,26.6
+Iowa,19,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,42,3194.05,27.36
+Iowa,19,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,18,3277.5,27.56
+Iowa,19,White,2106-3,8th grade or less,1,957,3407.51,29.99
+Iowa,19,White,2106-3,9th through 12th grade with no diploma,2,2302,3252.17,24.1
+Iowa,19,White,2106-3,High school graduate or GED completed,3,7871,3312.22,26.08
+Iowa,19,White,2106-3,"Some college credit, but not a degree",4,6085,3362.14,27.19
+Iowa,19,White,2106-3,"Associate degree (AA, AS)",5,4762,3397.17,29.19
+Iowa,19,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,8902,3449.11,30.3
+Iowa,19,White,2106-3,"Master's degree (MA, MS)",7,2726,3422.5,31.82
+Iowa,19,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,913,3379.28,32.35
+Iowa,19,White,2106-3,nown/Not on certificate,,58,3223.56,28.79
+Iowa,19,More than one race,M,8th grade or less,1,11,3524.55,25.64
+Iowa,19,More than one race,M,9th through 12th grade with no diploma,2,86,3206.58,21.66
+Iowa,19,More than one race,M,High school graduate or GED completed,3,213,3256.95,24.08
+Iowa,19,More than one race,M,"Some college credit, but not a degree",4,147,3229.81,25.37
+Iowa,19,More than one race,M,"Associate degree (AA, AS)",5,45,3289.84,29.62
+Iowa,19,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,62,3306.74,28.35
+Iowa,19,More than one race,M,"Master's degree (MA, MS)",7,17,3075.47,32.35
+Iowa,19,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,13,3240.31,34.54
+Kansas,20,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,26,3365.04,24.35
+Kansas,20,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,47,3412.15,25.11
+Kansas,20,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,68,3252.75,27
+Kansas,20,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,26,3562.65,28.96
+Kansas,20,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,27,3522.81,29.48
+Kansas,20,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,10,2855.9,32
+Kansas,20,Asian,A,8th grade or less,1,88,3198.98,30.12
+Kansas,20,Asian,A,9th through 12th grade with no diploma,2,89,3097.87,27.64
+Kansas,20,Asian,A,High school graduate or GED completed,3,212,3169.01,28.13
+Kansas,20,Asian,A,"Some college credit, but not a degree",4,147,3216.78,28.43
+Kansas,20,Asian,A,"Associate degree (AA, AS)",5,91,3147.51,30.6
+Kansas,20,Asian,A,"Bachelor's degree (BA, AB, BS)",6,372,3224.09,31.15
+Kansas,20,Asian,A,"Master's degree (MA, MS)",7,279,3187.81,31.46
+Kansas,20,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,97,3183.72,34.46
+Kansas,20,Black or African American,2054-5,8th grade or less,1,65,3222.06,28.46
+Kansas,20,Black or African American,2054-5,9th through 12th grade with no diploma,2,377,3032.39,23.68
+Kansas,20,Black or African American,2054-5,High school graduate or GED completed,3,995,3044.55,25.11
+Kansas,20,Black or African American,2054-5,"Some college credit, but not a degree",4,777,3077.84,26.86
+Kansas,20,Black or African American,2054-5,"Associate degree (AA, AS)",5,211,3141.83,29.52
+Kansas,20,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,238,3282.24,30.47
+Kansas,20,Black or African American,2054-5,"Master's degree (MA, MS)",7,102,3164.48,33.02
+Kansas,20,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,18,3225.5,32.22
+Kansas,20,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,18,3253.53,28.28
+Kansas,20,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,19,3261,28.26
+Kansas,20,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,16,3498.94,25.69
+Kansas,20,White,2106-3,8th grade or less,1,967,3288.33,29.33
+Kansas,20,White,2106-3,9th through 12th grade with no diploma,2,3005,3234.78,24.53
+Kansas,20,White,2106-3,High school graduate or GED completed,3,7125,3281.59,25.57
+Kansas,20,White,2106-3,"Some college credit, but not a degree",4,6898,3337.32,27.1
+Kansas,20,White,2106-3,"Associate degree (AA, AS)",5,3212,3363.09,28.82
+Kansas,20,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,7821,3403.68,30.53
+Kansas,20,White,2106-3,"Master's degree (MA, MS)",7,2903,3402.33,31.95
+Kansas,20,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,792,3359.28,32.7
+Kansas,20,White,2106-3,nown/Not on certificate,,93,3249.08,28.39
+Kansas,20,More than one race,M,9th through 12th grade with no diploma,2,112,3156.71,21.67
+Kansas,20,More than one race,M,High school graduate or GED completed,3,227,3144.74,24.17
+Kansas,20,More than one race,M,"Some college credit, but not a degree",4,245,3293,25.64
+Kansas,20,More than one race,M,"Associate degree (AA, AS)",5,64,3266.7,26.72
+Kansas,20,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,87,3437.74,29.78
+Kansas,20,More than one race,M,"Master's degree (MA, MS)",7,36,3448.08,31.97
+Kansas,20,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,12,3561.58,32.58
+Kentucky,21,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,23,3309.87,25.65
+Kentucky,21,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,21,3231.52,30.19
+Kentucky,21,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,10,3246.7,28.4
+Kentucky,21,Asian,A,8th grade or less,1,103,3198.27,29.35
+Kentucky,21,Asian,A,9th through 12th grade with no diploma,2,92,3291.67,28.49
+Kentucky,21,Asian,A,High school graduate or GED completed,3,229,3137.12,28.8
+Kentucky,21,Asian,A,"Some college credit, but not a degree",4,141,3212.41,28.63
+Kentucky,21,Asian,A,"Associate degree (AA, AS)",5,65,3180.09,31.6
+Kentucky,21,Asian,A,"Bachelor's degree (BA, AB, BS)",6,292,3117.8,31.37
+Kentucky,21,Asian,A,"Master's degree (MA, MS)",7,214,3158.66,31.89
+Kentucky,21,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,105,3191.13,33.41
+Kentucky,21,Black or African American,2054-5,8th grade or less,1,190,3201.87,29.74
+Kentucky,21,Black or African American,2054-5,9th through 12th grade with no diploma,2,735,2966.14,24.32
+Kentucky,21,Black or African American,2054-5,High school graduate or GED completed,3,1709,3047.67,24.92
+Kentucky,21,Black or African American,2054-5,"Some college credit, but not a degree",4,1562,3045.73,26.5
+Kentucky,21,Black or African American,2054-5,"Associate degree (AA, AS)",5,408,3000.33,29.6
+Kentucky,21,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,374,3150.66,30.43
+Kentucky,21,Black or African American,2054-5,"Master's degree (MA, MS)",7,151,3229.44,33.13
+Kentucky,21,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,53,3141.06,33.4
+Kentucky,21,Black or African American,2054-5,nown/Not on certificate,,46,3033.59,27.63
+Kentucky,21,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,10,3380.3,26.5
+Kentucky,21,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,17,3186.35,27.47
+Kentucky,21,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,32,3276.28,26.84
+Kentucky,21,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,21,3279.29,26.24
+Kentucky,21,White,2106-3,8th grade or less,1,1568,3326.79,28.21
+Kentucky,21,White,2106-3,9th through 12th grade with no diploma,2,4830,3143.86,23.7
+Kentucky,21,White,2106-3,High school graduate or GED completed,3,13159,3232.37,24.85
+Kentucky,21,White,2106-3,"Some college credit, but not a degree",4,10987,3276.3,26.71
+Kentucky,21,White,2106-3,"Associate degree (AA, AS)",5,4413,3339.65,28.88
+Kentucky,21,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,7785,3383.49,30.27
+Kentucky,21,White,2106-3,"Master's degree (MA, MS)",7,3895,3385.49,31.78
+Kentucky,21,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1045,3335.52,32.76
+Kentucky,21,White,2106-3,nown/Not on certificate,,210,3226.33,27.48
+Kentucky,21,More than one race,M,9th through 12th grade with no diploma,2,127,3084.99,22.1
+Kentucky,21,More than one race,M,High school graduate or GED completed,3,272,3128.17,23.01
+Kentucky,21,More than one race,M,"Some college credit, but not a degree",4,308,3169.85,24.98
+Kentucky,21,More than one race,M,"Associate degree (AA, AS)",5,65,3295.54,26.94
+Kentucky,21,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,88,3292.09,29.92
+Kentucky,21,More than one race,M,"Master's degree (MA, MS)",7,27,3506.33,32.93
+Kentucky,21,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,14,3549.29,33.14
+Louisiana,22,American Indian or Alaska Native,1002-5,8th grade or less,1,15,3056.6,28.13
+Louisiana,22,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,73,3249.92,25.44
+Louisiana,22,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,148,3194.36,25.93
+Louisiana,22,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,75,3210.33,26.88
+Louisiana,22,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,19,3115.26,26.84
+Louisiana,22,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,29,3320.24,29.66
+Louisiana,22,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,12,3249.92,34.08
+Louisiana,22,Asian,A,8th grade or less,1,67,3285.54,30.52
+Louisiana,22,Asian,A,9th through 12th grade with no diploma,2,95,3213.47,28.27
+Louisiana,22,Asian,A,High school graduate or GED completed,3,351,3130.77,29.67
+Louisiana,22,Asian,A,"Some college credit, but not a degree",4,174,3096.7,29.83
+Louisiana,22,Asian,A,"Associate degree (AA, AS)",5,92,3179.11,30.18
+Louisiana,22,Asian,A,"Bachelor's degree (BA, AB, BS)",6,361,3140.26,31.33
+Louisiana,22,Asian,A,"Master's degree (MA, MS)",7,189,3177.73,31.93
+Louisiana,22,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,135,3064.96,33.66
+Louisiana,22,Black or African American,2054-5,8th grade or less,1,759,3096.85,25.65
+Louisiana,22,Black or African American,2054-5,9th through 12th grade with no diploma,2,4497,2970.56,24.33
+Louisiana,22,Black or African American,2054-5,High school graduate or GED completed,3,9283,3002.29,25.43
+Louisiana,22,Black or African American,2054-5,"Some college credit, but not a degree",4,5843,3044.77,26.4
+Louisiana,22,Black or African American,2054-5,"Associate degree (AA, AS)",5,1446,3051.15,29.1
+Louisiana,22,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1908,3123.46,29.87
+Louisiana,22,Black or African American,2054-5,"Master's degree (MA, MS)",7,707,3151.66,32.11
+Louisiana,22,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,148,3034.17,32.84
+Louisiana,22,Black or African American,2054-5,nown/Not on certificate,,135,2798.64,27.39
+Louisiana,22,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,12,2940.17,28.92
+Louisiana,22,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,18,3428.39,27.89
+Louisiana,22,White,2106-3,8th grade or less,1,912,3120.59,26.76
+Louisiana,22,White,2106-3,9th through 12th grade with no diploma,2,3339,3164.73,24.09
+Louisiana,22,White,2106-3,High school graduate or GED completed,3,9935,3249.93,25.9
+Louisiana,22,White,2106-3,"Some college credit, but not a degree",4,7350,3286.7,27.31
+Louisiana,22,White,2106-3,"Associate degree (AA, AS)",5,2757,3309.23,29.13
+Louisiana,22,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,8035,3350.51,30.5
+Louisiana,22,White,2106-3,"Master's degree (MA, MS)",7,2509,3328.2,31.91
+Louisiana,22,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,883,3342.77,32.91
+Louisiana,22,White,2106-3,nown/Not on certificate,,152,3148.4,28.74
+Louisiana,22,More than one race,M,8th grade or less,1,17,3243,23.65
+Louisiana,22,More than one race,M,9th through 12th grade with no diploma,2,93,3170.76,22.25
+Louisiana,22,More than one race,M,High school graduate or GED completed,3,194,3181.26,23.96
+Louisiana,22,More than one race,M,"Some college credit, but not a degree",4,215,3273.68,26.16
+Louisiana,22,More than one race,M,"Associate degree (AA, AS)",5,45,3276.89,26.98
+Louisiana,22,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,86,3266.53,31.29
+Louisiana,22,More than one race,M,"Master's degree (MA, MS)",7,31,3323.42,32.29
+Maine,23,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,13,3088.08,21.77
+Maine,23,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,36,3222.22,26.14
+Maine,23,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,31,3488.77,27.74
+Maine,23,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,11,3539.91,31.91
+Maine,23,Asian,A,High school graduate or GED completed,3,43,3209.16,28.33
+Maine,23,Asian,A,"Some college credit, but not a degree",4,27,3260.22,30.41
+Maine,23,Asian,A,"Associate degree (AA, AS)",5,13,3146.31,30.69
+Maine,23,Asian,A,"Bachelor's degree (BA, AB, BS)",6,56,3300.18,31.91
+Maine,23,Asian,A,"Master's degree (MA, MS)",7,27,3145.11,31.22
+Maine,23,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,19,3212.58,32.58
+Maine,23,Black or African American,2054-5,8th grade or less,1,63,3238.94,32.25
+Maine,23,Black or African American,2054-5,9th through 12th grade with no diploma,2,46,3137.39,27.57
+Maine,23,Black or African American,2054-5,High school graduate or GED completed,3,122,3233.01,28.91
+Maine,23,Black or African American,2054-5,"Some college credit, but not a degree",4,69,3176.57,28.78
+Maine,23,Black or African American,2054-5,"Associate degree (AA, AS)",5,38,3203.76,30.45
+Maine,23,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,56,3289.7,32.62
+Maine,23,Black or African American,2054-5,"Master's degree (MA, MS)",7,22,3388.14,34
+Maine,23,White,2106-3,8th grade or less,1,92,3295.93,28.08
+Maine,23,White,2106-3,9th through 12th grade with no diploma,2,592,3193.53,23.52
+Maine,23,White,2106-3,High school graduate or GED completed,3,3227,3303.12,26.08
+Maine,23,White,2106-3,"Some college credit, but not a degree",4,2420,3393.69,27.6
+Maine,23,White,2106-3,"Associate degree (AA, AS)",5,1160,3397.54,29.58
+Maine,23,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2662,3434.36,31.02
+Maine,23,White,2106-3,"Master's degree (MA, MS)",7,1181,3428.62,32.78
+Maine,23,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,351,3406.83,33.34
+Maine,23,White,2106-3,nown/Not on certificate,,20,2727.53,34.2
+Maine,23,More than one race,M,9th through 12th grade with no diploma,2,21,3392.38,23.33
+Maine,23,More than one race,M,High school graduate or GED completed,3,101,3273.57,24.81
+Maine,23,More than one race,M,"Some college credit, but not a degree",4,80,3294.76,26.48
+Maine,23,More than one race,M,"Associate degree (AA, AS)",5,28,3306.82,29
+Maine,23,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,33,3475.39,31.12
+Maine,23,More than one race,M,"Master's degree (MA, MS)",7,13,3548.54,31.62
+Maryland,24,American Indian or Alaska Native,1002-5,8th grade or less,1,29,3361.55,30.59
+Maryland,24,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,36,3232.03,25.69
+Maryland,24,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,51,3304.67,26
+Maryland,24,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,35,3253.14,30.06
+Maryland,24,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,14,3202.71,30.86
+Maryland,24,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,22,3205.09,30.32
+Maryland,24,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,12,3020.5,34.17
+Maryland,24,Asian,A,8th grade or less,1,282,3296.78,30.65
+Maryland,24,Asian,A,9th through 12th grade with no diploma,2,305,3197.73,27.96
+Maryland,24,Asian,A,High school graduate or GED completed,3,607,3157.3,29.43
+Maryland,24,Asian,A,"Some college credit, but not a degree",4,558,3162.29,29.98
+Maryland,24,Asian,A,"Associate degree (AA, AS)",5,299,3205.6,31.3
+Maryland,24,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1737,3203.22,31.98
+Maryland,24,Asian,A,"Master's degree (MA, MS)",7,1382,3195.17,32.87
+Maryland,24,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,688,3196.67,34.3
+Maryland,24,Asian,A,nown/Not on certificate,,22,3224.27,28.86
+Maryland,24,Black or African American,2054-5,8th grade or less,1,807,3283.34,29.53
+Maryland,24,Black or African American,2054-5,9th through 12th grade with no diploma,2,2570,3079.49,25.07
+Maryland,24,Black or African American,2054-5,High school graduate or GED completed,3,7114,3090.54,26.42
+Maryland,24,Black or African American,2054-5,"Some college credit, but not a degree",4,6584,3136.1,28.21
+Maryland,24,Black or African American,2054-5,"Associate degree (AA, AS)",5,1527,3204.76,31.31
+Maryland,24,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,4068,3215.09,31.67
+Maryland,24,Black or African American,2054-5,"Master's degree (MA, MS)",7,2230,3193.85,33.67
+Maryland,24,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,565,3222.05,34.69
+Maryland,24,Black or African American,2054-5,nown/Not on certificate,,176,2866.75,30.46
+Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,19,3363.79,30.63
+Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,22,3149.45,26.95
+Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,19,3389.68,27.74
+Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,23,3539.91,29.22
+Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,10,2872.6,33.9
+Maryland,24,White,2106-3,8th grade or less,1,1948,3286.16,29.58
+Maryland,24,White,2106-3,9th through 12th grade with no diploma,2,3132,3231.46,26.13
+Maryland,24,White,2106-3,High school graduate or GED completed,3,6508,3289.59,27.16
+Maryland,24,White,2106-3,"Some college credit, but not a degree",4,6729,3346.4,28.53
+Maryland,24,White,2106-3,"Associate degree (AA, AS)",5,2732,3374.15,30.05
+Maryland,24,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,9620,3382.24,31.64
+Maryland,24,White,2106-3,"Master's degree (MA, MS)",7,6807,3402.9,32.9
+Maryland,24,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1961,3374.98,34.26
+Maryland,24,White,2106-3,nown/Not on certificate,,203,3045.97,30.16
+Maryland,24,More than one race,M,8th grade or less,1,28,3276.57,25.18
+Maryland,24,More than one race,M,9th through 12th grade with no diploma,2,154,3088.31,22.31
+Maryland,24,More than one race,M,High school graduate or GED completed,3,358,3270.39,24.62
+Maryland,24,More than one race,M,"Some college credit, but not a degree",4,483,3248.63,26.38
+Maryland,24,More than one race,M,"Associate degree (AA, AS)",5,124,3266.6,29.47
+Maryland,24,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,300,3307.8,31.27
+Maryland,24,More than one race,M,"Master's degree (MA, MS)",7,156,3293.12,33.21
+Maryland,24,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,60,3247.85,33.7
+Massachusetts,25,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,34,3232.41,26.59
+Massachusetts,25,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,27,3505.96,28.3
+Massachusetts,25,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,14,3476.5,33.57
+Massachusetts,25,Asian,A,8th grade or less,1,138,3152.58,31.61
+Massachusetts,25,Asian,A,9th through 12th grade with no diploma,2,346,3188.29,29.81
+Massachusetts,25,Asian,A,High school graduate or GED completed,3,674,3171.5,29.41
+Massachusetts,25,Asian,A,"Some college credit, but not a degree",4,578,3155.24,29.54
+Massachusetts,25,Asian,A,"Associate degree (AA, AS)",5,263,3170.9,31.21
+Massachusetts,25,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1913,3205.23,31.81
+Massachusetts,25,Asian,A,"Master's degree (MA, MS)",7,1771,3231.24,32.39
+Massachusetts,25,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,841,3187.18,34.2
+Massachusetts,25,Asian,A,nown/Not on certificate,,161,3263.42,31.62
+Massachusetts,25,Black or African American,2054-5,8th grade or less,1,341,3212.71,30.73
+Massachusetts,25,Black or African American,2054-5,9th through 12th grade with no diploma,2,929,3180.21,27.2
+Massachusetts,25,Black or African American,2054-5,High school graduate or GED completed,3,2174,3183.78,28.35
+Massachusetts,25,Black or African American,2054-5,"Some college credit, but not a degree",4,2561,3194.06,28.9
+Massachusetts,25,Black or African American,2054-5,"Associate degree (AA, AS)",5,730,3238.63,31.47
+Massachusetts,25,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1414,3226.29,31.67
+Massachusetts,25,Black or African American,2054-5,"Master's degree (MA, MS)",7,496,3218.58,33.74
+Massachusetts,25,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,147,3244.51,34.76
+Massachusetts,25,Black or African American,2054-5,nown/Not on certificate,,286,3154.46,31.58
+Massachusetts,25,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,13,3352.92,27.23
+Massachusetts,25,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,10,3209.6,28.4
+Massachusetts,25,White,2106-3,8th grade or less,1,1145,3247.11,28.68
+Massachusetts,25,White,2106-3,9th through 12th grade with no diploma,2,3214,3205.51,25.63
+Massachusetts,25,White,2106-3,High school graduate or GED completed,3,8004,3273.68,27.49
+Massachusetts,25,White,2106-3,"Some college credit, but not a degree",4,9647,3331.09,28.88
+Massachusetts,25,White,2106-3,"Associate degree (AA, AS)",5,3324,3342.03,31.04
+Massachusetts,25,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,13825,3395.5,32.33
+Massachusetts,25,White,2106-3,"Master's degree (MA, MS)",7,10176,3391.73,33.35
+Massachusetts,25,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2896,3343.86,34.45
+Massachusetts,25,White,2106-3,nown/Not on certificate,,1531,3270.48,31.23
+Massachusetts,25,More than one race,M,8th grade or less,1,14,3404,25.79
+Massachusetts,25,More than one race,M,9th through 12th grade with no diploma,2,111,3155.22,23.65
+Massachusetts,25,More than one race,M,High school graduate or GED completed,3,298,3237.73,25.43
+Massachusetts,25,More than one race,M,"Some college credit, but not a degree",4,418,3233.4,27.82
+Massachusetts,25,More than one race,M,"Associate degree (AA, AS)",5,109,3300.03,29.46
+Massachusetts,25,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,367,3352.44,32.17
+Massachusetts,25,More than one race,M,"Master's degree (MA, MS)",7,225,3393.58,33.31
+Massachusetts,25,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,99,3350.85,34.73
+Massachusetts,25,More than one race,M,nown/Not on certificate,,15,3635.53,28.53
+Michigan,26,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,78,3280.81,23.59
+Michigan,26,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,150,3317.19,25.28
+Michigan,26,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,126,3358.99,27.66
+Michigan,26,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,35,3357.06,29.37
+Michigan,26,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,38,3380.68,31.11
+Michigan,26,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,21,3224.43,35.14
+Michigan,26,Asian,A,8th grade or less,1,126,3177,30.02
+Michigan,26,Asian,A,9th through 12th grade with no diploma,2,192,3107.43,28.28
+Michigan,26,Asian,A,High school graduate or GED completed,3,597,3139.63,29.19
+Michigan,26,Asian,A,"Some college credit, but not a degree",4,417,3176.79,29
+Michigan,26,Asian,A,"Associate degree (AA, AS)",5,211,3166.56,30.71
+Michigan,26,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1368,3140.3,31.15
+Michigan,26,Asian,A,"Master's degree (MA, MS)",7,1041,3162.84,31.8
+Michigan,26,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,434,3180.55,33.09
+Michigan,26,Asian,A,nown/Not on certificate,,55,3213.95,31.73
+Michigan,26,Black or African American,2054-5,8th grade or less,1,219,3149.68,28.43
+Michigan,26,Black or African American,2054-5,9th through 12th grade with no diploma,2,3291,2981.5,23.88
+Michigan,26,Black or African American,2054-5,High school graduate or GED completed,3,7886,3038.42,25.26
+Michigan,26,Black or African American,2054-5,"Some college credit, but not a degree",4,6339,3074.31,26.94
+Michigan,26,Black or African American,2054-5,"Associate degree (AA, AS)",5,1082,3126.98,29.82
+Michigan,26,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1388,3154.3,30.54
+Michigan,26,Black or African American,2054-5,"Master's degree (MA, MS)",7,585,3137.01,33.16
+Michigan,26,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,120,3053.94,33.62
+Michigan,26,Black or African American,2054-5,nown/Not on certificate,,417,2896.98,26.19
+Michigan,26,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,14,3235.14,27.07
+Michigan,26,White,2106-3,8th grade or less,1,1868,3317.23,29.45
+Michigan,26,White,2106-3,9th through 12th grade with no diploma,2,6551,3205.85,24.27
+Michigan,26,White,2106-3,High school graduate or GED completed,3,18829,3299.85,26.45
+Michigan,26,White,2106-3,"Some college credit, but not a degree",4,19260,3344.95,27.91
+Michigan,26,White,2106-3,"Associate degree (AA, AS)",5,8369,3376.8,29.83
+Michigan,26,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,18853,3399.55,30.98
+Michigan,26,White,2106-3,"Master's degree (MA, MS)",7,7730,3403.07,32.5
+Michigan,26,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2105,3359.57,32.98
+Michigan,26,White,2106-3,nown/Not on certificate,,632,3211.21,28.96
+Michigan,26,More than one race,M,8th grade or less,1,14,3035.36,24.43
+Michigan,26,More than one race,M,9th through 12th grade with no diploma,2,465,3155.97,22.42
+Michigan,26,More than one race,M,High school graduate or GED completed,3,783,3228.1,24.31
+Michigan,26,More than one race,M,"Some college credit, but not a degree",4,824,3272.65,26.76
+Michigan,26,More than one race,M,"Associate degree (AA, AS)",5,231,3278.9,29.83
+Michigan,26,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,315,3356.18,30.5
+Michigan,26,More than one race,M,"Master's degree (MA, MS)",7,154,3390.6,32.51
+Michigan,26,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,37,3110.76,33.92
+Michigan,26,More than one race,M,nown/Not on certificate,,20,3202.45,26.3
+Minnesota,27,American Indian or Alaska Native,1002-5,8th grade or less,1,12,3260.75,28.25
+Minnesota,27,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,330,3306.32,24.42
+Minnesota,27,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,504,3352.66,25.72
+Minnesota,27,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,190,3391.7,28.04
+Minnesota,27,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,75,3321.63,29.89
+Minnesota,27,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,32,3468.38,30.59
+Minnesota,27,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,17,3422.94,32.76
+Minnesota,27,American Indian or Alaska Native,1002-5,nown/Not on certificate,,42,3189.26,27.33
+Minnesota,27,Asian,A,8th grade or less,1,407,3226.01,30.33
+Minnesota,27,Asian,A,9th through 12th grade with no diploma,2,494,3231.24,26.94
+Minnesota,27,Asian,A,High school graduate or GED completed,3,1080,3185.58,27.26
+Minnesota,27,Asian,A,"Some college credit, but not a degree",4,855,3169.42,27.84
+Minnesota,27,Asian,A,"Associate degree (AA, AS)",5,521,3207.69,29.73
+Minnesota,27,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1285,3189.47,31.03
+Minnesota,27,Asian,A,"Master's degree (MA, MS)",7,654,3211.08,32.21
+Minnesota,27,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,221,3222.71,33.67
+Minnesota,27,Asian,A,nown/Not on certificate,,100,3306.91,30.48
+Minnesota,27,Black or African American,2054-5,8th grade or less,1,1154,3369.88,31.44
+Minnesota,27,Black or African American,2054-5,9th through 12th grade with no diploma,2,1224,3199.13,27.04
+Minnesota,27,Black or African American,2054-5,High school graduate or GED completed,3,2169,3221.38,27.54
+Minnesota,27,Black or African American,2054-5,"Some college credit, but not a degree",4,1779,3178.06,28.11
+Minnesota,27,Black or African American,2054-5,"Associate degree (AA, AS)",5,657,3273.28,31.02
+Minnesota,27,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,696,3271.05,31.3
+Minnesota,27,Black or African American,2054-5,"Master's degree (MA, MS)",7,211,3271.64,32.96
+Minnesota,27,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,67,3299.44,34.26
+Minnesota,27,Black or African American,2054-5,nown/Not on certificate,,292,3304.56,30.92
+Minnesota,27,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,19,2627.95,26.79
+Minnesota,27,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,20,3209.85,25.7
+Minnesota,27,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,13,3494.85,27.46
+Minnesota,27,White,2106-3,8th grade or less,1,820,3345.91,29.87
+Minnesota,27,White,2106-3,9th through 12th grade with no diploma,2,2530,3255.36,24.9
+Minnesota,27,White,2106-3,High school graduate or GED completed,3,7333,3327.33,26.94
+Minnesota,27,White,2106-3,"Some college credit, but not a degree",4,9376,3371.01,28.2
+Minnesota,27,White,2106-3,"Associate degree (AA, AS)",5,7645,3409.07,29.94
+Minnesota,27,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,16458,3441.19,31.11
+Minnesota,27,White,2106-3,"Master's degree (MA, MS)",7,6240,3421.57,32.68
+Minnesota,27,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1889,3399.33,33.1
+Minnesota,27,White,2106-3,nown/Not on certificate,,532,3310.9,30.63
+Minnesota,27,More than one race,M,8th grade or less,1,12,3080.33,28.5
+Minnesota,27,More than one race,M,9th through 12th grade with no diploma,2,234,3270.22,22.53
+Minnesota,27,More than one race,M,High school graduate or GED completed,3,451,3229.58,24.72
+Minnesota,27,More than one race,M,"Some college credit, but not a degree",4,494,3314.75,26.84
+Minnesota,27,More than one race,M,"Associate degree (AA, AS)",5,196,3365.71,28.77
+Minnesota,27,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,265,3350.38,30.82
+Minnesota,27,More than one race,M,"Master's degree (MA, MS)",7,81,3420.15,32.43
+Minnesota,27,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,37,3341.27,34.57
+Minnesota,27,More than one race,M,nown/Not on certificate,,14,3161.57,28.86
+Mississippi,28,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,80,3287.31,24.34
+Mississippi,28,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,81,3324.14,26.23
+Mississippi,28,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,40,3429.8,25.52
+Mississippi,28,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,15,3459.93,31.47
+Mississippi,28,Asian,A,8th grade or less,1,20,3335.15,30.95
+Mississippi,28,Asian,A,9th through 12th grade with no diploma,2,22,3197.5,26.23
+Mississippi,28,Asian,A,High school graduate or GED completed,3,104,3024.38,29.73
+Mississippi,28,Asian,A,"Some college credit, but not a degree",4,63,3074.03,29.76
+Mississippi,28,Asian,A,"Associate degree (AA, AS)",5,48,3127.54,29.81
+Mississippi,28,Asian,A,"Bachelor's degree (BA, AB, BS)",6,141,3163.06,30.6
+Mississippi,28,Asian,A,"Master's degree (MA, MS)",7,69,3193.38,30.8
+Mississippi,28,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,41,3320.71,33.37
+Mississippi,28,Black or African American,2054-5,8th grade or less,1,365,3062.53,25.69
+Mississippi,28,Black or African American,2054-5,9th through 12th grade with no diploma,2,2418,2922.36,23.27
+Mississippi,28,Black or African American,2054-5,High school graduate or GED completed,3,5581,2960.41,24.91
+Mississippi,28,Black or African American,2054-5,"Some college credit, but not a degree",4,4540,3009.06,25.53
+Mississippi,28,Black or African American,2054-5,"Associate degree (AA, AS)",5,1629,3031.75,28.14
+Mississippi,28,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1346,3102.48,29.52
+Mississippi,28,Black or African American,2054-5,"Master's degree (MA, MS)",7,556,3063.08,32.31
+Mississippi,28,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,97,3158.19,34.29
+Mississippi,28,Black or African American,2054-5,nown/Not on certificate,,35,2976.76,26.89
+Mississippi,28,White,2106-3,8th grade or less,1,461,3195.69,26.41
+Mississippi,28,White,2106-3,9th through 12th grade with no diploma,2,1898,3118.63,23.28
+Mississippi,28,White,2106-3,High school graduate or GED completed,3,4879,3200.18,25.03
+Mississippi,28,White,2106-3,"Some college credit, but not a degree",4,4554,3261.73,26.4
+Mississippi,28,White,2106-3,"Associate degree (AA, AS)",5,2925,3300.02,28.12
+Mississippi,28,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,3639,3374.36,30.07
+Mississippi,28,White,2106-3,"Master's degree (MA, MS)",7,1511,3378.25,31.53
+Mississippi,28,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,433,3371.16,32.27
+Mississippi,28,White,2106-3,nown/Not on certificate,,35,2955.71,28.31
+Mississippi,28,More than one race,M,9th through 12th grade with no diploma,2,35,3259.77,20.77
+Mississippi,28,More than one race,M,High school graduate or GED completed,3,73,3107.4,23.01
+Mississippi,28,More than one race,M,"Some college credit, but not a degree",4,77,3248.96,24.95
+Mississippi,28,More than one race,M,"Associate degree (AA, AS)",5,23,3138.13,28
+Mississippi,28,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,40,3361.53,29.3
+Missouri,29,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,31,2964.16,23.65
+Missouri,29,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,70,3214.9,25.03
+Missouri,29,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,55,3181.69,28.4
+Missouri,29,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,15,2977.73,27.8
+Missouri,29,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,15,3536.93,30.27
+Missouri,29,Asian,A,8th grade or less,1,87,3212.61,30.62
+Missouri,29,Asian,A,9th through 12th grade with no diploma,2,105,3146.64,28.3
+Missouri,29,Asian,A,High school graduate or GED completed,3,218,3191.9,28.38
+Missouri,29,Asian,A,"Some college credit, but not a degree",4,197,3135.27,28.55
+Missouri,29,Asian,A,"Associate degree (AA, AS)",5,91,3124.9,30.35
+Missouri,29,Asian,A,"Bachelor's degree (BA, AB, BS)",6,563,3203.3,31.03
+Missouri,29,Asian,A,"Master's degree (MA, MS)",7,434,3185.61,31.71
+Missouri,29,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,237,3128.49,34
+Missouri,29,Asian,A,nown/Not on certificate,,10,3078.3,32.7
+Missouri,29,Black or African American,2054-5,8th grade or less,1,272,3248.31,29.05
+Missouri,29,Black or African American,2054-5,9th through 12th grade with no diploma,2,1482,2974.88,24.05
+Missouri,29,Black or African American,2054-5,High school graduate or GED completed,3,3827,3004.22,25.13
+Missouri,29,Black or African American,2054-5,"Some college credit, but not a degree",4,3245,3055.73,26.76
+Missouri,29,Black or African American,2054-5,"Associate degree (AA, AS)",5,776,3075.77,29.58
+Missouri,29,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,844,3142.28,30.59
+Missouri,29,Black or African American,2054-5,"Master's degree (MA, MS)",7,360,3149.27,33.14
+Missouri,29,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,68,3090.33,33.85
+Missouri,29,Black or African American,2054-5,nown/Not on certificate,,85,2964.34,27.59
+Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,18,3374.56,26.83
+Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,63,3176.16,27.13
+Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,82,3252.57,27.43
+Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,53,3302.25,28.62
+Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,10,3729.5,31.4
+Missouri,29,White,2106-3,8th grade or less,1,1674,3336,28.59
+Missouri,29,White,2106-3,9th through 12th grade with no diploma,2,5298,3175.83,23.9
+Missouri,29,White,2106-3,High school graduate or GED completed,3,13097,3266.99,25.51
+Missouri,29,White,2106-3,"Some college credit, but not a degree",4,13198,3325.14,27.28
+Missouri,29,White,2106-3,"Associate degree (AA, AS)",5,5538,3360.1,28.93
+Missouri,29,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,12681,3402.07,30.63
+Missouri,29,White,2106-3,"Master's degree (MA, MS)",7,5983,3409.12,32.12
+Missouri,29,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1444,3360.71,32.86
+Missouri,29,White,2106-3,nown/Not on certificate,,149,3210.1,28.79
+Missouri,29,More than one race,M,8th grade or less,1,20,2777.2,24.5
+Missouri,29,More than one race,M,9th through 12th grade with no diploma,2,313,3109.68,22.42
+Missouri,29,More than one race,M,High school graduate or GED completed,3,689,3186.26,24.06
+Missouri,29,More than one race,M,"Some college credit, but not a degree",4,679,3168.58,26.39
+Missouri,29,More than one race,M,"Associate degree (AA, AS)",5,181,3212.92,28.55
+Missouri,29,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,281,3326.65,30.1
+Missouri,29,More than one race,M,"Master's degree (MA, MS)",7,108,3289.02,32.39
+Missouri,29,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,34,3248.41,33.09
+Montana,30,American Indian or Alaska Native,1002-5,8th grade or less,1,23,3374.74,23.3
+Montana,30,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,393,3298.28,23.49
+Montana,30,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,488,3284.68,25.58
+Montana,30,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,319,3371.42,26.91
+Montana,30,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,127,3421.71,29.02
+Montana,30,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,50,3365.46,31.06
+Montana,30,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,11,3520.18,32.73
+Montana,30,Asian,A,High school graduate or GED completed,3,30,3126.73,29.47
+Montana,30,Asian,A,"Some college credit, but not a degree",4,23,3158.73,29.7
+Montana,30,Asian,A,"Associate degree (AA, AS)",5,10,3352,29.3
+Montana,30,Asian,A,"Bachelor's degree (BA, AB, BS)",6,38,3127.53,32.13
+Montana,30,Asian,A,"Master's degree (MA, MS)",7,21,3142.57,32
+Montana,30,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,14,3241.93,34.93
+Montana,30,Black or African American,2054-5,High school graduate or GED completed,3,26,2782.08,23.54
+Montana,30,Black or African American,2054-5,"Some college credit, but not a degree",4,21,3152.52,27.24
+Montana,30,White,2106-3,8th grade or less,1,181,3135.82,27.67
+Montana,30,White,2106-3,9th through 12th grade with no diploma,2,688,3148.47,23.75
+Montana,30,White,2106-3,High school graduate or GED completed,3,2787,3262.92,26.04
+Montana,30,White,2106-3,"Some college credit, but not a degree",4,2246,3279.97,27.97
+Montana,30,White,2106-3,"Associate degree (AA, AS)",5,928,3331.31,29.58
+Montana,30,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2424,3327.42,31.16
+Montana,30,White,2106-3,"Master's degree (MA, MS)",7,707,3339.54,32.93
+Montana,30,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,223,3303.8,33.51
+Montana,30,White,2106-3,nown/Not on certificate,,36,3294.61,29.97
+Montana,30,More than one race,M,9th through 12th grade with no diploma,2,62,3145.65,21.74
+Montana,30,More than one race,M,High school graduate or GED completed,3,134,3299.38,24.49
+Montana,30,More than one race,M,"Some college credit, but not a degree",4,101,3293.25,27.06
+Montana,30,More than one race,M,"Associate degree (AA, AS)",5,34,3076.76,30.35
+Montana,30,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,45,3298.84,31.11
+Montana,30,More than one race,M,"Master's degree (MA, MS)",7,19,3347.47,32.32
+Nebraska,31,American Indian or Alaska Native,1002-5,8th grade or less,1,25,3214.36,31.2
+Nebraska,31,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,118,3355.36,24.18
+Nebraska,31,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,166,3381.21,25.26
+Nebraska,31,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,104,3450.28,27.17
+Nebraska,31,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,31,3547.97,29.84
+Nebraska,31,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,14,3420.29,31.71
+Nebraska,31,Asian,A,8th grade or less,1,140,3306.69,29.69
+Nebraska,31,Asian,A,9th through 12th grade with no diploma,2,113,3232.58,25.22
+Nebraska,31,Asian,A,High school graduate or GED completed,3,164,3246,28.75
+Nebraska,31,Asian,A,"Some college credit, but not a degree",4,108,3212.07,27.72
+Nebraska,31,Asian,A,"Associate degree (AA, AS)",5,41,3150.44,30.76
+Nebraska,31,Asian,A,"Bachelor's degree (BA, AB, BS)",6,211,3219.57,30.75
+Nebraska,31,Asian,A,"Master's degree (MA, MS)",7,134,3240.72,31.49
+Nebraska,31,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,81,3156.02,33.33
+Nebraska,31,Black or African American,2054-5,8th grade or less,1,220,3236,29.86
+Nebraska,31,Black or African American,2054-5,9th through 12th grade with no diploma,2,273,3039.09,25.64
+Nebraska,31,Black or African American,2054-5,High school graduate or GED completed,3,600,3041.18,25.64
+Nebraska,31,Black or African American,2054-5,"Some college credit, but not a degree",4,525,3113.98,27
+Nebraska,31,Black or African American,2054-5,"Associate degree (AA, AS)",5,123,3075.54,30.36
+Nebraska,31,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,137,3110.45,30.82
+Nebraska,31,Black or African American,2054-5,"Master's degree (MA, MS)",7,53,3203.57,33.11
+Nebraska,31,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,16,3012.5,32.75
+Nebraska,31,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,17,3182.41,24.41
+Nebraska,31,White,2106-3,8th grade or less,1,745,3260.76,29.67
+Nebraska,31,White,2106-3,9th through 12th grade with no diploma,2,1458,3227.24,24.84
+Nebraska,31,White,2106-3,High school graduate or GED completed,3,3819,3275.05,26.05
+Nebraska,31,White,2106-3,"Some college credit, but not a degree",4,4913,3342.01,27.49
+Nebraska,31,White,2106-3,"Associate degree (AA, AS)",5,2503,3368.08,29.59
+Nebraska,31,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,6060,3393.58,30.54
+Nebraska,31,White,2106-3,"Master's degree (MA, MS)",7,2274,3412.19,31.9
+Nebraska,31,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,684,3345.95,32.72
+Nebraska,31,White,2106-3,nown/Not on certificate,,10,3453,30.1
+Nebraska,31,More than one race,M,9th through 12th grade with no diploma,2,78,3042.62,22.21
+Nebraska,31,More than one race,M,High school graduate or GED completed,3,176,3189.34,24.03
+Nebraska,31,More than one race,M,"Some college credit, but not a degree",4,255,3295.47,25.7
+Nebraska,31,More than one race,M,"Associate degree (AA, AS)",5,52,3368.21,28.38
+Nebraska,31,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,80,3306.5,29.43
+Nebraska,31,More than one race,M,"Master's degree (MA, MS)",7,24,3218.79,31.67
+Nevada,32,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,68,3282.22,24
+Nevada,32,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,185,3346.06,26.88
+Nevada,32,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,76,3265.86,28.7
+Nevada,32,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,25,3389.68,30.28
+Nevada,32,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,15,3319.47,30.87
+Nevada,32,Asian,A,8th grade or less,1,20,3309.6,31.8
+Nevada,32,Asian,A,9th through 12th grade with no diploma,2,145,3169.21,28.9
+Nevada,32,Asian,A,High school graduate or GED completed,3,504,3128.57,28.98
+Nevada,32,Asian,A,"Some college credit, but not a degree",4,618,3184.56,29.79
+Nevada,32,Asian,A,"Associate degree (AA, AS)",5,294,3167.74,31.3
+Nevada,32,Asian,A,"Bachelor's degree (BA, AB, BS)",6,900,3098.61,32.56
+Nevada,32,Asian,A,"Master's degree (MA, MS)",7,222,3131.73,32.87
+Nevada,32,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,105,3083.03,34.74
+Nevada,32,Asian,A,nown/Not on certificate,,52,3184.92,32.44
+Nevada,32,Black or African American,2054-5,8th grade or less,1,53,3130.09,26.92
+Nevada,32,Black or African American,2054-5,9th through 12th grade with no diploma,2,866,2974.32,24.31
+Nevada,32,Black or African American,2054-5,High school graduate or GED completed,3,1615,3046.84,26.31
+Nevada,32,Black or African American,2054-5,"Some college credit, but not a degree",4,1206,3059.46,28.13
+Nevada,32,Black or African American,2054-5,"Associate degree (AA, AS)",5,267,3148.21,30.1
+Nevada,32,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,280,3147.57,31.48
+Nevada,32,Black or African American,2054-5,"Master's degree (MA, MS)",7,110,3117.74,32.43
+Nevada,32,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,23,3307.87,33.04
+Nevada,32,Black or African American,2054-5,nown/Not on certificate,,174,2988.55,26.86
+Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,43,3062.02,24.74
+Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,177,3231,27.5
+Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,84,3137.85,28.23
+Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,22,3088.59,30.86
+Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,15,2962.86,32.87
+Nevada,32,White,2106-3,8th grade or less,1,788,3264.32,31.09
+Nevada,32,White,2106-3,9th through 12th grade with no diploma,2,4318,3235.62,26.3
+Nevada,32,White,2106-3,High school graduate or GED completed,3,8028,3233.77,26.76
+Nevada,32,White,2106-3,"Some college credit, but not a degree",4,5569,3297.53,28.37
+Nevada,32,White,2106-3,"Associate degree (AA, AS)",5,1914,3277,29.93
+Nevada,32,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,3641,3310.91,31.37
+Nevada,32,White,2106-3,"Master's degree (MA, MS)",7,1253,3303.59,33.14
+Nevada,32,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,341,3301.05,34.11
+Nevada,32,White,2106-3,nown/Not on certificate,,578,3153.8,28.7
+Nevada,32,More than one race,M,8th grade or less,1,15,3303.87,23
+Nevada,32,More than one race,M,9th through 12th grade with no diploma,2,215,3039.88,23.34
+Nevada,32,More than one race,M,High school graduate or GED completed,3,530,3156.13,25.43
+Nevada,32,More than one race,M,"Some college credit, but not a degree",4,491,3256.57,27.09
+Nevada,32,More than one race,M,"Associate degree (AA, AS)",5,132,3214.16,29.46
+Nevada,32,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,161,3301.27,31.32
+Nevada,32,More than one race,M,"Master's degree (MA, MS)",7,47,3335.26,33.04
+Nevada,32,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,16,3326.06,32.69
+Nevada,32,More than one race,M,nown/Not on certificate,,40,2954.28,26.45
+New Hampshire,33,Asian,A,8th grade or less,1,10,3291.6,30.7
+New Hampshire,33,Asian,A,9th through 12th grade with no diploma,2,16,3291.12,28.44
+New Hampshire,33,Asian,A,High school graduate or GED completed,3,57,3342.54,30.32
+New Hampshire,33,Asian,A,"Some college credit, but not a degree",4,36,3265.56,30.81
+New Hampshire,33,Asian,A,"Associate degree (AA, AS)",5,16,3190.62,29.38
+New Hampshire,33,Asian,A,"Bachelor's degree (BA, AB, BS)",6,184,3143.35,31.21
+New Hampshire,33,Asian,A,"Master's degree (MA, MS)",7,143,3139.16,31.34
+New Hampshire,33,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,44,3142.5,33.25
+New Hampshire,33,Black or African American,2054-5,8th grade or less,1,19,3194.11,33.68
+New Hampshire,33,Black or African American,2054-5,9th through 12th grade with no diploma,2,30,3213.2,27.7
+New Hampshire,33,Black or African American,2054-5,High school graduate or GED completed,3,80,3382.61,27.07
+New Hampshire,33,Black or African American,2054-5,"Some college credit, but not a degree",4,63,3164.13,28.38
+New Hampshire,33,Black or African American,2054-5,"Associate degree (AA, AS)",5,26,3314.12,31.12
+New Hampshire,33,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,59,3189.85,31.36
+New Hampshire,33,Black or African American,2054-5,"Master's degree (MA, MS)",7,16,3207.93,31.94
+New Hampshire,33,White,2106-3,8th grade or less,1,55,3442.58,28.16
+New Hampshire,33,White,2106-3,9th through 12th grade with no diploma,2,596,3212.35,24.64
+New Hampshire,33,White,2106-3,High school graduate or GED completed,3,2440,3329.88,26.55
+New Hampshire,33,White,2106-3,"Some college credit, but not a degree",4,2411,3368.64,28.3
+New Hampshire,33,White,2106-3,"Associate degree (AA, AS)",5,1038,3401.46,30.32
+New Hampshire,33,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2746,3416.53,31.53
+New Hampshire,33,White,2106-3,"Master's degree (MA, MS)",7,1623,3421.02,32.7
+New Hampshire,33,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,319,3347.32,33.69
+New Hampshire,33,White,2106-3,nown/Not on certificate,,60,3262.05,30.48
+New Hampshire,33,More than one race,M,9th through 12th grade with no diploma,2,13,3277.08,21.54
+New Hampshire,33,More than one race,M,High school graduate or GED completed,3,31,3297.58,24.94
+New Hampshire,33,More than one race,M,"Some college credit, but not a degree",4,41,3472,26.9
+New Hampshire,33,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,27,3572.78,32.48
+New Hampshire,33,More than one race,M,"Master's degree (MA, MS)",7,17,3449,32.53
+New Jersey,34,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,12,3165.33,27.25
+New Jersey,34,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,49,3336.27,28.53
+New Jersey,34,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,26,3272.58,29.73
+New Jersey,34,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,23,3426.7,29.87
+New Jersey,34,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,27,3329.15,30.19
+New Jersey,34,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,12,3463.17,33.92
+New Jersey,34,Asian,A,8th grade or less,1,247,3180.89,30.32
+New Jersey,34,Asian,A,9th through 12th grade with no diploma,2,468,3145.31,28.43
+New Jersey,34,Asian,A,High school graduate or GED completed,3,1160,3202.13,29.36
+New Jersey,34,Asian,A,"Some college credit, but not a degree",4,762,3160.49,29.78
+New Jersey,34,Asian,A,"Associate degree (AA, AS)",5,581,3171.74,31.47
+New Jersey,34,Asian,A,"Bachelor's degree (BA, AB, BS)",6,5114,3146.41,31.9
+New Jersey,34,Asian,A,"Master's degree (MA, MS)",7,3947,3137.34,32.31
+New Jersey,34,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1009,3148.14,33.99
+New Jersey,34,Asian,A,nown/Not on certificate,,54,3141.55,31.8
+New Jersey,34,Black or African American,2054-5,8th grade or less,1,424,3250.73,29.63
+New Jersey,34,Black or African American,2054-5,9th through 12th grade with no diploma,2,1738,3070.43,25.11
+New Jersey,34,Black or African American,2054-5,High school graduate or GED completed,3,6455,3103.22,27.05
+New Jersey,34,Black or African American,2054-5,"Some college credit, but not a degree",4,3511,3138.93,28.36
+New Jersey,34,Black or African American,2054-5,"Associate degree (AA, AS)",5,1283,3145.73,30.63
+New Jersey,34,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,2429,3159.07,31.55
+New Jersey,34,Black or African American,2054-5,"Master's degree (MA, MS)",7,1113,3171.94,33.74
+New Jersey,34,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,213,3139.24,35.03
+New Jersey,34,Black or African American,2054-5,nown/Not on certificate,,89,3169.57,30.02
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,17,3268.47,29.76
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,21,3443.43,28.48
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,50,3309.5,26.96
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,30,3198.5,29.13
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,10,3362.9,32.3
+New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,25,3306.72,32.6
+New Jersey,34,White,2106-3,8th grade or less,1,3767,3279.46,30.13
+New Jersey,34,White,2106-3,9th through 12th grade with no diploma,2,4756,3230.18,26.5
+New Jersey,34,White,2106-3,High school graduate or GED completed,3,15583,3286.2,28.23
+New Jersey,34,White,2106-3,"Some college credit, but not a degree",4,9384,3298.54,29.32
+New Jersey,34,White,2106-3,"Associate degree (AA, AS)",5,4999,3322.54,30.73
+New Jersey,34,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,18767,3342.14,32.24
+New Jersey,34,White,2106-3,"Master's degree (MA, MS)",7,10582,3355.68,33.06
+New Jersey,34,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2292,3343.04,34.23
+New Jersey,34,White,2106-3,nown/Not on certificate,,374,3218.69,30.9
+New Jersey,34,More than one race,M,8th grade or less,1,11,3204.09,25.36
+New Jersey,34,More than one race,M,9th through 12th grade with no diploma,2,93,3216.71,22.44
+New Jersey,34,More than one race,M,High school graduate or GED completed,3,375,3174.26,25.43
+New Jersey,34,More than one race,M,"Some college credit, but not a degree",4,273,3289.96,27.6
+New Jersey,34,More than one race,M,"Associate degree (AA, AS)",5,104,3234.19,30.58
+New Jersey,34,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,243,3283.7,31.15
+New Jersey,34,More than one race,M,"Master's degree (MA, MS)",7,93,3260.66,33.13
+New Jersey,34,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,32,3354.28,34.97
+New Mexico,35,American Indian or Alaska Native,1002-5,8th grade or less,1,30,3200.27,25.03
+New Mexico,35,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,629,3161.38,24.71
+New Mexico,35,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,1037,3221.86,26.54
+New Mexico,35,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,977,3233.67,27.69
+New Mexico,35,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,233,3278.55,30.2
+New Mexico,35,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,136,3278.93,31.42
+New Mexico,35,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,37,3259.86,34.51
+New Mexico,35,American Indian or Alaska Native,1002-5,nown/Not on certificate,,31,3074.48,27.77
+New Mexico,35,Asian,A,9th through 12th grade with no diploma,2,21,3195.62,28.29
+New Mexico,35,Asian,A,High school graduate or GED completed,3,55,3059.42,30.8
+New Mexico,35,Asian,A,"Some college credit, but not a degree",4,72,3146.31,29.1
+New Mexico,35,Asian,A,"Associate degree (AA, AS)",5,35,3125.03,31.03
+New Mexico,35,Asian,A,"Bachelor's degree (BA, AB, BS)",6,132,3097.47,32.23
+New Mexico,35,Asian,A,"Master's degree (MA, MS)",7,82,3165.32,32.26
+New Mexico,35,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,52,3034.52,33.77
+New Mexico,35,Black or African American,2054-5,9th through 12th grade with no diploma,2,69,2915.59,22.2
+New Mexico,35,Black or African American,2054-5,High school graduate or GED completed,3,98,3053.18,25.42
+New Mexico,35,Black or African American,2054-5,"Some college credit, but not a degree",4,169,3067.31,26.42
+New Mexico,35,Black or African American,2054-5,"Associate degree (AA, AS)",5,28,2962.79,28.82
+New Mexico,35,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,79,3195.84,31.08
+New Mexico,35,Black or African American,2054-5,"Master's degree (MA, MS)",7,18,3298.28,32.67
+New Mexico,35,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,12,2826.25,33.83
+New Mexico,35,White,2106-3,8th grade or less,1,623,3216.43,28.7
+New Mexico,35,White,2106-3,9th through 12th grade with no diploma,2,3431,3122.24,24.23
+New Mexico,35,White,2106-3,High school graduate or GED completed,3,4619,3166.63,25.75
+New Mexico,35,White,2106-3,"Some college credit, but not a degree",4,5267,3188.94,26.72
+New Mexico,35,White,2106-3,"Associate degree (AA, AS)",5,1843,3215.25,28.85
+New Mexico,35,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2835,3268.26,30.7
+New Mexico,35,White,2106-3,"Master's degree (MA, MS)",7,1025,3241.59,32.53
+New Mexico,35,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,423,3230.52,33.49
+New Mexico,35,White,2106-3,nown/Not on certificate,,60,3045.1,28.28
+New Mexico,35,More than one race,M,9th through 12th grade with no diploma,2,61,3152.93,22.16
+New Mexico,35,More than one race,M,High school graduate or GED completed,3,101,3077.33,24.72
+New Mexico,35,More than one race,M,"Some college credit, but not a degree",4,165,3071.66,26.47
+New Mexico,35,More than one race,M,"Associate degree (AA, AS)",5,52,3321.12,28.85
+New Mexico,35,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,60,3349.17,30.6
+New Mexico,35,More than one race,M,"Master's degree (MA, MS)",7,23,3099.43,32.57
+New Mexico,35,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,14,3216.36,32.21
+New York,36,American Indian or Alaska Native,1002-5,8th grade or less,1,29,3296.34,28.69
+New York,36,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,102,3261.97,25.35
+New York,36,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,174,3297.15,26.1
+New York,36,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,150,3469.41,27.65
+New York,36,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,49,3184.31,30.53
+New York,36,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,48,3340.44,31.5
+New York,36,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,25,3335.16,33.4
+New York,36,Asian,A,8th grade or less,1,1842,3193,30.64
+New York,36,Asian,A,9th through 12th grade with no diploma,2,3374,3187.41,28.49
+New York,36,Asian,A,High school graduate or GED completed,3,5529,3177.7,29.09
+New York,36,Asian,A,"Some college credit, but not a degree",4,3408,3190.8,29.31
+New York,36,Asian,A,"Associate degree (AA, AS)",5,1691,3151.06,30.73
+New York,36,Asian,A,"Bachelor's degree (BA, AB, BS)",6,7754,3172.36,32.05
+New York,36,Asian,A,"Master's degree (MA, MS)",7,4258,3167.02,32.93
+New York,36,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1696,3160.59,33.93
+New York,36,Asian,A,nown/Not on certificate,,99,3060.35,30.52
+New York,36,Black or African American,2054-5,8th grade or less,1,1590,3233.88,31.06
+New York,36,Black or African American,2054-5,9th through 12th grade with no diploma,2,6632,3090.15,26.02
+New York,36,Black or African American,2054-5,High school graduate or GED completed,3,11966,3134.54,27.82
+New York,36,Black or African American,2054-5,"Some college credit, but not a degree",4,9806,3136.22,28.52
+New York,36,Black or African American,2054-5,"Associate degree (AA, AS)",5,4107,3158.73,30.64
+New York,36,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,6253,3178.86,31.63
+New York,36,Black or African American,2054-5,"Master's degree (MA, MS)",7,2629,3155.09,33.65
+New York,36,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,511,3188.49,34.49
+New York,36,Black or African American,2054-5,nown/Not on certificate,,263,3033.74,29.54
+New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,11,3260.27,24.27
+New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,31,3198.19,26.84
+New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,24,3466.62,27.67
+New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,12,3068.33,30
+New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,16,3350.38,31.31
+New York,36,White,2106-3,8th grade or less,1,7125,3283.85,29.88
+New York,36,White,2106-3,9th through 12th grade with no diploma,2,14607,3242.74,26.24
+New York,36,White,2106-3,High school graduate or GED completed,3,33130,3300.64,27.6
+New York,36,White,2106-3,"Some college credit, but not a degree",4,23306,3318.37,28.7
+New York,36,White,2106-3,"Associate degree (AA, AS)",5,12526,3333.59,30.27
+New York,36,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,31930,3347.72,32.06
+New York,36,White,2106-3,"Master's degree (MA, MS)",7,26230,3355.53,33.07
+New York,36,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,5838,3324.45,34.15
+New York,36,White,2106-3,nown/Not on certificate,,759,3228.33,29.28
+New York,36,More than one race,M,8th grade or less,1,214,3189.88,29.37
+New York,36,More than one race,M,9th through 12th grade with no diploma,2,605,3177.11,24.26
+New York,36,More than one race,M,High school graduate or GED completed,3,1088,3190.21,26.09
+New York,36,More than one race,M,"Some college credit, but not a degree",4,1079,3227.58,27.62
+New York,36,More than one race,M,"Associate degree (AA, AS)",5,373,3254.05,30.22
+New York,36,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,755,3271.17,32
+New York,36,More than one race,M,"Master's degree (MA, MS)",7,467,3261.49,33.41
+New York,36,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,135,3281.83,34.48
+New York,36,More than one race,M,nown/Not on certificate,,11,3049.18,25.64
+North Carolina,37,American Indian or Alaska Native,1002-5,8th grade or less,1,92,3191.34,29.2
+North Carolina,37,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,324,3104.03,23.5
+North Carolina,37,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,616,3148.87,24.69
+North Carolina,37,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,400,3218.68,26.73
+North Carolina,37,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,122,3326.1,29.3
+North Carolina,37,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,147,3368.84,30.29
+North Carolina,37,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,40,3340.93,34.05
+North Carolina,37,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,15,3499.87,34.53
+North Carolina,37,Asian,A,8th grade or less,1,428,3283.92,30.88
+North Carolina,37,Asian,A,9th through 12th grade with no diploma,2,472,3218.86,27.53
+North Carolina,37,Asian,A,High school graduate or GED completed,3,788,3197.58,28.13
+North Carolina,37,Asian,A,"Some college credit, but not a degree",4,558,3215.14,28.41
+North Carolina,37,Asian,A,"Associate degree (AA, AS)",5,283,3171.1,30.66
+North Carolina,37,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1573,3137.43,30.85
+North Carolina,37,Asian,A,"Master's degree (MA, MS)",7,1166,3159.74,31.73
+North Carolina,37,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,359,3172.79,33.84
+North Carolina,37,Asian,A,nown/Not on certificate,,20,3278.4,30.2
+North Carolina,37,Black or African American,2054-5,8th grade or less,1,1092,3293.54,30.14
+North Carolina,37,Black or African American,2054-5,9th through 12th grade with no diploma,2,4524,3048.18,24.37
+North Carolina,37,Black or African American,2054-5,High school graduate or GED completed,3,9571,3052.85,25.33
+North Carolina,37,Black or African American,2054-5,"Some college credit, but not a degree",4,8987,3073.62,26.76
+North Carolina,37,Black or African American,2054-5,"Associate degree (AA, AS)",5,2283,3119.23,30.09
+North Carolina,37,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,3535,3143.38,30.56
+North Carolina,37,Black or African American,2054-5,"Master's degree (MA, MS)",7,1413,3135.07,32.9
+North Carolina,37,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,289,3162.06,34.05
+North Carolina,37,Black or African American,2054-5,nown/Not on certificate,,79,3011.19,28.77
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,34,3371.59,31.24
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,48,3226.48,28.02
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,83,3285.88,27.22
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,57,3166.58,27.54
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,19,3162.84,28.37
+North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,12,3548.83,29.08
+North Carolina,37,White,2106-3,8th grade or less,1,2845,3289.06,30.29
+North Carolina,37,White,2106-3,9th through 12th grade with no diploma,2,7095,3194.54,24.72
+North Carolina,37,White,2106-3,High school graduate or GED completed,3,15656,3264.24,25.74
+North Carolina,37,White,2106-3,"Some college credit, but not a degree",4,16336,3325.85,27.4
+North Carolina,37,White,2106-3,"Associate degree (AA, AS)",5,8073,3340.84,29.41
+North Carolina,37,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,18539,3399.37,31.21
+North Carolina,37,White,2106-3,"Master's degree (MA, MS)",7,7458,3395.3,32.69
+North Carolina,37,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2240,3360.99,33.47
+North Carolina,37,White,2106-3,nown/Not on certificate,,225,3252.09,29.66
+North Carolina,37,More than one race,M,8th grade or less,1,38,3360.47,24.92
+North Carolina,37,More than one race,M,9th through 12th grade with no diploma,2,330,3127.68,21.02
+North Carolina,37,More than one race,M,High school graduate or GED completed,3,729,3198.5,23.8
+North Carolina,37,More than one race,M,"Some college credit, but not a degree",4,902,3251.36,26.48
+North Carolina,37,More than one race,M,"Associate degree (AA, AS)",5,264,3264.84,29.2
+North Carolina,37,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,428,3374.27,30.44
+North Carolina,37,More than one race,M,"Master's degree (MA, MS)",7,136,3358.02,32.74
+North Carolina,37,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,39,3348.21,33.67
+North Dakota,38,American Indian or Alaska Native,1002-5,8th grade or less,1,18,3438,22.28
+North Dakota,38,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,242,3226.62,23.27
+North Dakota,38,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,254,3407.62,24.87
+North Dakota,38,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,258,3393.46,27.73
+North Dakota,38,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,99,3521.51,29.32
+North Dakota,38,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,43,3615.07,30.91
+North Dakota,38,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,10,3579,32.9
+North Dakota,38,American Indian or Alaska Native,1002-5,nown/Not on certificate,,20,3125.85,25.95
+North Dakota,38,Asian,A,8th grade or less,1,31,3212,30.74
+North Dakota,38,Asian,A,9th through 12th grade with no diploma,2,30,3323.23,26.6
+North Dakota,38,Asian,A,High school graduate or GED completed,3,59,3177.29,28.36
+North Dakota,38,Asian,A,"Some college credit, but not a degree",4,36,3200.25,28.94
+North Dakota,38,Asian,A,"Associate degree (AA, AS)",5,13,3234.38,30.08
+North Dakota,38,Asian,A,"Bachelor's degree (BA, AB, BS)",6,106,3134.04,31.58
+North Dakota,38,Asian,A,"Master's degree (MA, MS)",7,21,3265.62,31.86
+North Dakota,38,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,23,3288.09,33.78
+North Dakota,38,Asian,A,nown/Not on certificate,,10,3365.44,33.4
+North Dakota,38,Black or African American,2054-5,8th grade or less,1,58,3258.38,30.29
+North Dakota,38,Black or African American,2054-5,9th through 12th grade with no diploma,2,73,3201.39,25.01
+North Dakota,38,Black or African American,2054-5,High school graduate or GED completed,3,218,3244.11,27.61
+North Dakota,38,Black or African American,2054-5,"Some college credit, but not a degree",4,178,3140.95,27.28
+North Dakota,38,Black or African American,2054-5,"Associate degree (AA, AS)",5,45,3242.6,29.91
+North Dakota,38,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,62,3252.63,30.52
+North Dakota,38,Black or African American,2054-5,"Master's degree (MA, MS)",7,25,3322.76,34.04
+North Dakota,38,Black or African American,2054-5,nown/Not on certificate,,29,3238,29.45
+North Dakota,38,White,2106-3,8th grade or less,1,61,3309.9,27.44
+North Dakota,38,White,2106-3,9th through 12th grade with no diploma,2,442,3241.76,23.42
+North Dakota,38,White,2106-3,High school graduate or GED completed,3,1588,3291.11,25.93
+North Dakota,38,White,2106-3,"Some college credit, but not a degree",4,1830,3383.14,27.54
+North Dakota,38,White,2106-3,"Associate degree (AA, AS)",5,1341,3364.68,29.34
+North Dakota,38,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2725,3415.51,30.16
+North Dakota,38,White,2106-3,"Master's degree (MA, MS)",7,716,3385.69,31.38
+North Dakota,38,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,258,3351.69,32.16
+North Dakota,38,White,2106-3,nown/Not on certificate,,87,3230.31,29.01
+North Dakota,38,More than one race,M,9th through 12th grade with no diploma,2,34,3388.82,21.47
+North Dakota,38,More than one race,M,High school graduate or GED completed,3,86,3351.99,23.63
+North Dakota,38,More than one race,M,"Some college credit, but not a degree",4,116,3374.95,26.59
+North Dakota,38,More than one race,M,"Associate degree (AA, AS)",5,36,3421.97,28.58
+North Dakota,38,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,45,3514.62,29.38
+North Dakota,38,More than one race,M,"Master's degree (MA, MS)",7,11,3338.91,30.55
+Ohio,39,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,19,2963.74,23.89
+Ohio,39,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,60,3375.95,26.35
+Ohio,39,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,31,3619.48,29.9
+Ohio,39,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,19,3448.84,31.63
+Ohio,39,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,18,3274.78,31.78
+Ohio,39,Asian,A,8th grade or less,1,226,3217.14,30.55
+Ohio,39,Asian,A,9th through 12th grade with no diploma,2,348,3140.48,27.37
+Ohio,39,Asian,A,High school graduate or GED completed,3,620,3154.14,28.79
+Ohio,39,Asian,A,"Some college credit, but not a degree",4,335,3124.12,29.69
+Ohio,39,Asian,A,"Associate degree (AA, AS)",5,185,3169.21,31.11
+Ohio,39,Asian,A,"Bachelor's degree (BA, AB, BS)",6,1274,3192.75,31.11
+Ohio,39,Asian,A,"Master's degree (MA, MS)",7,1052,3168.1,31.62
+Ohio,39,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,433,3161.68,33.66
+Ohio,39,Asian,A,nown/Not on certificate,,27,2960.04,29.11
+Ohio,39,Black or African American,2054-5,8th grade or less,1,580,3199.57,28.73
+Ohio,39,Black or African American,2054-5,9th through 12th grade with no diploma,2,4118,2975.5,23.92
+Ohio,39,Black or African American,2054-5,High school graduate or GED completed,3,8296,3028.53,25.54
+Ohio,39,Black or African American,2054-5,"Some college credit, but not a degree",4,6092,3071.54,27.03
+Ohio,39,Black or African American,2054-5,"Associate degree (AA, AS)",5,1697,3092.18,30.04
+Ohio,39,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1686,3137.6,30.54
+Ohio,39,Black or African American,2054-5,"Master's degree (MA, MS)",7,712,3171.54,32.81
+Ohio,39,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,140,3263.1,34.27
+Ohio,39,Black or African American,2054-5,nown/Not on certificate,,199,3036.58,27.42
+Ohio,39,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,16,3164.5,29.38
+Ohio,39,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,32,3229.52,26.59
+Ohio,39,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,10,3439.1,27.9
+Ohio,39,White,2106-3,8th grade or less,1,3775,3332.09,28.3
+Ohio,39,White,2106-3,9th through 12th grade with no diploma,2,8708,3141.49,23.62
+Ohio,39,White,2106-3,High school graduate or GED completed,3,26107,3255.98,25.72
+Ohio,39,White,2106-3,"Some college credit, but not a degree",4,21051,3314,27.62
+Ohio,39,White,2106-3,"Associate degree (AA, AS)",5,10460,3351.28,29.64
+Ohio,39,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,22709,3385.5,30.83
+Ohio,39,White,2106-3,"Master's degree (MA, MS)",7,10527,3395.76,32.38
+Ohio,39,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2742,3335.13,32.79
+Ohio,39,White,2106-3,nown/Not on certificate,,302,3081.61,28.42
+Ohio,39,More than one race,M,8th grade or less,1,34,3250.91,21.65
+Ohio,39,More than one race,M,9th through 12th grade with no diploma,2,590,3117.7,21.76
+Ohio,39,More than one race,M,High school graduate or GED completed,3,1113,3157.9,23.61
+Ohio,39,More than one race,M,"Some college credit, but not a degree",4,930,3203.96,26.23
+Ohio,39,More than one race,M,"Associate degree (AA, AS)",5,224,3282.26,28.65
+Ohio,39,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,357,3269.04,29.66
+Ohio,39,More than one race,M,"Master's degree (MA, MS)",7,141,3322.68,32.6
+Ohio,39,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,42,3358.45,33.29
+Oklahoma,40,American Indian or Alaska Native,1002-5,8th grade or less,1,105,3362.94,24.2
+Oklahoma,40,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,923,3233.8,23.18
+Oklahoma,40,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,1985,3320.31,24.89
+Oklahoma,40,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,1313,3378.24,26.7
+Oklahoma,40,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,371,3364.61,28.37
+Oklahoma,40,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,473,3370.95,29.6
+Oklahoma,40,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,124,3455.65,32.19
+Oklahoma,40,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,32,3462.28,32.19
+Oklahoma,40,American Indian or Alaska Native,1002-5,nown/Not on certificate,,20,2897.5,25.45
+Oklahoma,40,Asian,A,8th grade or less,1,129,3316.64,30.72
+Oklahoma,40,Asian,A,9th through 12th grade with no diploma,2,126,3205.58,27.85
+Oklahoma,40,Asian,A,High school graduate or GED completed,3,274,3153.62,28.85
+Oklahoma,40,Asian,A,"Some college credit, but not a degree",4,209,3109.66,28.18
+Oklahoma,40,Asian,A,"Associate degree (AA, AS)",5,103,3211.15,30.27
+Oklahoma,40,Asian,A,"Bachelor's degree (BA, AB, BS)",6,327,3211.01,31.49
+Oklahoma,40,Asian,A,"Master's degree (MA, MS)",7,199,3202.77,31.98
+Oklahoma,40,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,113,3232.33,33.33
+Oklahoma,40,Black or African American,2054-5,8th grade or less,1,84,3076.93,25.82
+Oklahoma,40,Black or African American,2054-5,9th through 12th grade with no diploma,2,741,2970.34,23.78
+Oklahoma,40,Black or African American,2054-5,High school graduate or GED completed,3,1610,3003.01,24.96
+Oklahoma,40,Black or African American,2054-5,"Some college credit, but not a degree",4,1325,3062.1,26.98
+Oklahoma,40,Black or African American,2054-5,"Associate degree (AA, AS)",5,347,3103.86,29.67
+Oklahoma,40,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,433,3180.64,30.53
+Oklahoma,40,Black or African American,2054-5,"Master's degree (MA, MS)",7,189,3165.2,32.89
+Oklahoma,40,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,31,3215.84,33.65
+Oklahoma,40,Black or African American,2054-5,nown/Not on certificate,,20,2901.1,27.85
+Oklahoma,40,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,27,3170.78,27.81
+Oklahoma,40,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,67,3186.55,25.28
+Oklahoma,40,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,74,3238.76,26.57
+Oklahoma,40,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,51,3361.61,26.8
+Oklahoma,40,White,2106-3,8th grade or less,1,1229,3254.6,28.51
+Oklahoma,40,White,2106-3,9th through 12th grade with no diploma,2,4706,3203.29,24.11
+Oklahoma,40,White,2106-3,High school graduate or GED completed,3,10225,3254.06,25.44
+Oklahoma,40,White,2106-3,"Some college credit, but not a degree",4,8271,3317.48,27.08
+Oklahoma,40,White,2106-3,"Associate degree (AA, AS)",5,2906,3345.47,29.1
+Oklahoma,40,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,7064,3383.24,30.29
+Oklahoma,40,White,2106-3,"Master's degree (MA, MS)",7,1924,3370.64,31.87
+Oklahoma,40,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,620,3378.03,32.43
+Oklahoma,40,White,2106-3,nown/Not on certificate,,83,3102.84,27.98
+Oklahoma,40,More than one race,M,8th grade or less,1,50,3241.82,21.82
+Oklahoma,40,More than one race,M,9th through 12th grade with no diploma,2,607,3193.09,21.75
+Oklahoma,40,More than one race,M,High school graduate or GED completed,3,1151,3188.34,23.97
+Oklahoma,40,More than one race,M,"Some college credit, but not a degree",4,1027,3279.67,26.05
+Oklahoma,40,More than one race,M,"Associate degree (AA, AS)",5,263,3284.04,28.55
+Oklahoma,40,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,440,3354.43,30.09
+Oklahoma,40,More than one race,M,"Master's degree (MA, MS)",7,143,3298.06,32.13
+Oklahoma,40,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,35,3430.91,32.26
+Oregon,41,American Indian or Alaska Native,1002-5,8th grade or less,1,23,3388.61,29.26
+Oregon,41,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,136,3355.33,24.46
+Oregon,41,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,200,3294.91,26.39
+Oregon,41,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,150,3373.18,27.69
+Oregon,41,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,28,3431.57,30.75
+Oregon,41,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,28,3571.39,29.57
+Oregon,41,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,13,3310.23,34.08
+Oregon,41,Asian,A,8th grade or less,1,56,3343.96,31.21
+Oregon,41,Asian,A,9th through 12th grade with no diploma,2,148,3210.42,27.98
+Oregon,41,Asian,A,High school graduate or GED completed,3,268,3206.91,29.74
+Oregon,41,Asian,A,"Some college credit, but not a degree",4,328,3241.7,30.07
+Oregon,41,Asian,A,"Associate degree (AA, AS)",5,162,3193.18,31.62
+Oregon,41,Asian,A,"Bachelor's degree (BA, AB, BS)",6,852,3201.04,32.37
+Oregon,41,Asian,A,"Master's degree (MA, MS)",7,468,3188.16,32.75
+Oregon,41,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,202,3202.03,34
+Oregon,41,Asian,A,nown/Not on certificate,,10,2410.2,32.3
+Oregon,41,Black or African American,2054-5,8th grade or less,1,61,3197.46,29.9
+Oregon,41,Black or African American,2054-5,9th through 12th grade with no diploma,2,137,3171.34,25.91
+Oregon,41,Black or African American,2054-5,High school graduate or GED completed,3,268,3272.28,26.67
+Oregon,41,Black or African American,2054-5,"Some college credit, but not a degree",4,322,3202.92,28.54
+Oregon,41,Black or African American,2054-5,"Associate degree (AA, AS)",5,77,3354.34,30.79
+Oregon,41,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,126,3345.58,31.25
+Oregon,41,Black or African American,2054-5,"Master's degree (MA, MS)",7,49,3181.39,32.59
+Oregon,41,Black or African American,2054-5,nown/Not on certificate,,14,3305.21,30.71
+Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,71,3304.37,25.54
+Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,143,3313.73,26.54
+Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,85,3286.33,28.09
+Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,26,3249.38,30.08
+Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,27,3506.37,30.52
+Oregon,41,White,2106-3,8th grade or less,1,1136,3275.61,31.56
+Oregon,41,White,2106-3,9th through 12th grade with no diploma,2,3895,3282.35,25.37
+Oregon,41,White,2106-3,High school graduate or GED completed,3,8592,3325.27,26.41
+Oregon,41,White,2106-3,"Some college credit, but not a degree",4,9656,3371.43,28.23
+Oregon,41,White,2106-3,"Associate degree (AA, AS)",5,3319,3386.67,29.77
+Oregon,41,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,7662,3425.59,31.7
+Oregon,41,White,2106-3,"Master's degree (MA, MS)",7,3479,3411,33.41
+Oregon,41,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1136,3401.96,34.19
+Oregon,41,White,2106-3,nown/Not on certificate,,199,3156.44,30.01
+Oregon,41,More than one race,M,8th grade or less,1,25,3163.76,25.28
+Oregon,41,More than one race,M,9th through 12th grade with no diploma,2,238,3236.71,23.71
+Oregon,41,More than one race,M,High school graduate or GED completed,3,430,3228.7,25.51
+Oregon,41,More than one race,M,"Some college credit, but not a degree",4,594,3315.32,27.55
+Oregon,41,More than one race,M,"Associate degree (AA, AS)",5,161,3453.82,29.78
+Oregon,41,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,333,3390.46,31.18
+Oregon,41,More than one race,M,"Master's degree (MA, MS)",7,125,3446.44,33.16
+Oregon,41,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,44,3399.57,33.52
+Pennsylvania,42,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,25,3219.44,22.56
+Pennsylvania,42,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,86,3208.76,26.2
+Pennsylvania,42,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,41,3249.73,28.56
+Pennsylvania,42,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,19,3368.11,30.47
+Pennsylvania,42,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,20,3103,30.35
+Pennsylvania,42,Asian,A,8th grade or less,1,240,3204.46,30.4
+Pennsylvania,42,Asian,A,9th through 12th grade with no diploma,2,546,3167.42,27.46
+Pennsylvania,42,Asian,A,High school graduate or GED completed,3,1081,3151.74,28.5
+Pennsylvania,42,Asian,A,"Some college credit, but not a degree",4,645,3178.62,29.39
+Pennsylvania,42,Asian,A,"Associate degree (AA, AS)",5,352,3189.93,30.58
+Pennsylvania,42,Asian,A,"Bachelor's degree (BA, AB, BS)",6,2080,3186.21,31.17
+Pennsylvania,42,Asian,A,"Master's degree (MA, MS)",7,1409,3196.95,31.86
+Pennsylvania,42,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,723,3150.98,33.89
+Pennsylvania,42,Asian,A,nown/Not on certificate,,75,3066.81,30.49
+Pennsylvania,42,Black or African American,2054-5,8th grade or less,1,346,3204.69,29.18
+Pennsylvania,42,Black or African American,2054-5,9th through 12th grade with no diploma,2,2896,3017.81,24.08
+Pennsylvania,42,Black or African American,2054-5,High school graduate or GED completed,3,8201,3064.44,25.97
+Pennsylvania,42,Black or African American,2054-5,"Some college credit, but not a degree",4,5258,3114.59,27.34
+Pennsylvania,42,Black or African American,2054-5,"Associate degree (AA, AS)",5,1594,3101.15,29.71
+Pennsylvania,42,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,2028,3207.15,30.33
+Pennsylvania,42,Black or African American,2054-5,"Master's degree (MA, MS)",7,816,3163.43,32.92
+Pennsylvania,42,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,174,3322.12,33.98
+Pennsylvania,42,Black or African American,2054-5,nown/Not on certificate,,258,2818.96,27.84
+Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,23,3155.17,23.04
+Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,59,3157.66,26.61
+Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,40,3329.05,27.23
+Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,14,3247.14,29.57
+Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,11,3221.64,28.18
+Pennsylvania,42,White,2106-3,8th grade or less,1,3913,3420.02,28.48
+Pennsylvania,42,White,2106-3,9th through 12th grade with no diploma,2,8315,3226.59,24.7
+Pennsylvania,42,White,2106-3,High school graduate or GED completed,3,23975,3268.42,26.66
+Pennsylvania,42,White,2106-3,"Some college credit, but not a degree",4,17228,3324.85,28.12
+Pennsylvania,42,White,2106-3,"Associate degree (AA, AS)",5,10336,3334.76,29.84
+Pennsylvania,42,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,25469,3389.56,31.25
+Pennsylvania,42,White,2106-3,"Master's degree (MA, MS)",7,13499,3378.76,32.61
+Pennsylvania,42,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,3407,3365.31,33.46
+Pennsylvania,42,White,2106-3,nown/Not on certificate,,543,3052.39,28.58
+Pennsylvania,42,More than one race,M,8th grade or less,1,21,3190.52,25.05
+Pennsylvania,42,More than one race,M,9th through 12th grade with no diploma,2,486,3114.78,21.99
+Pennsylvania,42,More than one race,M,High school graduate or GED completed,3,1196,3157.29,24.7
+Pennsylvania,42,More than one race,M,"Some college credit, but not a degree",4,990,3203.66,26.75
+Pennsylvania,42,More than one race,M,"Associate degree (AA, AS)",5,283,3208.91,29.52
+Pennsylvania,42,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,403,3306.89,30.65
+Pennsylvania,42,More than one race,M,"Master's degree (MA, MS)",7,186,3324.41,32.93
+Pennsylvania,42,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,61,3239.79,34.38
+Pennsylvania,42,More than one race,M,nown/Not on certificate,,10,3447.4,26.4
+Rhode Island,44,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,25,3176.28,24.64
+Rhode Island,44,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,20,2873.9,25.15
+Rhode Island,44,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,23,3328.91,26.91
+Rhode Island,44,American Indian or Alaska Native,1002-5,nown/Not on certificate,,16,3056.88,29.19
+Rhode Island,44,Asian,A,8th grade or less,1,23,3359.04,30.35
+Rhode Island,44,Asian,A,9th through 12th grade with no diploma,2,58,3266.21,26.48
+Rhode Island,44,Asian,A,High school graduate or GED completed,3,97,3272,28.07
+Rhode Island,44,Asian,A,"Some college credit, but not a degree",4,97,3194.53,29.19
+Rhode Island,44,Asian,A,"Associate degree (AA, AS)",5,28,3259.04,32.43
+Rhode Island,44,Asian,A,"Bachelor's degree (BA, AB, BS)",6,157,3119.08,30.89
+Rhode Island,44,Asian,A,"Master's degree (MA, MS)",7,107,3175.79,31.26
+Rhode Island,44,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,46,3191.07,34.07
+Rhode Island,44,Asian,A,nown/Not on certificate,,75,3001.19,30.08
+Rhode Island,44,Black or African American,2054-5,8th grade or less,1,55,3092.16,29.67
+Rhode Island,44,Black or African American,2054-5,9th through 12th grade with no diploma,2,139,3051.25,25.94
+Rhode Island,44,Black or African American,2054-5,High school graduate or GED completed,3,283,3162.62,26.97
+Rhode Island,44,Black or African American,2054-5,"Some college credit, but not a degree",4,268,3185.75,27.72
+Rhode Island,44,Black or African American,2054-5,"Associate degree (AA, AS)",5,65,3160.48,30.77
+Rhode Island,44,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,135,3215.67,30.98
+Rhode Island,44,Black or African American,2054-5,"Master's degree (MA, MS)",7,40,3155.47,34
+Rhode Island,44,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,11,3175.91,33.55
+Rhode Island,44,Black or African American,2054-5,nown/Not on certificate,,199,3226.43,28.54
+Rhode Island,44,White,2106-3,8th grade or less,1,203,3269.63,29.27
+Rhode Island,44,White,2106-3,9th through 12th grade with no diploma,2,688,3205.61,24.78
+Rhode Island,44,White,2106-3,High school graduate or GED completed,3,1537,3280.65,27.02
+Rhode Island,44,White,2106-3,"Some college credit, but not a degree",4,1607,3340.99,28.43
+Rhode Island,44,White,2106-3,"Associate degree (AA, AS)",5,582,3326.34,30.38
+Rhode Island,44,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1771,3361.3,31.84
+Rhode Island,44,White,2106-3,"Master's degree (MA, MS)",7,874,3332.87,33.07
+Rhode Island,44,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,271,3319.59,33.75
+Rhode Island,44,White,2106-3,nown/Not on certificate,,933,3267.16,29.62
+Rhode Island,44,More than one race,M,9th through 12th grade with no diploma,2,39,3030.92,23.67
+Rhode Island,44,More than one race,M,High school graduate or GED completed,3,95,3133.35,24.57
+Rhode Island,44,More than one race,M,"Some college credit, but not a degree",4,92,3126.37,28.62
+Rhode Island,44,More than one race,M,"Associate degree (AA, AS)",5,18,3294.67,29
+Rhode Island,44,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,34,3421.35,30.65
+Rhode Island,44,More than one race,M,"Master's degree (MA, MS)",7,12,3453.67,31.58
+Rhode Island,44,More than one race,M,nown/Not on certificate,,48,3261.02,27.04
+South Carolina,45,American Indian or Alaska Native,1002-5,8th grade or less,1,11,2950.82,28.36
+South Carolina,45,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,30,3258.53,22.9
+South Carolina,45,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,38,3126.05,25.45
+South Carolina,45,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,64,3269.92,29.12
+South Carolina,45,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,13,3613.08,28.69
+South Carolina,45,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,26,3162.12,31.81
+South Carolina,45,Asian,A,8th grade or less,1,41,3020.73,30.71
+South Carolina,45,Asian,A,9th through 12th grade with no diploma,2,71,3132.79,28.82
+South Carolina,45,Asian,A,High school graduate or GED completed,3,173,3127.62,28.31
+South Carolina,45,Asian,A,"Some college credit, but not a degree",4,167,3220.2,29.04
+South Carolina,45,Asian,A,"Associate degree (AA, AS)",5,91,3209.58,31.1
+South Carolina,45,Asian,A,"Bachelor's degree (BA, AB, BS)",6,367,3195.9,31.75
+South Carolina,45,Asian,A,"Master's degree (MA, MS)",7,227,3127.57,32.08
+South Carolina,45,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,98,3120.29,33.89
+South Carolina,45,Black or African American,2054-5,8th grade or less,1,388,3213.94,29.36
+South Carolina,45,Black or African American,2054-5,9th through 12th grade with no diploma,2,2543,2977.7,24.48
+South Carolina,45,Black or African American,2054-5,High school graduate or GED completed,3,5695,3019.47,25.35
+South Carolina,45,Black or African American,2054-5,"Some college credit, but not a degree",4,5261,3053.54,26.68
+South Carolina,45,Black or African American,2054-5,"Associate degree (AA, AS)",5,1453,3084.42,29.65
+South Carolina,45,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1543,3122.36,29.93
+South Carolina,45,Black or African American,2054-5,"Master's degree (MA, MS)",7,725,3107.01,32.78
+South Carolina,45,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,95,3122.13,33.72
+South Carolina,45,Black or African American,2054-5,nown/Not on certificate,,56,2896.2,28.39
+South Carolina,45,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,16,3272.25,25
+South Carolina,45,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,25,3405.96,27.24
+South Carolina,45,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,16,3355.56,29
+South Carolina,45,White,2106-3,8th grade or less,1,1030,3297.3,29.09
+South Carolina,45,White,2106-3,9th through 12th grade with no diploma,2,3834,3200.85,23.88
+South Carolina,45,White,2106-3,High school graduate or GED completed,3,7287,3265.61,25.76
+South Carolina,45,White,2106-3,"Some college credit, but not a degree",4,8123,3327.86,27.33
+South Carolina,45,White,2106-3,"Associate degree (AA, AS)",5,3519,3344,29.76
+South Carolina,45,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,8309,3378.67,31.02
+South Carolina,45,White,2106-3,"Master's degree (MA, MS)",7,3528,3399.67,32.39
+South Carolina,45,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1028,3341.4,33.07
+South Carolina,45,White,2106-3,nown/Not on certificate,,101,3088.38,28.25
+South Carolina,45,More than one race,M,8th grade or less,1,12,2940.75,22.08
+South Carolina,45,More than one race,M,9th through 12th grade with no diploma,2,187,3177.98,21.94
+South Carolina,45,More than one race,M,High school graduate or GED completed,3,317,3166.68,23.67
+South Carolina,45,More than one race,M,"Some college credit, but not a degree",4,463,3207.84,25.79
+South Carolina,45,More than one race,M,"Associate degree (AA, AS)",5,113,3312.31,29.39
+South Carolina,45,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,156,3304.26,29.8
+South Carolina,45,More than one race,M,"Master's degree (MA, MS)",7,50,3267.36,33.14
+South Carolina,45,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,26,3351.88,33.96
+South Dakota,46,American Indian or Alaska Native,1002-5,8th grade or less,1,61,3290.89,24.3
+South Dakota,46,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,709,3300.14,23.55
+South Dakota,46,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,535,3338.93,25.79
+South Dakota,46,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,407,3435.72,27.29
+South Dakota,46,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,75,3271.36,29.8
+South Dakota,46,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,53,3550.53,32.08
+South Dakota,46,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,10,3416.1,31
+South Dakota,46,American Indian or Alaska Native,1002-5,nown/Not on certificate,,17,3263.12,26
+South Dakota,46,Asian,A,8th grade or less,1,39,3124.64,29.28
+South Dakota,46,Asian,A,9th through 12th grade with no diploma,2,63,3090.87,24.94
+South Dakota,46,Asian,A,High school graduate or GED completed,3,63,3142.27,25.37
+South Dakota,46,Asian,A,"Some college credit, but not a degree",4,30,3036.23,27.97
+South Dakota,46,Asian,A,"Associate degree (AA, AS)",5,10,3135.7,31.1
+South Dakota,46,Asian,A,"Bachelor's degree (BA, AB, BS)",6,40,3307.1,32.23
+South Dakota,46,Asian,A,"Master's degree (MA, MS)",7,16,3182.5,30.81
+South Dakota,46,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,13,3339.15,32.92
+South Dakota,46,Black or African American,2054-5,8th grade or less,1,65,3217.63,31.17
+South Dakota,46,Black or African American,2054-5,9th through 12th grade with no diploma,2,60,3265.55,27.13
+South Dakota,46,Black or African American,2054-5,High school graduate or GED completed,3,135,3212.13,28.15
+South Dakota,46,Black or African American,2054-5,"Some college credit, but not a degree",4,60,3139.4,27.62
+South Dakota,46,Black or African American,2054-5,"Associate degree (AA, AS)",5,21,3207.67,28.86
+South Dakota,46,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,30,3318.83,29.53
+South Dakota,46,White,2106-3,8th grade or less,1,200,3272.2,29.04
+South Dakota,46,White,2106-3,9th through 12th grade with no diploma,2,505,3208.87,23.96
+South Dakota,46,White,2106-3,High school graduate or GED completed,3,2144,3303.33,26.61
+South Dakota,46,White,2106-3,"Some college credit, but not a degree",4,1514,3317.29,27.31
+South Dakota,46,White,2106-3,"Associate degree (AA, AS)",5,1215,3364.84,29.28
+South Dakota,46,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2708,3402.09,30.09
+South Dakota,46,White,2106-3,"Master's degree (MA, MS)",7,773,3433.59,31.92
+South Dakota,46,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,273,3358.53,32.35
+South Dakota,46,White,2106-3,nown/Not on certificate,,12,2784.25,31.42
+South Dakota,46,More than one race,M,9th through 12th grade with no diploma,2,77,3183.81,23.13
+South Dakota,46,More than one race,M,High school graduate or GED completed,3,148,3326.95,24.85
+South Dakota,46,More than one race,M,"Some college credit, but not a degree",4,99,3229.95,26.34
+South Dakota,46,More than one race,M,"Associate degree (AA, AS)",5,25,3066.72,29.16
+South Dakota,46,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,29,3423.38,30.14
+South Dakota,46,More than one race,M,"Master's degree (MA, MS)",7,15,3548.73,31.93
+Tennessee,47,American Indian or Alaska Native,1002-5,8th grade or less,1,13,3049.54,30.08
+Tennessee,47,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,25,3215.36,23.28
+Tennessee,47,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,44,3228.23,24.82
+Tennessee,47,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,15,3394,26.2
+Tennessee,47,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,16,3352.69,30.81
+Tennessee,47,Asian,A,8th grade or less,1,138,3260.93,30.95
+Tennessee,47,Asian,A,9th through 12th grade with no diploma,2,196,3143.52,28.84
+Tennessee,47,Asian,A,High school graduate or GED completed,3,297,3156.86,28.34
+Tennessee,47,Asian,A,"Some college credit, but not a degree",4,233,3243,28.85
+Tennessee,47,Asian,A,"Associate degree (AA, AS)",5,114,3103.67,32.57
+Tennessee,47,Asian,A,"Bachelor's degree (BA, AB, BS)",6,543,3196.11,31.03
+Tennessee,47,Asian,A,"Master's degree (MA, MS)",7,372,3169.13,31.58
+Tennessee,47,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,179,3233.2,33.12
+Tennessee,47,Black or African American,2054-5,8th grade or less,1,604,3178.07,29.36
+Tennessee,47,Black or African American,2054-5,9th through 12th grade with no diploma,2,2545,2994.44,24.42
+Tennessee,47,Black or African American,2054-5,High school graduate or GED completed,3,5837,3026.5,25.03
+Tennessee,47,Black or African American,2054-5,"Some college credit, but not a degree",4,5074,3056.69,26.44
+Tennessee,47,Black or African American,2054-5,"Associate degree (AA, AS)",5,929,3107.54,29.35
+Tennessee,47,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,1486,3132.22,30.01
+Tennessee,47,Black or African American,2054-5,"Master's degree (MA, MS)",7,665,3061.11,32.78
+Tennessee,47,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,144,3126.11,34.24
+Tennessee,47,Black or African American,2054-5,nown/Not on certificate,,116,2991.49,27.96
+Tennessee,47,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,14,3261.79,29.29
+Tennessee,47,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,16,3264.73,30.38
+Tennessee,47,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,50,3282.61,27.3
+Tennessee,47,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,27,3318.07,26.48
+Tennessee,47,White,2106-3,8th grade or less,1,1896,3249.42,29.14
+Tennessee,47,White,2106-3,9th through 12th grade with no diploma,2,5481,3152.15,24.23
+Tennessee,47,White,2106-3,High school graduate or GED completed,3,15969,3223,25.34
+Tennessee,47,White,2106-3,"Some college credit, but not a degree",4,13518,3303.23,27.08
+Tennessee,47,White,2106-3,"Associate degree (AA, AS)",5,4584,3331.99,29.14
+Tennessee,47,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,11672,3390.12,30.58
+Tennessee,47,White,2106-3,"Master's degree (MA, MS)",7,4781,3382.79,32.05
+Tennessee,47,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1453,3354.55,33.05
+Tennessee,47,White,2106-3,nown/Not on certificate,,368,3197.8,28.75
+Tennessee,47,More than one race,M,9th through 12th grade with no diploma,2,141,3117.09,21.9
+Tennessee,47,More than one race,M,High school graduate or GED completed,3,424,3132.61,23.46
+Tennessee,47,More than one race,M,"Some college credit, but not a degree",4,426,3233.05,26.08
+Tennessee,47,More than one race,M,"Associate degree (AA, AS)",5,97,3225.97,28.09
+Tennessee,47,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,166,3368.78,29.65
+Tennessee,47,More than one race,M,"Master's degree (MA, MS)",7,66,3377.24,31.97
+Tennessee,47,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,21,3281.14,33.14
+Texas,48,American Indian or Alaska Native,1002-5,8th grade or less,1,33,3328.48,28.12
+Texas,48,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,156,3265.97,24.93
+Texas,48,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,326,3327.9,24.69
+Texas,48,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,349,3237.14,27.63
+Texas,48,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,71,3377.06,30.11
+Texas,48,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,170,3350.35,31.3
+Texas,48,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,47,3343.81,33.15
+Texas,48,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,16,3518.25,31.75
+Texas,48,Asian,A,8th grade or less,1,706,3185.61,30.26
+Texas,48,Asian,A,9th through 12th grade with no diploma,2,1343,3187.95,28.52
+Texas,48,Asian,A,High school graduate or GED completed,3,2630,3136.49,29.01
+Texas,48,Asian,A,"Some college credit, but not a degree",4,2390,3167.98,29.33
+Texas,48,Asian,A,"Associate degree (AA, AS)",5,1144,3189.08,30.99
+Texas,48,Asian,A,"Bachelor's degree (BA, AB, BS)",6,7563,3134.95,31.76
+Texas,48,Asian,A,"Master's degree (MA, MS)",7,5000,3147.12,32.25
+Texas,48,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1832,3103.98,33.67
+Texas,48,Asian,A,nown/Not on certificate,,39,3101.82,32.21
+Texas,48,Black or African American,2054-5,8th grade or less,1,868,3203.83,27.91
+Texas,48,Black or African American,2054-5,9th through 12th grade with no diploma,2,6727,3036.01,24
+Texas,48,Black or African American,2054-5,High school graduate or GED completed,3,16426,3050.14,25.45
+Texas,48,Black or African American,2054-5,"Some college credit, but not a degree",4,15373,3079.87,27.1
+Texas,48,Black or African American,2054-5,"Associate degree (AA, AS)",5,3613,3135.34,29.99
+Texas,48,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,7752,3185.42,31.16
+Texas,48,Black or African American,2054-5,"Master's degree (MA, MS)",7,3330,3147.28,33.07
+Texas,48,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,814,3192.73,33.63
+Texas,48,Black or African American,2054-5,nown/Not on certificate,,98,2908.56,28.16
+Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,70,3238.87,24.43
+Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,234,3248.43,25.79
+Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,180,3313.52,27.88
+Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,54,3410.63,29.13
+Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,64,3390.23,31.23
+Texas,48,White,2106-3,8th grade or less,1,13377,3244,29.2
+Texas,48,White,2106-3,9th through 12th grade with no diploma,2,49934,3217.22,25.35
+Texas,48,White,2106-3,High school graduate or GED completed,3,85910,3234.65,25.8
+Texas,48,White,2106-3,"Some college credit, but not a degree",4,67107,3278.47,27.35
+Texas,48,White,2106-3,"Associate degree (AA, AS)",5,19219,3290.8,29.25
+Texas,48,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,55166,3339.92,31.03
+Texas,48,White,2106-3,"Master's degree (MA, MS)",7,17509,3344.79,32.61
+Texas,48,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,5032,3326.55,33.44
+Texas,48,White,2106-3,nown/Not on certificate,,440,2992.77,28.09
+Texas,48,More than one race,M,8th grade or less,1,91,3244.79,26.14
+Texas,48,More than one race,M,9th through 12th grade with no diploma,2,492,3143.72,22.15
+Texas,48,More than one race,M,High school graduate or GED completed,3,1179,3173,24.12
+Texas,48,More than one race,M,"Some college credit, but not a degree",4,1434,3219.7,26.35
+Texas,48,More than one race,M,"Associate degree (AA, AS)",5,378,3252.28,28.97
+Texas,48,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,898,3281.08,30.77
+Texas,48,More than one race,M,"Master's degree (MA, MS)",7,324,3257.05,31.9
+Texas,48,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,109,3234.93,33.8
+Utah,49,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,106,3262.34,24.02
+Utah,49,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,216,3293.34,26.46
+Utah,49,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,145,3297.89,28.06
+Utah,49,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,34,3250,30.21
+Utah,49,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,30,3430.93,30.37
+Utah,49,American Indian or Alaska Native,1002-5,nown/Not on certificate,,13,3239.77,24.62
+Utah,49,Asian,A,8th grade or less,1,53,3218.25,29.45
+Utah,49,Asian,A,9th through 12th grade with no diploma,2,80,3144.6,27.4
+Utah,49,Asian,A,High school graduate or GED completed,3,193,3101.54,27.88
+Utah,49,Asian,A,"Some college credit, but not a degree",4,181,3109.85,29.33
+Utah,49,Asian,A,"Associate degree (AA, AS)",5,93,3165.28,31.11
+Utah,49,Asian,A,"Bachelor's degree (BA, AB, BS)",6,392,3156.95,31.25
+Utah,49,Asian,A,"Master's degree (MA, MS)",7,202,3072.05,31.92
+Utah,49,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,78,3081.42,33.99
+Utah,49,Asian,A,nown/Not on certificate,,58,3025.47,29.55
+Utah,49,Black or African American,2054-5,8th grade or less,1,66,3272.77,31.3
+Utah,49,Black or African American,2054-5,9th through 12th grade with no diploma,2,79,3160.2,25.06
+Utah,49,Black or African American,2054-5,High school graduate or GED completed,3,167,3069.96,25.65
+Utah,49,Black or African American,2054-5,"Some college credit, but not a degree",4,130,3158.5,27.25
+Utah,49,Black or African American,2054-5,"Associate degree (AA, AS)",5,47,3188.23,29.13
+Utah,49,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,84,3207.32,30.35
+Utah,49,Black or African American,2054-5,"Master's degree (MA, MS)",7,24,3196.29,34.12
+Utah,49,Black or African American,2054-5,nown/Not on certificate,,59,3174.54,29.31
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,62,3136.45,26.74
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,191,3285.32,26.51
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,120,3359.18,27.98
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,35,3190.4,29.77
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,40,3483.47,30.07
+Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,nown/Not on certificate,,13,3354.46,27.23
+Utah,49,White,2106-3,8th grade or less,1,649,3206.94,31.07
+Utah,49,White,2106-3,9th through 12th grade with no diploma,2,3197,3156.78,25.32
+Utah,49,White,2106-3,High school graduate or GED completed,3,8719,3213.9,26.4
+Utah,49,White,2106-3,"Some college credit, but not a degree",4,11631,3275.62,27.98
+Utah,49,White,2106-3,"Associate degree (AA, AS)",5,5435,3291.64,29
+Utah,49,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,12620,3341.78,29.96
+Utah,49,White,2106-3,"Master's degree (MA, MS)",7,2397,3318.86,32.54
+Utah,49,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,557,3284.96,33.39
+Utah,49,White,2106-3,nown/Not on certificate,,1130,3205.93,29.68
+Utah,49,More than one race,M,9th through 12th grade with no diploma,2,90,2920.7,22.97
+Utah,49,More than one race,M,High school graduate or GED completed,3,232,3207,24.55
+Utah,49,More than one race,M,"Some college credit, but not a degree",4,353,3238.72,26.68
+Utah,49,More than one race,M,"Associate degree (AA, AS)",5,107,3239.7,29.2
+Utah,49,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,252,3368.54,29.59
+Utah,49,More than one race,M,"Master's degree (MA, MS)",7,50,3267.58,31.5
+Utah,49,More than one race,M,nown/Not on certificate,,13,2874.46,23.54
+Vermont,50,Asian,A,8th grade or less,1,10,2978.8,27.6
+Vermont,50,Asian,A,9th through 12th grade with no diploma,2,31,3331.26,27.97
+Vermont,50,Asian,A,High school graduate or GED completed,3,33,3279.94,29.21
+Vermont,50,Asian,A,"Some college credit, but not a degree",4,20,3252.6,28.9
+Vermont,50,Asian,A,"Bachelor's degree (BA, AB, BS)",6,27,3308.37,32
+Vermont,50,Asian,A,"Master's degree (MA, MS)",7,25,3111.88,33.36
+Vermont,50,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,15,3101.07,34.13
+Vermont,50,Black or African American,2054-5,8th grade or less,1,11,3240.27,35.55
+Vermont,50,Black or African American,2054-5,9th through 12th grade with no diploma,2,15,3334.2,25.8
+Vermont,50,Black or African American,2054-5,High school graduate or GED completed,3,26,3087.15,24.54
+Vermont,50,Black or African American,2054-5,"Some college credit, but not a degree",4,17,3430.41,26.24
+Vermont,50,White,2106-3,8th grade or less,1,16,3192,25.06
+Vermont,50,White,2106-3,9th through 12th grade with no diploma,2,314,3150.33,24.38
+Vermont,50,White,2106-3,High school graduate or GED completed,3,1352,3276.18,26.39
+Vermont,50,White,2106-3,"Some college credit, but not a degree",4,984,3381.96,27.84
+Vermont,50,White,2106-3,"Associate degree (AA, AS)",5,427,3425.46,30.18
+Vermont,50,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1371,3444.24,31.68
+Vermont,50,White,2106-3,"Master's degree (MA, MS)",7,716,3409.85,33.21
+Vermont,50,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,192,3374.42,34.08
+Vermont,50,White,2106-3,nown/Not on certificate,,32,3137,30.22
+Vermont,50,More than one race,M,High school graduate or GED completed,3,22,3241.09,25.23
+Vermont,50,More than one race,M,"Some college credit, but not a degree",4,18,3184.53,27.83
+Vermont,50,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,15,3513.2,32.2
+Virginia,51,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,17,3349.71,25.35
+Virginia,51,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,54,3432.74,26.31
+Virginia,51,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,58,3404.4,27.09
+Virginia,51,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,25,3295.75,32.04
+Virginia,51,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,22,3229.18,32.14
+Virginia,51,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,11,3213.64,33
+Virginia,51,Asian,A,8th grade or less,1,291,3225.74,29.89
+Virginia,51,Asian,A,9th through 12th grade with no diploma,2,407,3241.48,28.14
+Virginia,51,Asian,A,High school graduate or GED completed,3,1097,3199.18,29.53
+Virginia,51,Asian,A,"Some college credit, but not a degree",4,903,3232.8,29.84
+Virginia,51,Asian,A,"Associate degree (AA, AS)",5,455,3191.12,30.73
+Virginia,51,Asian,A,"Bachelor's degree (BA, AB, BS)",6,3010,3191.08,31.8
+Virginia,51,Asian,A,"Master's degree (MA, MS)",7,2124,3173.64,32.78
+Virginia,51,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,583,3174.89,34.08
+Virginia,51,Asian,A,nown/Not on certificate,,132,3258.23,29.28
+Virginia,51,Black or African American,2054-5,8th grade or less,1,412,3224.18,29.04
+Virginia,51,Black or African American,2054-5,9th through 12th grade with no diploma,2,2100,3035.48,24.65
+Virginia,51,Black or African American,2054-5,High school graduate or GED completed,3,8266,3069.36,25.97
+Virginia,51,Black or African American,2054-5,"Some college credit, but not a degree",4,5478,3119.66,27.58
+Virginia,51,Black or African American,2054-5,"Associate degree (AA, AS)",5,1759,3111.39,29.87
+Virginia,51,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,2896,3188.08,31.01
+Virginia,51,Black or African American,2054-5,"Master's degree (MA, MS)",7,1350,3180.97,33.3
+Virginia,51,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,335,3181.18,34.33
+Virginia,51,Black or African American,2054-5,nown/Not on certificate,,194,3030.96,30.17
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,23,3494.78,29.96
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,19,3159.84,25.21
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,69,3222.09,27.58
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,40,3233.5,28.55
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,14,3324.36,30.64
+Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,29,3242.45,32.34
+Virginia,51,White,2106-3,8th grade or less,1,2300,3288.77,30.11
+Virginia,51,White,2106-3,9th through 12th grade with no diploma,2,4011,3238.45,25.62
+Virginia,51,White,2106-3,High school graduate or GED completed,3,16846,3292.45,26.7
+Virginia,51,White,2106-3,"Some college credit, but not a degree",4,11917,3360.7,28.3
+Virginia,51,White,2106-3,"Associate degree (AA, AS)",5,4543,3371.62,29.54
+Virginia,51,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,16834,3397.18,31.6
+Virginia,51,White,2106-3,"Master's degree (MA, MS)",7,9085,3389.13,32.97
+Virginia,51,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2525,3362.88,33.97
+Virginia,51,White,2106-3,nown/Not on certificate,,640,3199.61,29.87
+Virginia,51,More than one race,M,8th grade or less,1,17,3211.59,28.59
+Virginia,51,More than one race,M,9th through 12th grade with no diploma,2,92,3160.05,22.27
+Virginia,51,More than one race,M,High school graduate or GED completed,3,411,3232.21,24.28
+Virginia,51,More than one race,M,"Some college credit, but not a degree",4,399,3262.84,26.52
+Virginia,51,More than one race,M,"Associate degree (AA, AS)",5,133,3236.85,29.16
+Virginia,51,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,313,3337.04,31.02
+Virginia,51,More than one race,M,"Master's degree (MA, MS)",7,156,3306.76,32.69
+Virginia,51,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,40,3170.38,33.85
+Washington,53,American Indian or Alaska Native,1002-5,8th grade or less,1,80,3273.91,28.21
+Washington,53,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,424,3274.47,24.38
+Washington,53,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,619,3327.89,26.37
+Washington,53,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,445,3409.41,28.14
+Washington,53,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,146,3436.14,30.29
+Washington,53,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,92,3464.85,30.91
+Washington,53,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,32,3432.78,36.12
+Washington,53,American Indian or Alaska Native,1002-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,10,3248,33.2
+Washington,53,American Indian or Alaska Native,1002-5,nown/Not on certificate,,22,3275.27,29.82
+Washington,53,Asian,A,8th grade or less,1,193,3243.97,32.09
+Washington,53,Asian,A,9th through 12th grade with no diploma,2,515,3224.64,28.03
+Washington,53,Asian,A,High school graduate or GED completed,3,1128,3202.93,29.36
+Washington,53,Asian,A,"Some college credit, but not a degree",4,1215,3192.84,29.87
+Washington,53,Asian,A,"Associate degree (AA, AS)",5,714,3191.68,31.4
+Washington,53,Asian,A,"Bachelor's degree (BA, AB, BS)",6,3379,3193.7,32
+Washington,53,Asian,A,"Master's degree (MA, MS)",7,2033,3186.88,32.42
+Washington,53,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,576,3234.13,34.13
+Washington,53,Asian,A,nown/Not on certificate,,136,3264.89,31.63
+Washington,53,Black or African American,2054-5,8th grade or less,1,228,3386.74,31.07
+Washington,53,Black or African American,2054-5,9th through 12th grade with no diploma,2,551,3201.61,26.33
+Washington,53,Black or African American,2054-5,High school graduate or GED completed,3,1401,3216.87,27.98
+Washington,53,Black or African American,2054-5,"Some college credit, but not a degree",4,1272,3187.8,28.36
+Washington,53,Black or African American,2054-5,"Associate degree (AA, AS)",5,479,3243,30.12
+Washington,53,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,523,3282.57,31.19
+Washington,53,Black or African American,2054-5,"Master's degree (MA, MS)",7,187,3224.74,33.53
+Washington,53,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,28,3147,33.39
+Washington,53,Black or African American,2054-5,nown/Not on certificate,,115,3328.75,30.66
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,30,3313.33,27.87
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,268,3316.65,25.7
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,539,3343.26,26.78
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,336,3364.47,28.12
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,93,3364.84,30.31
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,65,3313.46,32.26
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,"Master's degree (MA, MS)",7,12,3092.5,32.25
+Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,nown/Not on certificate,,27,3303.27,25.44
+Washington,53,White,2106-3,8th grade or less,1,1798,3329.95,30.81
+Washington,53,White,2106-3,9th through 12th grade with no diploma,2,5986,3285.65,25.19
+Washington,53,White,2106-3,High school graduate or GED completed,3,14679,3349.6,26.81
+Washington,53,White,2106-3,"Some college credit, but not a degree",4,15930,3391.25,28.29
+Washington,53,White,2106-3,"Associate degree (AA, AS)",5,7246,3394.79,29.73
+Washington,53,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,14691,3436.16,31.57
+Washington,53,White,2106-3,"Master's degree (MA, MS)",7,5692,3436.06,33.26
+Washington,53,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1788,3407.14,34.25
+Washington,53,White,2106-3,nown/Not on certificate,,769,3305.84,29.51
+Washington,53,More than one race,M,8th grade or less,1,40,3250.03,26.05
+Washington,53,More than one race,M,9th through 12th grade with no diploma,2,422,3165.91,23.08
+Washington,53,More than one race,M,High school graduate or GED completed,3,937,3321.18,25.5
+Washington,53,More than one race,M,"Some college credit, but not a degree",4,1239,3313.55,27.67
+Washington,53,More than one race,M,"Associate degree (AA, AS)",5,422,3340.89,30.06
+Washington,53,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,624,3363.26,31.48
+Washington,53,More than one race,M,"Master's degree (MA, MS)",7,248,3334,33.13
+Washington,53,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,65,3347.3,34.55
+Washington,53,More than one race,M,nown/Not on certificate,,16,3615.75,26.31
+West Virginia,54,Asian,A,High school graduate or GED completed,3,23,3238.57,29.35
+West Virginia,54,Asian,A,"Some college credit, but not a degree",4,25,3413.64,29.36
+West Virginia,54,Asian,A,"Associate degree (AA, AS)",5,10,3322.8,31.3
+West Virginia,54,Asian,A,"Bachelor's degree (BA, AB, BS)",6,54,3302.72,31.74
+West Virginia,54,Asian,A,"Master's degree (MA, MS)",7,31,3206.1,32.06
+West Virginia,54,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,35,3147.83,33.11
+West Virginia,54,Black or African American,2054-5,9th through 12th grade with no diploma,2,77,3064.95,24.45
+West Virginia,54,Black or African American,2054-5,High school graduate or GED completed,3,180,3023.65,25.14
+West Virginia,54,Black or African American,2054-5,"Some college credit, but not a degree",4,184,3045.04,26.97
+West Virginia,54,Black or African American,2054-5,"Associate degree (AA, AS)",5,59,3107.81,29.29
+West Virginia,54,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,77,3219.08,30.49
+West Virginia,54,Black or African American,2054-5,"Master's degree (MA, MS)",7,26,3300.38,32
+West Virginia,54,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,10,3286.3,32.8
+West Virginia,54,White,2106-3,8th grade or less,1,193,3110.87,25.45
+West Virginia,54,White,2106-3,9th through 12th grade with no diploma,2,2310,3089.42,23.26
+West Virginia,54,White,2106-3,High school graduate or GED completed,3,5674,3198.05,25.12
+West Virginia,54,White,2106-3,"Some college credit, but not a degree",4,3903,3272.29,26.81
+West Virginia,54,White,2106-3,"Associate degree (AA, AS)",5,1765,3315.39,28.77
+West Virginia,54,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,2548,3353.95,30.1
+West Virginia,54,White,2106-3,"Master's degree (MA, MS)",7,1086,3343.76,31.58
+West Virginia,54,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,342,3329.96,32.5
+West Virginia,54,White,2106-3,nown/Not on certificate,,85,3217.07,29.61
+West Virginia,54,More than one race,M,9th through 12th grade with no diploma,2,64,3105.44,21.22
+West Virginia,54,More than one race,M,High school graduate or GED completed,3,97,3147.53,23.45
+West Virginia,54,More than one race,M,"Some college credit, but not a degree",4,83,3302.25,26.01
+West Virginia,54,More than one race,M,"Associate degree (AA, AS)",5,31,3147.87,28.81
+West Virginia,54,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,30,3206.63,30.77
+West Virginia,54,More than one race,M,"Master's degree (MA, MS)",7,11,3277.73,32.09
+Wisconsin,55,American Indian or Alaska Native,1002-5,8th grade or less,1,18,3266.17,25.17
+Wisconsin,55,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,134,3276.84,24.16
+Wisconsin,55,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,376,3366.99,25.93
+Wisconsin,55,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,203,3449.41,28.48
+Wisconsin,55,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,38,3459.82,31.05
+Wisconsin,55,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,33,3575.33,29.85
+Wisconsin,55,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS)",7,10,2875.5,34.1
+Wisconsin,55,Asian,A,8th grade or less,1,233,3180.25,29.59
+Wisconsin,55,Asian,A,9th through 12th grade with no diploma,2,207,3152.86,26.09
+Wisconsin,55,Asian,A,High school graduate or GED completed,3,749,3189.33,26.87
+Wisconsin,55,Asian,A,"Some college credit, but not a degree",4,466,3201.03,27.75
+Wisconsin,55,Asian,A,"Associate degree (AA, AS)",5,258,3215.44,29.95
+Wisconsin,55,Asian,A,"Bachelor's degree (BA, AB, BS)",6,743,3184,30.6
+Wisconsin,55,Asian,A,"Master's degree (MA, MS)",7,449,3125.6,31.37
+Wisconsin,55,Asian,A,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,190,3186.53,33.49
+Wisconsin,55,Asian,A,nown/Not on certificate,,29,3156.83,30.62
+Wisconsin,55,Black or African American,2054-5,8th grade or less,1,164,3178.27,28.14
+Wisconsin,55,Black or African American,2054-5,9th through 12th grade with no diploma,2,1246,2946.74,23.66
+Wisconsin,55,Black or African American,2054-5,High school graduate or GED completed,3,2795,3033.01,25.21
+Wisconsin,55,Black or African American,2054-5,"Some college credit, but not a degree",4,1694,3064.51,27.29
+Wisconsin,55,Black or African American,2054-5,"Associate degree (AA, AS)",5,365,3102.78,29.73
+Wisconsin,55,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,343,3177.06,30.31
+Wisconsin,55,Black or African American,2054-5,"Master's degree (MA, MS)",7,137,3199.69,32.89
+Wisconsin,55,Black or African American,2054-5,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,30,3174.93,33.8
+Wisconsin,55,Black or African American,2054-5,nown/Not on certificate,,74,2874.96,26.97
+Wisconsin,55,White,2106-3,8th grade or less,1,1924,3444.3,29.89
+Wisconsin,55,White,2106-3,9th through 12th grade with no diploma,2,2843,3221.15,25.02
+Wisconsin,55,White,2106-3,High school graduate or GED completed,3,11645,3311.08,26.56
+Wisconsin,55,White,2106-3,"Some college credit, but not a degree",4,9901,3351.76,28.23
+Wisconsin,55,White,2106-3,"Associate degree (AA, AS)",5,6606,3384.7,30.07
+Wisconsin,55,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,14641,3427.82,31.02
+Wisconsin,55,White,2106-3,"Master's degree (MA, MS)",7,4845,3413.03,32.65
+Wisconsin,55,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,1500,3402.82,33.01
+Wisconsin,55,White,2106-3,nown/Not on certificate,,211,3302.18,28.8
+Wisconsin,55,More than one race,M,8th grade or less,1,14,3124.21,22.57
+Wisconsin,55,More than one race,M,9th through 12th grade with no diploma,2,217,3115.44,22.78
+Wisconsin,55,More than one race,M,High school graduate or GED completed,3,487,3193.89,24.74
+Wisconsin,55,More than one race,M,"Some college credit, but not a degree",4,389,3338.12,26.15
+Wisconsin,55,More than one race,M,"Associate degree (AA, AS)",5,108,3309.84,29.89
+Wisconsin,55,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,162,3370.15,30.73
+Wisconsin,55,More than one race,M,"Master's degree (MA, MS)",7,64,3367.2,32.52
+Wisconsin,55,More than one race,M,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,27,3315.56,34.19
+Wyoming,56,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,86,3080.83,23.9
+Wyoming,56,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,79,3179.13,25.82
+Wyoming,56,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,58,3414.21,27.21
+Wyoming,56,Asian,A,High school graduate or GED completed,3,15,3103.67,29.53
+Wyoming,56,Asian,A,"Some college credit, but not a degree",4,25,3120.96,28.76
+Wyoming,56,Asian,A,"Bachelor's degree (BA, AB, BS)",6,41,3177.41,31.37
+Wyoming,56,Asian,A,"Master's degree (MA, MS)",7,11,2962.18,30.82
+Wyoming,56,Black or African American,2054-5,High school graduate or GED completed,3,19,3113.21,27.37
+Wyoming,56,Black or African American,2054-5,"Some college credit, but not a degree",4,40,2945.78,26.38
+Wyoming,56,White,2106-3,8th grade or less,1,79,3234.66,28.14
+Wyoming,56,White,2106-3,9th through 12th grade with no diploma,2,579,3106.51,23.44
+Wyoming,56,White,2106-3,High school graduate or GED completed,3,1603,3152.05,25.52
+Wyoming,56,White,2106-3,"Some college credit, but not a degree",4,1734,3205.04,27.17
+Wyoming,56,White,2106-3,"Associate degree (AA, AS)",5,793,3267.6,28.76
+Wyoming,56,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,1305,3276.68,30.55
+Wyoming,56,White,2106-3,"Master's degree (MA, MS)",7,476,3264.52,32.41
+Wyoming,56,White,2106-3,"Doctorate (PHD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,126,3291.58,33.23
+Wyoming,56,White,2106-3,nown/Not on certificate,,74,3184.41,30.23
+Wyoming,56,More than one race,M,9th through 12th grade with no diploma,2,15,3058.93,22.67
+Wyoming,56,More than one race,M,High school graduate or GED completed,3,51,3183.12,23.76
+Wyoming,56,More than one race,M,"Some college credit, but not a degree",4,41,3178.83,25.46
+Wyoming,56,More than one race,M,"Associate degree (AA, AS)",5,18,3191.67,28.67
+Wyoming,56,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,22,2945.86,29.09

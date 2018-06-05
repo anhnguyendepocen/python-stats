@@ -1,0 +1,725 @@
+Player_ID,LastName,FirstName,Jersey_Num,Position,Height,Weight,Birth_Date,Age,Birth_City,Birth_Country,Rookie,Team_ID,Team_Abbr.,Team_City,Team_Name
+10138,Abrines,Alex,8,SG,"6'6""",190,8/1/93,24,Palma de Mallorca,Spain,N,96,OKL,Oklahoma City,Thunder
+9466,Acy,Quincy,13,PF,"6'7""",240,10/6/90,27,"Tyler, TX",USA,N,84,BRO,Brooklyn,Nets
+9301,Adams,Jordan,3,SG,"6'5""",209,7/8/94,23,"Atlanta, GA",USA,N,,,,
+9390,Adams,Steven,12,C,"7'0""",255,7/20/93,24,Rotorua,New Zealand,N,96,OKL,Oklahoma City,Thunder
+13742,Adebayo,Bam,13,C,"6'10""",255,7/18/97,20,"Newark, NJ",USA,Y,92,MIA,Miami,Heat
+9375,Afflalo,Arron,4,SG,"6'5""",210,10/15/85,32,"Los Angeles, CA",USA,N,95,ORL,Orlando,Magic
+9357,Ajinca,Alexis,42,C,"7'2""",248,5/6/88,30,Saint-Etienne,France,N,110,NOP,New Orleans,Pelicans
+9272,Aldrich,Cole,45,C,"6'11""",253,10/31/88,29,"Burnsville, MN",USA,N,100,MIN,Minnesota,Timberwolves
+9480,Aldridge,LaMarcus,12,PF,"6'11""",260,7/19/85,32,"Dallas, TX",USA,N,106,SAS,San Antonio,Spurs
+9299,Allen,Tony,24,SF,"6'4""",213,1/10/82,36,"Chicago, IL",USA,N,89,CHI,Chicago,Bulls
+13776,Allen,Kadeem,45,SG,"6'3""",200,1/13/93,25,"Wilmington, NC",USA,Y,82,BOS,Boston,Celtics
+13749,Allen,Jarrett,31,C,"6'11""",234,4/21/98,20,"Austin, TX",USA,Y,84,BRO,Brooklyn,Nets
+9254,Allen,Lavoy,5,PF,"6'9""",260,2/4/89,29,"Morrisville, PA",USA,N,,,,
+9452,Aminu,Al-Farouq,8,PF,"6'9""",220,9/21/90,27,"Atlanta, GA",USA,N,97,POR,Portland,Trail Blazers
+9379,Amundson,Lou,17,PF,"6'9""",220,12/7/82,35,"Ventura, CA",USA,N,,,,
+9297,Andersen,Chris,7,C,,,7/7/78,39,"Long Beach, CA",USA,N,,,,
+9178,Anderson,Justin,1,SF,"6'6""",230,11/19/93,24,"Montross, VA",USA,N,85,PHI,Philadelphia,76ers
+9527,Anderson,Alan,26,SG,"6'6""",220,10/16/82,35,"Minneapolis, MN",USA,N,102,LAC,Los Angeles,Clippers
+9469,Anderson,James,5,SG,"6'6""",213,3/25/89,29,"El Dorado, AR",USA,N,,,,
+9353,Anderson,Ryan,33,PF,"6'10""",240,5/6/88,30,"Sacramento, CA",USA,N,109,HOU,Houston,Rockets
+9475,Anderson,Kyle,1,SF,"6'9""",230,9/20/93,24,"New York, NY",USA,N,106,SAS,San Antonio,Spurs
+13796,Anigbogu,Ike,13,C,"6'10""",262,10/16/98,19,"San Diego, CA",USA,Y,87,IND,Indiana,Pacers
+9560,Antetokounmpo,Thanasis,43,SF,,,7/18/92,25,Athens,Greece,N,,,,
+9325,Antetokounmpo,Giannis,34,SF,"6'11""",222,12/6/94,23,Athens,Greece,N,90,MIL,Milwaukee,Bucks
+9214,Anthony,Joel,50,C,"6'9""",245,8/9/82,35,Montreal,Canada,N,,,,
+9369,Anthony,Carmelo,7,PF,"6'8""",240,5/29/84,34,"New York, NY",USA,N,96,OKL,Oklahoma City,Thunder
+13750,Anunoby,OG,3,SF,"6'8""",235,7/17/97,20,London,United Kingdom,Y,81,TOR,Toronto,Raptors
+9559,Appling,Keith,,PG,,,2/13/92,26,"Detroit, MI",USA,N,,,,
+11884,Arcidiacono,Ryan,10,G,"6'3""",195,3/26/94,24,"Langhorne, PA",USA,Y,89,CHI,Chicago,Bulls
+9235,Ariza,Trevor,1,SF,"6'8""",215,6/30/85,32,"Miami, FL",USA,N,109,HOU,Houston,Rockets
+9198,Arthur,Darrell,0,PF,"6'9""",235,3/25/88,30,"Dallas, TX",USA,N,99,DEN,Denver,Nuggets
+13805,Artis,Jamel,,SG,"6'7""",213,1/10/93,25,"Baltimore, MD",USA,Y,95,ORL,Orlando,Magic
+9358,Asik,Omer,3,C,"7'0""",255,7/3/86,31,Bursa,Turkey,N,89,CHI,Chicago,Bulls
+13941,Atkinson,Kenny,,C,,,1/25/18,0,,,N,84,BRO,Brooklyn,Nets
+9190,Augustin,D.J.,14,PG,"6'0""",183,11/10/87,30,"New Orleans, LA",USA,N,95,ORL,Orlando,Magic
+9276,Ayres,Jeff,19,C,"6'9""",250,4/29/87,31,,,N,,,,
+9360,Babbitt,Luke,8,PF,"6'9""",225,6/19/89,28,"Cincinnati, OH",USA,N,92,MIA,Miami,Heat
+13788,Bacon,Dwayne,7,SF,"6'7""",221,8/30/95,22,"Lakeland, FL",USA,Y,93,CHA,Charlotte,Hornets
+9150,Bairstow,Cameron,41,C,"6'9""",250,12/7/90,27,Brisbane,Australia,N,,,,
+10102,Baker,Ron,31,PG,"6'4""",220,3/30/93,25,"Hays, KS",USA,N,83,NYK,New York,Knicks
+10131,Baldwin IV,Wade,4,G,"6'4""",202,3/26/96,22,"Belle Mead, NJ",USA,N,97,POR,Portland,Trail Blazers
+13728,Ball,Lonzo,2,PG,"6'6""",190,10/27/97,20,"Anaheim, CA",USA,Y,105,LAL,Los Angeles,Lakers
+9229,Barbosa,Leandro,19,SG,"6'3""",194,11/28/82,35,San Paulo,Brazil,N,,,,
+9180,Barea,J.J.,5,SG,"6'0""",185,6/26/84,33,Mayaguez,Puerto Rico,N,108,DAL,Dallas,Mavericks
+9537,Bargnani,Andrea,,C,,,10/26/85,32,Rome,Italy,N,,,,
+9220,Barnes,Harrison,40,SF,"6'8""",225,5/30/92,26,"Ames, IA",USA,N,108,DAL,Dallas,Mavericks
+9298,Barnes,Matt,22,SF,"6'7""",226,3/9/80,38,"Santa Clara, CA",USA,N,,,,
+9197,Barton,Will,5,SG,"6'6""",190,1/6/91,27,"Baltimore, MD",USA,N,99,DEN,Denver,Nuggets
+9288,Bass,Brandon,2,PF,"6'8""",250,4/30/85,33,"Baton Rouge, LA",USA,N,,,,
+9133,Batum,Nicolas,5,SG,"6'8""",200,12/14/88,29,Lisieux,France,N,93,CHA,Charlotte,Hornets
+9323,Bayless,Jerryd,0,PG,"6'3""",200,8/20/88,29,"Phoenix, AZ",USA,N,85,PHI,Philadelphia,76ers
+9211,Baynes,Aron,46,C,"6'10""",260,12/9/86,31,Gisborne,New Zealand,N,82,BOS,Boston,Celtics
+9086,Bazemore,Kent,24,SG,"6'5""",201,7/1/89,28,"Kelford, NC",USA,N,91,ATL,Atlanta,Hawks
+9523,Beal,Bradley,3,SG,"6'5""",207,6/28/93,24,"St. Louis, MO",USA,N,94,WAS,Washington,Wizards
+9245,Beasley,Michael,8,PF,"6'9""",235,1/9/89,29,"Frederick, MD",USA,N,83,NYK,New York,Knicks
+10133,Beasley,Malik,25,SG,"6'5""",196,11/26/96,21,"Atlanta, GA",USA,N,99,DEN,Denver,Nuggets
+9470,Belinelli,Marco,3,SG,"6'5""",210,3/24/86,32,Bologna,Italy,N,85,PHI,Philadelphia,76ers
+13764,Bell,Jordan,2,PF,"6'9""",224,1/7/95,23,"Los Angeles, CA",USA,Y,101,GSW,Golden State,Warriors
+10156,Bembry,DeAndre',95,SF,"6'6""",210,7/4/94,23,"Charlotte, NC",USA,N,91,ATL,Atlanta,Hawks
+10143,Bender,Dragan,35,PF,"7'1""",225,11/17/97,20,Capljina,Bosnia and Herzegovina,N,104,PHX,Phoenix,Suns
+9544,Bennett,Anthony,13,PF,,,3/14/93,25,Toronto,Canada,N,84,BRO,Brooklyn,Nets
+11964,Bentil,Ben,,PF,,,3/29/95,23,,Ghana,N,,,,
+10109,Bertans,Davis,42,PF,"6'10""",210,11/12/92,25,Valmiera,Latvia,N,106,SAS,San Antonio,Spurs
+9239,Beverley,Patrick,21,PG,"6'1""",185,7/12/88,29,"Chicago, IL",USA,N,102,LAC,Los Angeles,Clippers
+13929,Bickerstaff,John-Blair,,C,,,1/27/18,0,,,N,107,MEM,Memphis,Grizzlies
+13804,Birch,Khem,24,PF,"6'9""",220,9/28/92,25,Montreal,Canada,Y,95,ORL,Orlando,Magic
+13771,Bird,Jabari,26,SG,"6'6""",198,7/1/94,23,"Walnut Creek, CA",USA,Y,82,BOS,Boston,Celtics
+9497,Biyombo,Bismack,11,C,"6'9""",255,8/28/92,25,Lubumbashi,Democratic Republic of the Congo,N,95,ORL,Orlando,Magic
+9348,Bjelica,Nemanja,8,SF,"6'10""",230,5/9/88,30,Belgrade,Serbia,N,100,MIN,Minnesota,Timberwolves
+9284,Black,Tarik,28,PF,"6'9""",250,11/22/91,26,"Memphis, TN",USA,N,109,HOU,Houston,Rockets
+9547,Blair,DeJuan,,C,,,4/22/89,29,"Pittsburgh, PA",USA,N,,,,
+9205,Blake,Steve,22,PG,"6'3""",172,2/26/80,38,"Hollywood, FL",USA,N,,,,
+13864,Blakeney,Antonio,9,PG,"6'4""",197,10/4/96,21,"Watertown, NY",USA,Y,89,CHI,Chicago,Bulls
+9428,Bledsoe,Eric,6,PG,"6'1""",205,12/9/89,28,"Birmingham, AL",USA,N,90,MIL,Milwaukee,Bucks
+13867,Blue,Vander,,SG,,,7/17/92,25,"Milwaukee, WI",USA,Y,105,LAL,Los Angeles,Lakers
+13726,Bogdanovic,Bogdan,8,SG,"6'6""",205,8/18/92,25,Belgrade,Serbia,Y,103,SAC,Sacramento,Kings
+9114,Bogdanovic,Bojan,44,SF,"6'8""",230,4/18/89,29,Mostar,Bosnia and Herzegovina,N,87,IND,Indiana,Pacers
+9217,Bogut,Andrew,12,C,,,11/28/84,33,Melbourne,Australia,N,105,LAL,Los Angeles,Lakers
+10106,Bolomboy,Joel,21,PF,,,1/28/94,24,Kiev,Ukraine,N,90,MIL,Milwaukee,Bucks
+9481,Bonner,Matt,15,C,"6'10""",235,4/5/80,38,"Concord, NH",USA,N,,,,
+9508,Booker,Trevor,35,PF,"6'8""",228,11/24/87,30,"Newberry, SC",USA,N,87,IND,Indiana,Pacers
+9434,Booker,Devin,1,SG,"6'6""",210,10/30/96,21,"Grand Rapids, MI",USA,N,104,PHX,Phoenix,Suns
+9308,Bosh,Chris,1,PF,,,3/24/84,34,"Dallas, TX",USA,N,,,,
+13766,Boucher,Chris,25,PF,"6'10""",200,1/9/93,25,Castries,Saint Lucia,Y,101,GSW,Golden State,Warriors
+9097,Bradley,Avery,22,SG,"6'2""",180,11/25/90,27,"Tacoma, WA",USA,N,102,LAC,Los Angeles,Clippers
+13754,Bradley,Tony,13,C,"6'10""",248,1/6/98,20,"Bartow, FL",USA,Y,98,UTA,Utah,Jazz
+9240,Brewer,Corey,3,SF,"6'9""",186,3/4/86,32,"Portland, TN",USA,N,96,OKL,Oklahoma City,Thunder
+10127,Brogdon,Malcolm,13,SG,"6'5""",215,12/11/92,25,"Atlanta, GA",USA,N,90,MIL,Milwaukee,Bucks
+13937,Brooks,Scott,,C,,,1/25/18,0,"French Camp, CA",USA,N,94,WAS,Washington,Wizards
+13786,Brooks,Dillon,24,SF,"6'6""",220,1/22/96,22,Mississauga,Canada,Y,107,MEM,Memphis,Grizzlies
+9154,Brooks,Aaron,30,PG,"6'0""",161,1/14/85,33,"Seattle, WA",USA,N,100,MIN,Minnesota,Timberwolves
+14161,Brooks,MarShon,,SG,"6'5""",200,1/25/89,29,"Long Branch, NJ",USA,Y,107,MEM,Memphis,Grizzlies
+9115,Brown,Markel,26,SG,"6'3""",190,1/29/92,26,"Pineville, LA",USA,N,109,HOU,Houston,Rockets
+13789,Brown,Sterling,23,SG,"6'6""",230,2/10/95,23,"Maywood, IL",USA,Y,90,MIL,Milwaukee,Bucks
+13922,Brown,Brett,,C,,,1/25/18,0,,,N,85,PHI,Philadelphia,76ers
+10147,Brown,Bobby,8,PG,,,9/24/84,33,"Versailles, OH",USA,N,109,HOU,Houston,Rockets
+9216,Brown,Lorenzo,17,PG,"6'5""",189,8/24/90,27,"Roswell, GA",USA,N,81,TOR,Toronto,Raptors
+10090,Brown,Jaylen,7,SF,"6'7""",225,10/24/96,21,"Marietta, GA",USA,N,82,BOS,Boston,Celtics
+9289,Brown,Anthony,21,SF,"6'7""",224,10/8/92,25,"Bellflower, CA",USA,N,100,MIN,Minnesota,Timberwolves
+10118,Brussino,Nicolas,9,F,,,3/2/93,25,Santa Fe,Argentina,N,91,ATL,Atlanta,Hawks
+13856,Bryant,Thomas,31,C,"6'10""",248,7/31/97,20,"Rochester, NY",USA,Y,105,LAL,Los Angeles,Lakers
+13875,Budenholzer,Michael,,C,,,1/27/18,0,,,N,91,ATL,Atlanta,Hawks
+9440,Budinger,Chase,10,SF,"6'7""",209,5/22/88,30,"Encinitas, CA",USA,N,,,,
+9204,Bullock,Reggie,25,SF,"6'7""",205,3/16/91,27,"Baltimore, MD",USA,N,88,DET,Detroit,Pistons
+9504,Burke,Trey,23,PG,"6'1""",191,11/12/92,25,"Columbus, OH",USA,N,83,NYK,New York,Knicks
+9507,Burks,Alec,10,SG,"6'6""",214,7/20/91,26,"Grandview, MO",USA,N,98,UTA,Utah,Jazz
+9545,Butler,Rasual,,SF,,,5/23/79,39,"Philadelphia, PA",USA,N,,,,
+9152,Butler,Jimmy,23,SF,"6'8""",236,9/14/89,28,"Houston, TX",USA,N,100,MIN,Minnesota,Timberwolves
+9465,Butler,Caron,31,SF,,,3/13/80,38,"Racine, WI",USA,N,,,,
+11948,Buycks,Dwight,20,PG,"6'3""",190,3/6/89,29,"Milwaukee, WI",USA,N,88,DET,Detroit,Pistons
+9494,Caboclo,Bruno,20,SF,"6'9""",205,9/20/95,22,Osasco,Brazil,N,103,SAC,Sacramento,Kings
+9370,Calderon,Jose,81,PG,"6'3""",210,9/26/81,36,Villanueva de la Serena,Spain,N,86,CLE,Cleveland,Cavaliers
+9203,Caldwell-Pope,Kentavious,1,SG,"6'5""",205,2/18/93,25,"Thomaston, GA",USA,N,105,LAL,Los Angeles,Lakers
+9414,Canaan,Isaiah,2,SG,"6'0""",201,5/21/91,27,"Biloxi, MS",USA,N,104,PHX,Phoenix,Suns
+9237,Capela,Clint,15,C,"6'10""",240,5/18/94,24,Geneva,Switzerland,N,109,HOU,Houston,Rockets
+13878,Carlisle,Rick,,C,,,1/28/18,0,"Ogdensburg, NY",USA,N,108,DAL,Dallas,Mavericks
+9496,Carroll,DeMarre,9,SF,"6'8""",215,7/27/86,31,"Birmingham, AL",USA,N,84,BRO,Brooklyn,Nets
+9292,Carter,Vince,15,SF,"6'6""",220,1/26/77,41,"Daytona Beach, FL",USA,N,103,SAC,Sacramento,Kings
+9327,Carter-Williams,Michael,10,PG,"6'6""",190,10/10/91,26,"Hamilton, MA",USA,N,93,CHA,Charlotte,Hornets
+13860,Caruso,Alex,4,G,"6'5""",186,2/28/94,24,"College Station, TX",USA,Y,105,LAL,Los Angeles,Lakers
+9462,Casspi,Omri,18,SF,"6'9""",225,6/20/88,29,Holon,Israel,N,101,GSW,Golden State,Warriors
+9461,Cauley-Stein,Willie,0,C,"7'0""",240,8/18/93,24,"Spearville, KS",USA,N,103,SAC,Sacramento,Kings
+13845,Cavanaugh,Tyler,34,PF,"6'9""",238,2/9/94,24,"Syracuse, NY",USA,Y,91,ATL,Atlanta,Hawks
+9536,Chalmers,Mario,6,PG,"6'2""",190,5/19/86,32,"Anchorage, AK",USA,N,107,MEM,Memphis,Grizzlies
+9435,Chandler,Tyson,4,C,"7'1""",240,10/2/82,35,"Hanford, CA",USA,N,104,PHX,Phoenix,Suns
+9188,Chandler,Wilson,21,SF,"6'9""",225,5/10/87,31,"Benton Harbor, MI",USA,N,99,DEN,Denver,Nuggets
+10144,Chriss,Marquese,,PF,"6'10""",240,7/2/97,20,"Sacramento, CA",USA,N,104,PHX,Phoenix,Suns
+9258,Christmas,Rakeem,25,PF,"6'9""",250,12/1/91,26,"Irvington, NJ",USA,N,,,,
+10088,Christon,Semaj,6,G,"6'3""",190,11/1/92,25,"Cincinnati, OH",USA,N,,,,
+9230,Clark,Ian,21,PG,"6'3""",175,3/7/91,27,"Memphis, TN",USA,N,110,NOP,New Orleans,Pelicans
+9283,Clarkson,Jordan,6,SG,"6'5""",194,6/6/92,25,"Tampa, FL",USA,N,86,CLE,Cleveland,Cavaliers
+13785,Clavell,Gian,8,SG,,,11/26/93,24,Caguas,Puerto Rico,Y,108,DAL,Dallas,Mavericks
+13765,Cleveland,Antonius,10,SG,,,1/31/94,24,"Memphis, TN",USA,Y,91,ATL,Atlanta,Hawks
+13910,Clifford,Steve,,C,,,1/28/18,0,,,N,93,CHA,Charlotte,Hornets
+9363,Cole,Norris,30,PG,"6'2""",175,10/13/88,29,"Dayton, OH",USA,N,,,,
+13737,Collins,John,20,C,"6'10""",235,9/23/97,20,"Layton, UT",USA,Y,91,ATL,Atlanta,Hawks
+13784,Collins,Zach,33,C,"7'0""",230,11/19/97,20,"Las Vegas, NV",USA,Y,97,POR,Portland,Trail Blazers
+11961,Collinsworth,Kyle,8,PG,"6'6""",210,10/3/91,26,"Provo, UT",USA,N,108,DAL,Dallas,Mavericks
+9460,Collison,Darren,2,PG,"6'2""",185,8/23/87,30,"Rancho Cucamonga, CA",USA,N,87,IND,Indiana,Pacers
+9389,Collison,Nick,4,C,"6'10""",255,10/26/80,37,"Orange City, IA",USA,N,96,OKL,Oklahoma City,Thunder
+9296,Conley,Mike,11,PG,,,10/11/87,30,"Fayetteville, AR",USA,N,107,MEM,Memphis,Grizzlies
+9456,Connaughton,Pat,5,SG,"6'5""",210,1/6/93,25,"Arlington, MA",USA,N,97,POR,Portland,Trail Blazers
+11981,Cook,Quinn,4,PG,"6'2""",179,3/21/93,25,"Washington, DC",USA,N,101,GSW,Golden State,Warriors
+13813,Cooke,Charles,4,SG,"6'5""",196,7/1/94,23,"Trenton, NJ",USA,Y,110,NOP,New Orleans,Pelicans
+13812,Cooley,Jack,45,PF,"6'10""",274,4/12/91,27,"Evanston, IL",USA,Y,103,SAC,Sacramento,Kings
+11952,Costello,Matt,10,PF,"6'10""",240,8/3/93,24,"Linwood, MI",USA,N,106,SAS,San Antonio,Spurs
+9457,Cousins,DeMarcus,0,C,"6'11""",270,8/13/90,27,"Mobile, AL",USA,N,110,NOP,New Orleans,Pelicans
+9420,Covington,Robert,33,SF,"6'9""",225,12/14/90,27,"Bellwood, IL",USA,N,85,PHI,Philadelphia,76ers
+9448,Crabbe,Allen,33,SG,"6'6""",215,4/9/92,26,"Los Angeles, CA",USA,N,84,BRO,Brooklyn,Nets
+13790,Craig,Torrey,3,SF,"6'6""",215,12/19/90,27,"Columbia, SC",USA,Y,99,DEN,Denver,Nuggets
+9662,Crawford,Drew,1,SG,,,10/18/90,27,"Naperville, IL",USA,N,,,,
+9263,Crawford,Jamal,11,SG,"6'5""",185,3/20/80,38,"Seattle, WA",USA,N,100,MIN,Minnesota,Timberwolves
+12221,Crawford,Jordan,,SG,,,10/21/88,29,"Detroit, MI",USA,N,110,NOP,New Orleans,Pelicans
+9107,Crowder,Jae,99,PF,"6'6""",235,7/5/90,27,"Villa Rica, GA",USA,N,98,UTA,Utah,Jazz
+9359,Cunningham,Dante,33,SF,"6'8""",230,4/21/87,31,"Clinton, MD",USA,N,84,BRO,Brooklyn,Nets
+9467,Curry,Seth,30,PG,"6'2""",185,8/23/90,27,"Charlotte, NC",USA,N,108,DAL,Dallas,Mavericks
+9218,Curry,Stephen,30,PG,"6'3""",190,3/14/88,30,"Akron, OH",USA,N,101,GSW,Golden State,Warriors
+9136,Daniels,Troy,30,SG,"6'4""",205,7/15/91,26,"Roanoke, VA",USA,N,104,PHX,Phoenix,Suns
+13940,D'Antoni,Mike,,C,,,1/26/18,0,"Mullens, WV",USA,N,109,HOU,Houston,Rockets
+13868,Da Silva Felicio,Cristiano,6,PF,"6'9""",280,7/7/92,25,,,Y,89,CHI,Chicago,Bulls
+9453,Davis,Ed,17,PF,"6'10""",245,6/5/89,28,"Washington, DC",USA,N,97,POR,Portland,Trail Blazers
+9354,Davis,Anthony,23,PF,"6'10""",253,3/11/93,25,"Chicago, IL",USA,N,110,NOP,New Orleans,Pelicans
+10132,Davis,Deyonta,21,C,"6'11""",237,12/2/96,21,"Muskegon, MI",USA,N,107,MEM,Memphis,Grizzlies
+9404,Dedmon,Dewayne,14,C,"7'0""",245,8/12/89,28,"Lancaster, CA",USA,N,91,ATL,Atlanta,Hawks
+9365,Dejean-Jones,Bryce,31,SG,,,8/21/92,25,"Los Angeles, CA",USA,N,,,,
+9238,Dekker,Sam,7,SF,"6'9""",230,5/8/94,24,"Sheboygan, WI",USA,N,102,LAC,Los Angeles,Clippers
+10154,Delaney,Malcolm,5,PG,"6'3""",190,3/11/89,29,"Baltimore, MD",USA,N,91,ATL,Atlanta,Hawks
+9166,Dellavedova,Matthew,8,PG,"6'4""",198,9/8/90,27,Maryborough,Australia,N,90,MIL,Milwaukee,Bucks
+9307,Deng,Luol,9,PF,"6'9""",220,4/16/85,33,Wow,South Sudan,N,105,LAL,Los Angeles,Lakers
+9489,DeRozan,DeMar,10,SG,"6'7""",220,8/7/89,28,"Compton, CA",USA,N,81,TOR,Toronto,Raptors
+10137,Diallo,Cheick,13,PF,"6'9""",220,9/13/96,21,Kayes,Mali,N,110,NOP,New Orleans,Pelicans
+9473,Diaw,Boris,33,PF,"6'8""",250,4/16/82,36,Cormeille-en-Parisis,France,N,,,,
+9340,Dieng,Gorgui,5,PF,"6'11""",251,1/18/90,28,Kebemer,Senegal,N,100,MIN,Minnesota,Timberwolves
+9209,Dinwiddie,Spencer,8,PG,"6'6""",200,4/6/93,25,"Los Angeles, CA",USA,N,84,BRO,Brooklyn,Nets
+13890,Donovan,Billy,,C,,,1/26/18,0,"Rockville Centre, NY",USA,N,96,OKL,Oklahoma City,Thunder
+13816,Dorsey,Tyler,2,PG,"6'5""",183,2/18/96,22,"Pasadena, CA",USA,Y,91,ATL,Atlanta,Hawks
+13861,Dotson,Damyean,21,SG,"6'5""",210,5/6/94,24,"Houston, TX",USA,Y,83,NYK,New York,Knicks
+9364,Douglas,Toney,16,PG,,,3/16/86,32,"Jonesboro, GA",USA,N,,,,
+13820,Doyle,Milton,,G,"6'4""",180,10/31/93,24,"Chicago, IL",USA,Y,84,BRO,Brooklyn,Nets
+13847,Dozier,PJ,35,G,"6'7""",201,10/25/96,21,"Columbia, SC",USA,Y,96,OKL,Oklahoma City,Thunder
+9314,Dragic,Goran,7,PG,"6'3""",190,5/6/86,32,Ljubljana,Slovenia,N,92,MIA,Miami,Heat
+13965,Drew II,Larry,27,PG,"6'2""",180,3/3/90,28,"Los Angeles, CA",USA,Y,110,NOP,New Orleans,Pelicans
+9202,Drummond,Andre,0,C,"6'11""",279,8/10/93,24,"Mount Vernon, NY",USA,N,88,DET,Detroit,Pistons
+9528,Dudley,Jared,3,PF,"6'7""",240,7/10/85,32,"San Diego, CA",USA,N,104,PHX,Phoenix,Suns
+9468,Dukan,Duje,26,SF,"6'9""",220,12/4/91,26,Split,Croatia,N,89,CHI,Chicago,Bulls
+9482,Duncan,Tim,21,C,"6'11""",250,4/25/76,42,St. Croix,U.S. Virgin Islands,N,,,,
+10129,Dunn,Kris,32,PG,"6'4""",210,3/18/94,24,"New London, CT",USA,N,89,CHI,Chicago,Bulls
+9386,Durant,Kevin,35,SF,"6'9""",240,9/29/88,29,"Washington, DC",USA,N,101,GSW,Golden State,Warriors
+9371,Early,Cleanthony,11,SF,"6'8""",210,4/17/91,27,"Middletown, NY",USA,N,109,HOU,Houston,Rockets
+9530,Eddie,Jarell,9,SF,"6'7""",218,10/29/91,26,"Tampa, FL",USA,N,89,CHI,Chicago,Bulls
+10120,Ellenson,Henry,8,PF,"6'11""",245,1/13/97,21,"Rice Lake, WI",USA,N,88,DET,Detroit,Pistons
+9121,Ellington,Wayne,2,SG,"6'5""",200,11/29/87,30,"Wynnewood, PA",USA,N,92,MIA,Miami,Heat
+9253,Ellis,Monta,11,SG,"6'3""",185,10/26/85,32,"Jackson, MS",USA,N,,,,
+9418,Embiid,Joel,21,C,"7'0""",250,3/16/94,24,Yaounde,Cameroon,N,85,PHI,Philadelphia,76ers
+9330,Ennis,Tyler,10,PG,"6'3""",194,8/24/94,23,Brampton,Canada,N,105,LAL,Los Angeles,Lakers
+9367,Ennis III,James,8,SF,"6'7""",210,6/30/90,27,"Ventura, CA",USA,N,88,DET,Detroit,Pistons
+9356,Evans,Tyreke,12,SG,"6'6""",220,9/19/89,28,"Chester, PA",USA,N,107,MEM,Memphis,Grizzlies
+13858,Evans,Jawun,1,PG,"6'0""",190,7/26/96,21,"Greenville, SC",USA,Y,102,LAC,Los Angeles,Clippers
+9182,Evans,Jeremy,21,SF,"6'9""",200,10/24/87,30,"Crossett, AR",USA,N,91,ATL,Atlanta,Hawks
+9509,Exum,Dante,11,G,"6'6""",190,7/13/95,22,Melbourne,Australia,N,98,UTA,Utah,Jazz
+14159,Fair,C.J.,,F,"6'8""",218,9/12/91,26,"Baltimore, MD",USA,Y,89,CHI,Chicago,Bulls
+9189,Faried,Kenneth,35,PF,"6'8""",228,11/19/89,28,"Newark, NJ",USA,N,99,DEN,Denver,Nuggets
+9305,Farmar,Jordan,20,PG,,,11/30/86,31,"Los Angeles, CA",USA,N,,,,
+9505,Favors,Derrick,15,PF,"6'10""",265,7/15/91,26,"Atlanta, GA",USA,N,98,UTA,Utah,Jazz
+10161,Felder,Kay,20,PG,"5'9""",176,3/29/95,23,"Detroit, MI",USA,N,88,DET,Detroit,Pistons
+9156,Felicio,Cristiano,6,C,"6'9""",280,7/7/92,25,Pouso Alegre,Brazil,N,89,CHI,Chicago,Bulls
+13809,Felix,Carrick,21,SG,"6'6""",201,8/17/90,27,"Las Vegas, AZ",USA,Y,94,WAS,Washington,Wizards
+9175,Felton,Raymond,2,PG,"6'1""",205,6/26/84,33,"Marion, SC",USA,N,96,OKL,Oklahoma City,Thunder
+13748,Ferguson,Terrance,23,SG,"6'7""",184,5/17/98,20,"Tulsa, OK",USA,Y,96,OKL,Oklahoma City,Thunder
+10179,Ferrell,Yogi,11,PG,"6'0""",180,5/9/93,25,"Indianapolis, IN",USA,N,108,DAL,Dallas,Mavericks
+10117,Finney-Smith,Dorian,10,F,"6'8""",220,5/4/93,25,"Portsmouth, VA",USA,N,108,DAL,Dallas,Mavericks
+13923,Fizdale,David,,C,,,1/28/18,0,,,N,107,MEM,Memphis,Grizzlies
+10110,Forbes,Bryn,11,SG,"6'3""",190,7/23/93,24,"Lansing, MI",USA,N,106,SAS,San Antonio,Spurs
+9399,Fournier,Evan,10,SG,"6'7""",205,10/29/92,25,Saint-Maurice,France,N,95,ORL,Orlando,Magic
+13732,Fox,De'Aaron,5,PG,"6'3""",175,12/20/97,20,"New Orleans, LA",USA,Y,103,SAC,Sacramento,Kings
+9391,Foye,Randy,2,SG,"6'4""",218,9/24/83,34,"Newark, NJ",USA,N,,,,
+9366,Frazier,Tim,8,PG,"6'1""",170,11/1/90,27,"Houston, TX",USA,N,94,WAS,Washington,Wizards
+9552,Fredette,Jimmer,,PG,,,2/25/89,29,"Glens Falls, NY",USA,N,,,,
+9159,Frye,Channing,8,C,"6'11""",255,5/16/83,35,"White Plains, NY",USA,N,105,LAL,Los Angeles,Lakers
+13729,Fultz,Markelle,20,G,"6'4""",200,5/29/98,20,"Upper Marlboro, MD",USA,Y,85,PHI,Philadelphia,76ers
+9187,Gallinari,Danilo,8,SF,"6'10""",225,8/8/88,29,Sant'Angelo Lodigiano,Italy,N,102,LAC,Los Angeles,Clippers
+9372,Galloway,Langston,9,PG,"6'2""",200,12/9/91,26,"Baton Rouge, LA",USA,N,88,DET,Detroit,Pistons
+11883,Garino,Patricio,,SG,"6'6""",203,5/17/93,25,Buenos Aires,Argentina,N,,,,
+9149,Gasol,Pau,16,C,"7'0""",250,7/6/80,37,Barcelona,Spain,N,106,SAS,San Antonio,Spurs
+9295,Gasol,Marc,33,C,"7'1""",255,1/29/85,33,Barcelona,Spain,N,107,MEM,Memphis,Grizzlies
+9459,Gay,Rudy,22,SF,"6'8""",230,8/17/86,31,"Brooklyn, NY",USA,N,106,SAS,San Antonio,Spurs
+10121,Gbinije,Michael,9,F,"6'7""",200,6/5/92,25,"Hartford, CT",USA,Y,88,DET,Detroit,Pistons
+9361,Gee,Alonzo,15,SF,,,5/29/87,31,"Riviera Beach, FL",USA,N,99,DEN,Denver,Nuggets
+13870,Gentry,Alvin,,C,,,1/26/18,0,,,N,110,NOP,New Orleans,Pelicans
+9250,George,Paul,13,SF,"6'9""",220,5/2/90,28,"Palmdale, CA",USA,N,96,OKL,Oklahoma City,Thunder
+11748,Georges-Hunt,Marcus,13,SG,"6'5""",226,3/28/94,24,"Miami, FL",USA,N,100,MIN,Minnesota,Timberwolves
+11307,Gibson,Jonathan,3,G,,,11/6/87,30,"West Covina, CA",USA,N,,,,
+9144,Gibson,Taj,67,PF,"6'9""",235,6/24/85,32,"Brooklyn, NY",USA,N,100,MIN,Minnesota,Timberwolves
+13747,Giles,Harry,20,C,"6'10""",240,4/22/98,20,"Winston-Salem, NC",USA,Y,103,SAC,Sacramento,Kings
+9478,Ginobili,Manu,20,SG,"6'6""",205,7/28/77,40,Bahia Blanca,Argentina,N,106,SAS,San Antonio,Spurs
+9503,Gobert,Rudy,27,C,"7'1""",245,6/26/92,25,Saint-Quentin,France,N,98,UTA,Utah,Jazz
+9529,Gooden,Drew,90,PF,"6'10""",250,9/24/81,36,"Oakland, CA",USA,N,,,,
+9429,Goodwin,Archie,8,PG,"6'5""",205,8/17/94,23,"Little Rock, AR",USA,N,84,BRO,Brooklyn,Nets
+9406,Gordon,Aaron,0,PF,"6'9""",220,9/16/95,22,"San Jose, CA",USA,N,95,ORL,Orlando,Magic
+9352,Gordon,Eric,10,SG,"6'4""",215,12/25/88,29,"Indianapolis, IN",USA,N,109,HOU,Houston,Rockets
+9519,Gortat,Marcin,13,C,"6'11""",240,2/17/84,34,Lodz,Poland,N,94,WAS,Washington,Wizards
+9246,Goudelock,Andrew,0,PG,"6'3""",200,12/7/88,29,"Gainesville, GA",USA,N,,,,
+10125,Graham,Treveon,21,SG,"6'5""",219,10/28/93,24,"Washington, DC",USA,N,93,CHA,Charlotte,Hornets
+9419,Grant,Jerami,9,PF,"6'9""",220,3/12/94,24,"Portland, OR",USA,N,96,OKL,Oklahoma City,Thunder
+9374,Grant,Jerian,2,PG,"6'4""",198,10/9/92,25,"Silver Spring, MD",USA,N,89,CHI,Chicago,Bulls
+13973,Gray,Josh,5,G,,,2/2/18,0,,,Y,104,PHX,Phoenix,Suns
+9316,Green,Gerald,14,SG,"6'7""",205,1/26/86,32,"Houston, TX",USA,N,109,HOU,Houston,Rockets
+9477,Green,Danny,14,SG,"6'6""",215,6/22/87,30,"North Babylon, NY",USA,N,106,SAS,San Antonio,Spurs
+9228,Green,Draymond,23,PF,"6'7""",230,3/4/90,28,"Saginaw, MI",USA,N,101,GSW,Golden State,Warriors
+9271,Green,Jeff,32,PF,"6'9""",235,8/28/86,31,"Cheverly, MD",USA,N,86,CLE,Cleveland,Cavaliers
+9302,Green,JaMychal,0,PF,"6'9""",227,6/21/90,27,"Montgomery, AL",USA,N,107,MEM,Memphis,Grizzlies
+9262,Griffin,Blake,32,PF,"6'10""",251,3/15/89,29,"Oklahoma City, OK",USA,N,88,DET,Detroit,Pistons
+9368,Hamilton,Jordan,25,SF,"6'7""",220,10/6/90,27,"Los Angeles, CA",USA,N,,,,
+13863,Hamilton,Daniel,25,G,"6'7""",195,8/8/95,22,"Los Angeles, CA",USA,Y,96,OKL,Oklahoma City,Thunder
+9658,Hamilton,Justin,41,C,"7'0""",255,4/1/90,28,"Newport Beach, CA",USA,N,84,BRO,Brooklyn,Nets
+9657,Hammons,A.J.,4,C,"7'0""",260,8/27/92,25,"Gary, IN",USA,N,92,MIA,Miami,Heat
+9087,Hardaway Jr.,Tim,3,SG,"6'6""",205,3/16/92,26,"Orinda, CA",USA,N,83,NYK,New York,Knicks
+9232,Harden,James,13,SG,"6'5""",220,8/26/89,28,"Los Angeles, CA",USA,N,109,HOU,Houston,Rockets
+9444,Harkless,Maurice,4,SF,"6'9""",220,5/11/93,25,"Queens, NY",USA,N,97,POR,Portland,Trail Blazers
+9563,Harper,Justin,,PF,,,8/30/89,28,"Richmond, VA",USA,N,,,,
+9244,Harrell,Montrezl,5,PF,"6'8""",240,1/26/94,24,"Tarboro, NC",USA,N,102,LAC,Los Angeles,Clippers
+9176,Harris,Devin,34,SG,"6'3""",185,2/26/83,35,"Milwaukee, WI",USA,N,99,DEN,Denver,Nuggets
+9212,Harris,Tobias,34,PF,"6'9""",235,7/14/92,25,"Islip, NY",USA,N,102,LAC,Los Angeles,Clippers
+9191,Harris,Gary,14,SG,"6'4""",210,9/14/94,23,"Fishers, IN",USA,N,99,DEN,Denver,Nuggets
+12250,Harris,Manny,6,SG,"6'5""",185,9/21/89,28,"Detroit, MI",USA,N,,,,
+9540,Harris,Joe,12,SF,"6'6""",219,9/6/91,26,"Chelan, WA",USA,N,84,BRO,Brooklyn,Nets
+9140,Harrison,Aaron,9,SG,,,10/27/94,23,"San Antonio, TX",USA,N,108,DAL,Dallas,Mavericks
+10130,Harrison,Andrew,5,PG,"6'6""",213,10/28/94,23,"San Antonio, TX",USA,N,107,MEM,Memphis,Grizzlies
+14118,Harrison,Shaquille,10,G,,,2/23/18,0,,,N,104,PHX,Phoenix,Suns
+13756,Hart,Josh,5,SG,"6'5""",215,3/6/95,23,"Silver Spring, MD",USA,Y,105,LAL,Los Angeles,Lakers
+9310,Haslem,Udonis,40,C,"6'8""",235,6/9/80,37,"Miami, FL",USA,N,92,MIA,Miami,Heat
+9132,Hawes,Spencer,0,PF,"7'1""",245,4/28/88,30,"Seattle, WA",USA,N,,,,
+13962,Hayes,Nigel,15,SF,"6'7""",254,12/13/94,23,"Westerville, OH",USA,Y,103,SAC,Sacramento,Kings
+9548,Hayes,Charles,,PF,,,6/11/83,34,"San Leandro, CA",USA,N,,,,
+9506,Hayward,Gordon,20,SF,"6'8""",226,3/23/90,28,"Indianapolis, IN",USA,N,82,BOS,Boston,Celtics
+13961,Hearn,Reggie,,SG,"6'5""",210,8/13/91,26,,,Y,88,DET,Detroit,Pistons
+9450,Henderson,Gerald,9,SG,"6'5""",215,12/9/87,30,"Caldwell, NJ",USA,N,,,,
+13959,Henry,Myke,4,F,"6'6""",210,12/22/92,25,"Chicago, IL",USA,N,107,MEM,Memphis,Grizzlies
+9324,Henson,John,31,PF,"6'11""",229,12/28/90,27,"Greensboro, NC",USA,N,90,MIL,Milwaukee,Bucks
+10101,Hernangomez,Guillermo,14,C,"6'11""",240,5/26/94,24,,Spain,N,93,CHA,Charlotte,Hornets
+10135,Hernangomez,Juancho,41,SF,"6'9""",230,9/28/95,22,Madrid,Spain,N,99,DEN,Denver,Nuggets
+9409,Hezonja,Mario,8,SF,"6'8""",218,2/25/95,23,Dubrovnik,Croatia,N,95,ORL,Orlando,Magic
+9277,Hibbert,Roy,55,C,"7'2""",270,12/11/86,31,"Queens, NY",USA,N,,,,
+13836,Hicks,Isaiah,26,F,"6'9""",233,7/24/94,23,"Oxford, NC",USA,Y,83,NYK,New York,Knicks
+9531,Hickson,JJ,21,C,"6'9""",242,9/4/88,29,"Atlanta, GA",USA,N,,,,
+10136,Hield,Buddy,24,SG,"6'4""",214,12/17/93,24,Freeport,Bahamas,N,103,SAC,Sacramento,Kings
+9521,Hilario,Nene,42,PF,"6'11""",250,9/13/82,35,Sao Carlos,Brazil,N,109,HOU,Houston,Rockets
+9248,Hill,George,3,PG,"6'3""",188,5/3/86,32,"Indianapolis, IN",USA,N,86,CLE,Cleveland,Cavaliers
+9256,Hill,Jordan,27,C,"6'10""",240,7/27/87,30,"Atlanta, GA",USA,N,,,,
+9251,Hill,Solomon,44,SF,"6'7""",225,3/18/91,27,"Los Angeles, CA",USA,N,110,NOP,New Orleans,Pelicans
+9215,Hilliard,Darrun,24,SG,"6'6""",220,4/11/93,25,"Bethlehem, PA",USA,N,106,SAS,San Antonio,Spurs
+13935,Hoiberg,Fred,,C,,,1/28/18,0,"Lincoln, NE",USA,N,89,CHI,Chicago,Bulls
+9155,Holiday,Justin,7,SG,"6'6""",185,4/5/89,29,"Mission Hills, CA",USA,N,89,CHI,Chicago,Bulls
+9355,Holiday,Jrue,11,SG,"6'4""",205,6/12/90,27,"Chatsworth, CA",USA,N,110,NOP,New Orleans,Pelicans
+9111,Holland,John,30,SF,"6'5""",205,11/6/88,29,"Bronx, NY",USA,N,86,CLE,Cleveland,Cavaliers
+9116,Hollis-Jefferson,Rondae,24,PF,"6'7""",214,1/3/95,23,"Chester, PA",USA,N,84,BRO,Brooklyn,Nets
+9422,Holmes,Richaun,22,C,"6'10""",235,10/15/93,24,"Lockport, IL",USA,N,85,PHI,Philadelphia,76ers
+9510,Hood,Rodney,5,SG,"6'8""",206,10/19/92,25,"Meridian, MS",USA,N,86,CLE,Cleveland,Cavaliers
+14121,Hopson,Scotty,,SG,,,8/7/89,28,,,N,108,DAL,Dallas,Mavericks
+9082,Horford,Al,42,C,"6'10""",245,6/3/86,32,Puerto Plata,Dominican Republic,N,82,BOS,Boston,Celtics
+13869,Hornacek,Jeff,,C,,,1/28/18,0,"Elmhurst, IL",USA,N,83,NYK,New York,Knicks
+10173,House,Danuel,4,F,"6'7""",220,6/7/93,24,"Houston, TX",USA,N,104,PHX,Phoenix,Suns
+9236,Howard,Dwight,12,C,"6'11""",265,12/8/85,32,"Atlanta, GA",USA,N,93,CHA,Charlotte,Hornets
+9290,Huertas,Marcelo,9,PG,,,5/25/83,35,Sao Paulo,Brazil,N,,,,
+9397,Huestis,Josh,34,SF,"6'7""",230,12/19/91,26,"Webster, TX",USA,N,96,OKL,Oklahoma City,Thunder
+9096,Humphries,Kris,43,PF,"6'9""",235,2/6/85,33,"Minneapolis, MN",USA,N,91,ATL,Atlanta,Hawks
+9106,Hunter,RJ,2,SG,,,10/24/93,24,"Oxford, OH",USA,N,109,HOU,Houston,Rockets
+11970,Hunter,Vince,,PF,,,8/5/94,23,"Detroit, MI",USA,N,107,MEM,Memphis,Grizzlies
+9388,Ibaka,Serge,9,PF,"6'10""",235,9/18/89,28,Brazzaville,Republic of the Congo,N,81,TOR,Toronto,Raptors
+9223,Iguodala,Andre,9,SF,"6'6""",215,1/28/84,34,"Springfield, IL",USA,N,101,GSW,Golden State,Warriors
+9400,Ilyasova,Ersan,7,PF,"6'10""",235,5/14/87,31,Eskisehir,Turkey,N,85,PHI,Philadelphia,76ers
+9513,Ingles,Joe,2,SF,"6'8""",226,10/2/87,30,Happy Valley,Australia,N,98,UTA,Utah,Jazz
+9331,Inglis,Damien,17,SF,"6'8""",246,5/20/95,23,Cayenne,French Guiana,N,,,,
+10149,Ingram,Brandon,14,SF,"6'9""",190,9/2/97,20,"Kinston, NC",USA,N,105,LAL,Los Angeles,Lakers
+14397,Ingram,Andre,,SG,"6'3""",190,11/18/85,32,"Richmond, VA",USA,Y,105,LAL,Los Angeles,Lakers
+9157,Irving,Kyrie,11,PG,"6'3""",193,3/23/92,26,Melbourne,Australia,N,82,BOS,Boston,Celtics
+13733,Isaac,Jonathan,1,F,"6'10""",210,10/3/97,20,"New York, NY",USA,Y,95,ORL,Orlando,Magic
+13803,Iwundu,Wesley,25,SF,"6'7""",195,12/20/94,23,"Houston, TX",USA,Y,95,ORL,Orlando,Magic
+9113,Jack,Jarrett,55,PG,"6'3""",200,10/28/83,34,"Fort Washington, MD",USA,N,83,NYK,New York,Knicks
+10119,Jackson,Demetrius,2,PG,"6'1""",201,9/5/94,23,"South Bend, IN",USA,N,85,PHI,Philadelphia,76ers
+13759,Jackson,Frank,15,PG,"6'3""",205,5/4/98,20,"Washington, DC",USA,Y,110,NOP,New Orleans,Pelicans
+13731,Jackson,Josh,20,SF,"6'8""",200,2/10/97,21,"San Diego, CA",USA,Y,104,PHX,Phoenix,Suns
+11641,Jackson,Pierre,,SG,,,8/29/91,26,"Las Vegas, NV",USA,N,,,,
+13743,Jackson,Justin,25,SF,"6'8""",210,3/28/95,23,"Houston, TX",USA,Y,103,SAC,Sacramento,Kings
+9213,Jackson,Reggie,1,PG,"6'3""",208,4/16/90,28,Pordenone,Italy,N,88,DET,Detroit,Pistons
+14398,Jackson,Aaron,,SG,"6'3""",183,6/5/86,31,"Hartford, CT",USA,Y,109,HOU,Houston,Rockets
+13794,James,Mike,5,PG,"6'1""",195,8/16/90,27,"Copaigue, NY",USA,Y,110,NOP,New Orleans,Pelicans
+9158,James,LeBron,23,SF,"6'8""",250,12/30/84,33,"Akron, OH",USA,N,86,CLE,Cleveland,Cavaliers
+13819,Jefferson,Amile,21,PF,"6'9""",225,5/7/93,25,"Philadelphia, PA",USA,Y,100,MIN,Minnesota,Timberwolves
+9135,Jefferson,Al,25,C,"6'10""",280,1/4/85,33,"Monticello, MS",USA,N,87,IND,Indiana,Pacers
+9553,Jefferson,Cory,,PF,,,12/26/90,27,"Tacoma, WA",USA,N,,,,
+9164,Jefferson,Richard,22,SF,"6'7""",233,6/21/80,37,"Los Angeles, CA",USA,N,99,DEN,Denver,Nuggets
+9439,Jenkins,John,23,SG,,,3/6/91,27,"Nashville, TN",USA,N,,,,
+9403,Jennings,Brandon,55,PG,"6'1""",170,9/21/89,28,"Compton, CA",USA,N,90,MIL,Milwaukee,Bucks
+9108,Jerebko,Jonas,8,PF,"6'10""",231,3/2/87,31,Kinna,Sweden,N,98,UTA,Utah,Jazz
+13932,Joerger,Dave,,C,,,1/28/18,0,,,N,103,SAC,Sacramento,Kings
+9319,Johnson,Joe,6,SF,"6'7""",240,6/27/81,36,"Little Rock, AR",USA,N,109,HOU,Houston,Rockets
+10086,Johnson,Brice,10,PF,"6'10""",230,6/25/94,23,"Orangeburg, SC",USA,N,107,MEM,Memphis,Grizzlies
+9561,Johnson,Orlando,,SG,,,3/11/89,29,"Monterey, CA",USA,N,,,,
+14146,Johnson,Jaylen,,F,,,3/24/18,0,,,Y,89,CHI,Chicago,Bulls
+9493,Johnson,James,16,PF,"6'8""",240,2/20/87,31,"Cheyenne, WY",USA,N,92,MIA,Miami,Heat
+9109,Johnson,Amir,5,PF,"6'9""",240,5/1/87,31,"Los Angeles, CA",USA,N,85,PHI,Philadelphia,76ers
+9311,Johnson,Tyler,8,PG,"6'4""",190,5/7/92,26,"Grand Forks, ND",USA,N,92,MIA,Miami,Heat
+9269,Johnson,Wesley,33,SF,"6'7""",215,7/11/87,30,"Corsicana, TX",USA,N,102,LAC,Los Angeles,Clippers
+9210,Johnson,Stanley,7,SF,"6'7""",245,5/29/96,22,"Los Angeles, CA",USA,N,88,DET,Detroit,Pistons
+14392,Johnson,Omari,,F,"6'9""",220,5/25/89,29,,,Y,107,MEM,Memphis,Grizzlies
+13760,Johnson,Dakari,44,C,"7'0""",255,9/22/95,22,"Brooklyn, NY",USA,Y,96,OKL,Oklahoma City,Thunder
+9196,Jokic,Nikola,15,C,"6'10""",250,2/19/95,23,Sombor,Serbia,N,99,DEN,Denver,Nuggets
+11974,Jones,Jalen,12,SF,"6'7""",220,5/27/93,25,"Dallas, TX",USA,N,108,DAL,Dallas,Mavericks
+9165,Jones,James,1,SF,"6'8""",218,10/4/80,37,"Miami, FL",USA,N,,,,
+9347,Jones,Tyus,1,PG,"6'2""",184,5/10/96,22,"Burnsville, MN",USA,N,100,MIN,Minnesota,Timberwolves
+9233,Jones,Terrence,14,PF,,,1/9/92,26,"Portland, OR",USA,N,101,GSW,Golden State,Warriors
+9171,Jones,Dahntay,30,SF,,,12/27/80,37,"Trenton, NJ",USA,N,,,,
+11894,Jones,Perry,1,SF,,,1/28/18,0,"Winnsboro, LA",USA,N,110,NOP,New Orleans,Pelicans
+10172,Jones,Damian,15,C,"7'0""",245,6/28/95,22,"Baton Rouge, LA",USA,N,101,GSW,Golden State,Warriors
+10146,Jones Jr.,Derrick,10,SF,"6'7""",200,2/13/97,21,"Chester, PA",USA,N,92,MIA,Miami,Heat
+9268,Jordan,DeAndre,6,C,"6'11""",265,7/21/88,29,"Houston, TX",USA,N,102,LAC,Los Angeles,Clippers
+9498,Joseph,Cory,6,PG,"6'3""",190,8/20/91,26,Toronto,Canada,N,87,IND,Indiana,Pacers
+9137,Kaminsky,Frank,44,PF,"7'0""",242,4/4/93,25,"Winfield, IL",USA,N,93,CHA,Charlotte,Hornets
+9396,Kanter,Enes,0,C,"6'11""",245,5/20/92,26,Zurich,Switzerland,N,83,NYK,New York,Knicks
+9112,Karasev,Sergey,10,SF,,,10/26/93,24,St. Petersburg,Russia,N,,,,
+9168,Kaun,Sasha,14,C,"6'11""",260,5/8/85,33,Tomsk,Russia,N,86,CLE,Cleveland,Cavaliers
+9281,Kelly,Ryan,30,PF,"6'11""",230,4/9/91,27,"Carmel, NY",USA,N,91,ATL,Atlanta,Hawks
+13740,Kennard,Luke,5,SG,"6'5""",200,6/24/96,21,"Middletown, OH",USA,Y,88,DET,Detroit,Pistons
+13895,Kerr,Steve,,C,,,1/26/18,0,Beirut,Lebanon,N,101,GSW,Golden State,Warriors
+13933,Kidd,Jason,,C,,,1/26/18,0,"San Francisco, CA",USA,N,90,MIL,Milwaukee,Bucks
+9128,Kidd-Gilchrist,Michael,14,SF,"6'7""",232,9/26/93,24,"Philadelphia, PA",USA,N,93,CHA,Charlotte,Hornets
+9125,Kilpatrick,Sean,9,SG,"6'4""",212,1/5/90,28,"Yonkers, NY",USA,N,89,CHI,Chicago,Bulls
+13817,Kleber,Maximilian,42,PF,"6'11""",220,1/29/92,26,Wurzburg,Germany,Y,108,DAL,Dallas,Mavericks
+9436,Knight,Brandon,11,SG,"6'3""",195,12/2/91,26,"Miami, FL",USA,N,104,PHX,Phoenix,Suns
+13806,Korkmaz,Furkan,30,SG,"6'7""",190,7/24/97,20,Istanbul,Turkey,Y,85,PHI,Philadelphia,76ers
+13862,Kornet,Luke,2,F,"7'1""",250,7/15/95,22,,,Y,83,NYK,New York,Knicks
+9089,Korver,Kyle,26,SG,"6'7""",212,3/17/81,37,"Lakewood, CA",USA,N,86,CLE,Cleveland,Cavaliers
+9463,Koufos,Kosta,41,C,"7'0""",265,2/24/89,29,"Canton, OH",USA,N,103,SAC,Sacramento,Kings
+13753,Kuzma,Kyle,0,PF,"6'9""",220,7/24/95,22,"Flint, MI",USA,Y,105,LAL,Los Angeles,Lakers
+10103,Kuzminskas,Mindaugas,91,F,,,10/19/89,28,Vilnius,Lithuania,N,83,NYK,New York,Knicks
+10140,Labissiere,Skal,7,PF,"6'11""",225,3/18/96,22,Port-Au-Prince,Haiti,N,103,SAC,Sacramento,Kings
+9131,Lamb,Jeremy,3,SG,"6'5""",185,5/30/92,26,"Henrico Valley, VA",USA,N,93,CHA,Charlotte,Hornets
+9415,Landry,Carl,7,PF,"6'9""",248,9/19/83,34,"Milwaukee, WI",USA,N,,,,
+10111,Laprovittola,Nicolas,27,G,,,1/31/90,28,Buenos Aires,Argentina,N,,,,
+9120,Larkin,Shane,8,PG,"5'11""",175,10/2/92,25,"Cincinnati, OH",USA,N,82,BOS,Boston,Celtics
+9193,Lauvergne,Joffrey,77,C,"6'11""",260,9/30/91,26,Mulhouse,France,N,106,SAS,San Antonio,Spurs
+9343,LaVine,Zach,8,SG,"6'5""",185,3/10/95,23,"Renton, WA",USA,N,89,CHI,Chicago,Bulls
+9261,Lawson,Ty,10,G,"5'11""",195,11/2/87,30,"Clinton, MD",USA,N,,,,
+10107,Layman,Jake,10,SF,"6'9""",210,3/7/94,24,"Norwood, MA",USA,N,97,POR,Portland,Trail Blazers
+13746,Leaf,T. J.,22,PF,"6'10""",230,4/30/97,21,Tel Aviv,Israel,Y,87,IND,Indiana,Pacers
+9127,Lee,Courtney,5,SF,"6'5""",200,10/3/85,32,"Indianapolis, IN",USA,N,83,NYK,New York,Knicks
+14134,Lee,Damian,,SG,,,3/13/18,0,,,Y,91,ATL,Atlanta,Hawks
+9186,Lee,David,42,PF,"6'9""",245,4/29/83,35,"St. Louis, MO",USA,N,,,,
+14119,Lemon Jr.,Walter ,,C,,,2/19/18,0,,,N,110,NOP,New Orleans,Pelicans
+9431,Len,Alex,21,C,"7'1""",250,6/16/93,24,Antratsit,Ukraine,N,104,PHX,Phoenix,Suns
+9446,Leonard,Meyers,11,C,"7'1""",255,2/27/92,26,"Woodbridge, VA",USA,N,97,POR,Portland,Trail Blazers
+9476,Leonard,Kawhi,2,SF,"6'7""",230,6/29/91,26,"Los Angeles, CA",USA,N,106,SAS,San Antonio,Spurs
+9432,Leuer,Jon,30,PF,"6'10""",228,5/14/89,29,"Long Lake, MN",USA,N,88,DET,Detroit,Pistons
+9659,Levert,Caris,22,SG,"6'7""",203,8/25/94,23,"Columbus, OH",USA,N,84,BRO,Brooklyn,Nets
+10104,Liggins,DeAndre,34,SG,"6'6""",209,3/31/88,30,"Chicago, IL",USA,N,110,NOP,New Orleans,Pelicans
+9445,Lillard,Damian,0,PG,"6'3""",195,7/15/90,27,"Oakland, CA",USA,N,97,POR,Portland,Trail Blazers
+9138,Lin,Jeremy,7,SG,"6'3""",200,8/23/88,29,"Palo Alto, CA",USA,N,84,BRO,Brooklyn,Nets
+9224,Livingston,Shaun,34,PG,"6'7""",192,9/11/85,32,"Peoria, IL",USA,N,101,GSW,Golden State,Warriors
+11957,Long,Shawn,,PF,"6'9""",255,1/29/93,25,"Morgan City, LA",USA,N,85,PHI,Philadelphia,76ers
+9227,Looney,Kevon,5,PF,"6'9""",220,2/6/96,22,"Milwaukee, WI",USA,N,101,GSW,Golden State,Warriors
+9118,Lopez,Brook,11,C,"7'0""",268,4/1/88,30,"North Hollywood, CA",USA,N,105,LAL,Los Angeles,Lakers
+9378,Lopez,Robin,42,C,"7'0""",277,4/1/88,30,"North Hollywood, CA",USA,N,89,CHI,Chicago,Bulls
+9161,Love,Kevin,0,PF,"6'10""",251,9/7/88,29,"Santa Monica, CA",USA,N,86,CLE,Cleveland,Cavaliers
+9490,Lowry,Kyle,7,PG,"6'0""",205,3/25/86,32,"Philadelphia, PA",USA,N,81,TOR,Toronto,Raptors
+10128,Lucas III,John,11,G,,,11/21/82,35,"Washington, DC",USA,N,,,,
+10139,Luwawu-Cabarrot,Timothe,7,SG,"6'6""",200,5/9/95,23,Cannes,France,N,85,PHI,Philadelphia,76ers
+13751,Lydon,Tyler,20,F,"6'9""",220,4/9/96,22,"Hudson, NY",USA,Y,99,DEN,Denver,Nuggets
+9512,Lyles,Trey,7,PF,"6'10""",234,11/5/95,22,Saskatoon,Canada,N,99,DEN,Denver,Nuggets
+10152,Mac,Sheldon,9,G,"6'6""",200,12/19/92,25,,,N,94,WAS,Washington,Wizards
+9502,Mack,Shelvin,7,PG,"6'3""",203,4/22/90,28,"Lexington, KY",USA,N,95,ORL,Orlando,Magic
+11959,Magette,Josh,11,PG,"6'1""",160,11/28/89,28,"Birmingham, AL",USA,N,91,ATL,Atlanta,Hawks
+9249,Mahinmi,Ian,28,C,"6'11""",262,11/5/86,31,Rouen,France,N,94,WAS,Washington,Wizards
+10126,Maker,Thon,7,C,"7'1""",223,2/25/97,21,,South Sudan,N,90,MIL,Milwaukee,Bucks
+13924,Malone,Michael,,C,,,1/28/18,0,,,N,99,DEN,Denver,Nuggets
+9408,Marble,Devyn,11,SG,"6'6""",200,9/21/92,25,"Southfield, MI",USA,N,,,,
+9484,Marjanovic,Boban,51,C,"7'3""",290,8/14/88,29,Zajecar,Serbia,N,102,LAC,Los Angeles,Clippers
+13734,Markkanen,Lauri,24,PF,"7'0""",230,5/22/97,21,Vantaa,Finland,Y,89,CHI,Chicago,Bulls
+9424,Marshall,Kendall,5,PG,"6'4""",200,8/19/91,26,"Dumfries, VA",USA,N,,,,
+9486,Martin,Kevin,23,SG,"6'7""",199,2/1/83,35,"Zanesville, OH",USA,N,,,,
+9303,Martin,Jarell,1,PF,"6'10""",239,5/24/94,24,"Baton Rouge, LA",USA,N,107,MEM,Memphis,Grizzlies
+13811,Mason,Frank,10,PG,"5'11""",190,4/3/94,24,"Petersburg, VA",USA,Y,103,SAC,Sacramento,Kings
+13787,Mathiang,Mangok,9,PF,"6'10""",230,10/8/92,25,Melbourne,Australia,Y,93,CHA,Charlotte,Hornets
+9179,Matthews,Wesley,23,SG,"6'5""",220,10/14/86,31,"San Antonio, TX",USA,N,108,DAL,Dallas,Mavericks
+9328,Mayo,O.J.,3,SG,,,11/5/87,30,"Huntington, WV",USA,N,,,,
+9275,Mbah a Moute,Luc,12,PF,"6'8""",230,9/9/86,31,Yaounde,Cameroon,N,109,HOU,Houston,Rockets
+9226,McAdoo,James Michael,14,PF,,,1/4/93,25,"Norfolk, VA",USA,N,85,PHI,Philadelphia,76ers
+9546,McCallum,Ray,5,PG,,,6/12/91,26,"Madison, WI",USA,N,,,,
+10112,McCaw,Patrick,,SG,"6'7""",185,10/25/95,22,"St. Louis, MO",USA,N,101,GSW,Golden State,Warriors
+9447,McCollum,CJ,3,SG,"6'3""",190,9/19/91,26,"Canton, OH",USA,N,97,POR,Portland,Trail Blazers
+9423,McConnell,TJ,12,PG,"6'2""",190,3/25/92,26,"Pittsburgh, PA",USA,N,85,PHI,Philadelphia,76ers
+13821,McCree,Erik,,SF,"6'8""",225,12/20/93,24,"Orlando, FL",USA,Y,98,UTA,Utah,Jazz
+9117,McCullough,Chris,1,PF,"6'9""",215,2/5/95,23,"Bronx, NY",USA,N,94,WAS,Washington,Wizards
+9242,McDaniels,KJ,32,SF,"6'6""",205,2/9/93,25,"Mobile, AL",USA,N,81,TOR,Toronto,Raptors
+9148,McDermott,Doug,20,SF,"6'8""",219,1/2/92,26,"Grand Forks, ND",USA,N,108,DAL,Dallas,Mavericks
+9393,McGary,Mitch,33,PF,"6'10""",255,6/6/92,25,"Chesterton, IN",USA,N,,,,
+9173,McGee,JaVale,1,C,"7'0""",270,1/19/88,30,"Flint, MI",USA,N,101,GSW,Golden State,Warriors
+9663,McGruder,Rodney,17,SG,"6'4""",200,7/29/91,26,"Landover, MD",USA,N,92,MIA,Miami,Heat
+13839,McKinney-Jones,Trey,10,G,"6'5""",214,8/25/90,27,"Milwaukee, WI",USA,Y,87,IND,Indiana,Pacers
+13865,McKinnie,Alfonso,34,PF,"6'8""",215,9/17/92,25,"Chicago, IL",USA,Y,81,TOR,Toronto,Raptors
+9458,McLemore,Ben,23,SG,"6'5""",195,2/11/93,25,"St. Louis, MO",USA,N,107,MEM,Memphis,Grizzlies
+13897,McMillan,Nate,,C,,,1/26/18,0,"Raleigh, NC",USA,N,87,IND,Indiana,Pacers
+9170,McRae,Jordan,12,PG,,,3/28/91,27,"Savannah, GA",USA,N,,,,
+9309,McRoberts,Josh,13,PF,"6'10""",240,2/28/87,31,"Indianapolis, IN",USA,N,108,DAL,Dallas,Mavericks
+9206,Meeks,Jodie,20,SG,"6'4""",210,8/21/87,30,"Norcross, GA",USA,N,94,WAS,Washington,Wizards
+9185,Mejri,Salah,50,C,"7'2""",235,6/15/86,31,Jendouba,Tunisia,N,108,DAL,Dallas,Mavericks
+9110,Mickey,Jordan,25,PF,"6'8""",235,7/9/94,23,"Dallas, TX",USA,N,92,MIA,Miami,Heat
+9334,Middleton,Khris,22,SG,,,8/12/91,26,"Charleston, SC",USA,N,90,MIL,Milwaukee,Bucks
+9247,Miles,CJ,0,SF,"6'6""",225,3/18/87,31,"Dallas, TX",USA,N,81,TOR,Toronto,Raptors
+11924,Miller,Darius,21,SF,"6'8""",225,3/21/90,28,"Maysville, KY",USA,N,110,NOP,New Orleans,Pelicans
+9485,Miller,Andre,24,PG,"6'3""",200,3/19/76,42,"Los Angeles, CA",USA,N,,,,
+13866,Miller,Malcolm,13,F,"6'7""",210,3/4/93,25,"Gaithersburg, MD",USA,Y,81,TOR,Toronto,Raptors
+9199,Miller,Mike,3,SF,"6'8""",218,2/19/80,38,"Mitchell, SD",USA,N,,,,
+9474,Mills,Patty,8,PG,"6'0""",185,8/11/88,29,Canberra,Australia,N,106,SAS,San Antonio,Spurs
+9538,Millsap,Elijah,,SG,"6'7""",215,8/12/87,30,"Grambling, LA",USA,N,104,PHX,Phoenix,Suns
+9093,Millsap,Paul,4,PF,"6'8""",246,2/10/85,33,"Monroe, LA",USA,N,99,DEN,Denver,Nuggets
+9146,Mirotic,Nikola,44,PF,"6'10""",238,2/10/91,27,Podgorica,Montenegro,N,110,NOP,New Orleans,Pelicans
+13741,Mitchell,Donovan,45,SG,"6'3""",215,9/7/96,21,"Elmsford, NY",USA,Y,98,UTA,Utah,Jazz
+13846,Mitrou-Long,Naz,30,G,,,8/3/93,24,Mississauga,Canada,Y,98,UTA,Utah,Jazz
+9398,Mohammed,Nazr,13,C,,,9/5/77,40,"Chicago, IL",USA,N,,,,
+13739,Monk,Malik,1,SG,"6'3""",200,2/4/98,20,"Jonesboro, AR",USA,Y,93,CHA,Charlotte,Hornets
+9335,Monroe,Greg,14,C,"6'11""",265,6/3/90,28,"New Orleans, LA",USA,N,82,BOS,Boston,Celtics
+9455,Montero,Luis,44,SG,"6'7""",190,4/5/93,25,Santo Domingo,Dominican Republic,N,103,SAC,Sacramento,Kings
+13831,Moore,Ben,26,F,"6'8""",220,5/11/95,23,"Bolingbrook, IL",USA,Y,87,IND,Indiana,Pacers
+9147,Moore,E'Twaun,55,SG,"6'4""",191,2/25/89,29,"East Chicago, IN",USA,N,110,NOP,New Orleans,Pelicans
+9471,Moreland,Eric,24,PF,"6'10""",238,12/24/91,26,"Houston, TX",USA,N,88,DET,Detroit,Pistons
+9207,Morris,Marcus,13,SF,"6'9""",235,9/2/89,28,"Philadelphia, PA",USA,N,82,BOS,Boston,Celtics
+14123,Morris,Jaylen,,C,,,2/28/18,0,,,N,91,ATL,Atlanta,Hawks
+13791,Morris,Monte,11,PG,"6'3""",175,6/27/95,22,"Grand Rapids, MI",USA,Y,99,DEN,Denver,Nuggets
+9520,Morris,Markieff,5,PF,"6'10""",245,9/2/89,28,"Philadelphia, PA",USA,N,94,WAS,Washington,Wizards
+9392,Morrow,Anthony,2,SG,"6'5""",210,9/27/85,32,"Charlotte, NC",USA,N,89,CHI,Chicago,Bulls
+9234,Motiejunas,Donatas,20,PF,"7'0""",222,9/20/90,27,Kaunas,Lithuania,N,,,,
+13818,Motley,Johnathan,6,PF,"6'10""",230,5/4/95,23,"Houston, TX",USA,Y,108,DAL,Dallas,Mavericks
+9160,Mozgov,Timofey,20,C,"7'1""",275,7/16/86,31,St. Petersburg,Russia,N,84,BRO,Brooklyn,Nets
+9194,Mudiay,Emmanuel,0,PG,"6'5""",200,3/4/96,22,Kinshasa,Democratic Republic of the Congo,N,83,NYK,New York,Knicks
+9339,Muhammad,Shabazz,15,SF,"6'6""",221,11/12/92,25,"Los Angeles, CA",USA,N,90,MIL,Milwaukee,Bucks
+9306,Munford,Xavier,9,SG,"6'4""",173,5/30/92,26,"Hillside, NJ",USA,N,90,MIL,Milwaukee,Bucks
+10165,Murray,Dejounte,5,PG,"6'5""",170,9/19/96,21,"Seattle, WA",USA,N,106,SAS,San Antonio,Spurs
+10134,Murray,Jamal,27,PG,"6'4""",207,2/23/97,21,Kitchener,Canada,N,99,DEN,Denver,Nuggets
+9092,Muscala,Mike,31,C,"6'11""",240,7/1/91,26,"St. Louis Park, MN",USA,N,91,ATL,Atlanta,Hawks
+13770,Nader,Abdel,28,SG,"6'6""",230,9/25/93,24,Alexandria,Egypt,Y,82,BOS,Boston,Celtics
+9286,Nance Jr.,Larry,7,PF,"6'9""",230,12/31/92,25,"Akron, OH",USA,N,86,CLE,Cleveland,Cavaliers
+9405,Napier,Shabazz,6,PG,"6'1""",175,7/14/91,26,"Roxbury, MA",USA,N,97,POR,Portland,Trail Blazers
+14148,Nash,Le'Bryan,,SF,,,3/22/18,0,,,Y,109,HOU,Houston,Rockets
+9661,Ndour,Maurice,,F,"6'9""",200,6/18/92,25,Sindia,Senegal,N,,,,
+9195,Nelson,Jameer,14,PG,"6'0""",190,2/7/82,36,"Chester, PA",USA,N,88,DET,Detroit,Pistons
+12198,Nene,Maybyner,42,C,"6'11""",250,9/11/82,35,,,N,109,HOU,Houston,Rockets
+9514,Neto,Raul,25,PG,"6'1""",179,5/19/92,26,Belo Horizonte,Brazil,N,98,UTA,Utah,Jazz
+10162,Niang,George,31,F,"6'6""",231,6/15/93,24,"Lawrence, MA",USA,N,98,UTA,Utah,Jazz
+9143,Noah,Joakim,13,C,"6'11""",230,2/25/85,33,"New York, NY",USA,N,83,NYK,New York,Knicks
+9413,Noel,Nerlens,4,C,"6'11""",220,4/10/94,24,"Malden, MA",USA,N,108,DAL,Dallas,Mavericks
+9487,Nogueira,Lucas,92,C,"7'0""",220,7/26/92,25,Sao Goncalo,Brazil,N,81,TOR,Toronto,Raptors
+9336,Novak,Steve,6,PF,,,6/13/83,34,"Libertyville, IL",USA,N,,,,
+9172,Nowitzki,Dirk,41,PF,"7'0""",245,6/19/78,39,Wurzburg,Germany,N,108,DAL,Dallas,Mavericks
+13735,Ntilikina,Frank,11,PG,"6'5""",190,7/28/98,19,Ixelles,Belgium,Y,83,NYK,New York,Knicks
+9192,Nurkic,Jusuf,27,C,"7'0""",280,8/23/94,23,Tuzla,Bosnia and Herzegovina,N,97,POR,Portland,Trail Blazers
+12199,Nwaba,David,11,SF,"6'4""",209,1/14/93,25,"Los Angeles, CA",USA,N,89,CHI,Chicago,Bulls
+9332,O'Bryant III,Johnny,8,PF,"6'9""",257,6/1/93,25,"Cleveland, MS",USA,N,93,CHA,Charlotte,Hornets
+10153,Ochefu,Daniel,32,F,"6'11""",245,12/15/93,24,"Baltimore, MD",USA,N,89,CHI,Chicago,Bulls
+13775,Ojeleye,Semi,37,SF,"6'7""",235,12/5/94,23,"Overland Park, KS",USA,Y,82,BOS,Boston,Celtics
+9421,Okafor,Jahlil,4,C,"6'11""",260,12/15/95,22,"Chicago, IL",USA,N,84,BRO,Brooklyn,Nets
+13835,Okafor,Emeka,50,C,"6'10""",252,9/25/82,35,"Houston, TX",USA,Y,110,NOP,New Orleans,Pelicans
+9402,Oladipo,Victor,4,SG,"6'4""",210,5/4/92,26,"Silver Spring, MD",USA,N,87,IND,Indiana,Pacers
+9100,Olynyk,Kelly,9,PF,"7'0""",245,4/19/91,27,Toronto,Canada,N,92,MIA,Miami,Heat
+13792,O'Neale,Royce,23,SF,"6'6""",226,6/5/93,24,"Killeen, TX",USA,Y,98,UTA,Utah,Jazz
+10164,Onuaku,Chinanu,21,F,"6'10""",245,11/1/96,21,"Baltimore, MD",USA,N,109,HOU,Houston,Rockets
+10116,Onuaku,Arinze,21,F,,,7/13/87,30,"Lanham, MD",USA,N,,,,
+9376,O'Quinn,Kyle,9,C,"6'10""",250,3/26/90,28,"Flushing, NY",USA,N,83,NYK,New York,Knicks
+13780,Osman,Cedi,16,SF,"6'8""",215,4/8/95,23,Ohrid,FYR Macedonia,Y,86,CLE,Cleveland,Cavaliers
+13799,Ouattara,Yakuba,,SG,,,1/24/92,26,Tepa,Ghana,Y,84,BRO,Brooklyn,Nets
+9526,Oubre Jr.,Kelly,12,SF,"6'7""",205,12/9/95,22,"New Orleans, LA",USA,N,94,WAS,Washington,Wizards
+9183,Pachulia,Zaza,27,C,"6'11""",270,2/10/84,34,Tbilisi,Georgia,N,101,GSW,Golden State,Warriors
+11982,Paige,Marcus,,PG,"6'0""",164,9/11/93,24,"Cedar Rapids, IA",USA,N,93,CHA,Charlotte,Hornets
+10142,Papagiannis,Georgios,13,C,"7'1""",240,7/2/97,20,Amarousio,Greece,N,97,POR,Portland,Trail Blazers
+9550,Papanikolaou,Kostas,,SF,,,7/31/90,27,Trikala,Greece,N,,,,
+9472,Parker,Tony,9,PG,"6'2""",185,5/17/82,36,Bruges,Belgium,N,106,SAS,San Antonio,Spurs
+9329,Parker,Jabari,12,PF,"6'8""",250,3/15/95,23,"Chicago, IL",USA,N,90,MIL,Milwaukee,Bucks
+9174,Parsons,Chandler,25,SF,"6'10""",230,10/25/88,29,"Casselberry, FL",USA,N,107,MEM,Memphis,Grizzlies
+9488,Patterson,Patrick,54,PF,"6'9""",230,3/14/89,29,"Washington, DC",USA,N,96,OKL,Oklahoma City,Thunder
+13744,Patton,Justin,24,C,"7'0""",236,6/12/97,20,"Riverdale, GA",USA,Y,100,MIN,Minnesota,Timberwolves
+9265,Paul,Chris,3,PG,"6'0""",175,5/6/85,33,"Winston-Salem, NC",USA,N,109,HOU,Houston,Rockets
+11951,Paul,Branden,3,SG,"6'4""",200,4/30/91,27,"Gurnee, IL",USA,N,106,SAS,San Antonio,Spurs
+9344,Payne,Adreian,33,PF,"6'10""",237,2/19/91,27,"Dayton, OH",USA,N,95,ORL,Orlando,Magic
+9394,Payne,Cameron,22,PG,"6'3""",185,8/8/94,23,"Memphis, TN",USA,N,89,CHI,Chicago,Bulls
+9407,Payton,Elfrid,2,PG,"6'4""",185,2/21/94,24,"Gretna, LA",USA,N,104,PHX,Phoenix,Suns
+11882,Payton II,Gary,,PG,"6'3""",190,12/1/92,25,"Seattle, WA",USA,N,105,LAL,Los Angeles,Lakers
+9341,Pekovic,Nikola,14,C,,,1/3/86,32,Bijelo Polje,Montenegro,N,,,,
+9362,Perkins,Kendrick,5,C,"6'10""",270,11/8/84,33,"Nederland, TX",USA,N,86,CLE,Cleveland,Cavaliers
+13833,Perrantes,London,7,G,"6'2""",190,10/3/94,23,"Los Angeles, CA",USA,Y,86,CLE,Cleveland,Cavaliers
+13795,Peters,Alec,25,PF,"6'9""",235,4/13/95,23,"Washington, IL",USA,Y,104,PHX,Phoenix,Suns
+9267,Pierce,Paul,34,SF,"6'7""",235,10/13/77,40,"Oakland, CA",USA,N,,,,
+11127,Plumlee,Marshall,40,C,"7'0""",250,7/12/92,25,"West Lafayette, IN",USA,N,90,MIL,Milwaukee,Bucks
+9442,Plumlee,Mason,24,C,"6'11""",255,3/5/90,28,"Fort Wayne, IN",USA,N,99,DEN,Denver,Nuggets
+9322,Plumlee,Miles,18,C,"6'11""",249,9/1/88,29,"Fort Wayne, IN",USA,N,91,ATL,Atlanta,Hawks
+10122,Poeltl,Jakob,42,C,"7'0""",230,10/15/95,22,Vienna,Austria,N,81,TOR,Toronto,Raptors
+9351,Pondexter,Quincy,20,SF,"6'7""",225,3/10/88,30,"Fresno, CA",USA,N,89,CHI,Chicago,Bulls
+13896,Popovich,Gregg,,C,,,1/26/18,0,,,N,106,SAS,San Antonio,Spurs
+9524,Porter Jr.,Otto,22,SF,"6'8""",198,6/3/93,25,"St. Louis, MO",USA,N,94,WAS,Washington,Wizards
+9151,Portis,Bobby,5,PF,"6'11""",248,2/10/95,23,"Little Rock, AR",USA,N,89,CHI,Chicago,Bulls
+9373,Porzingis,Kristaps,6,PF,"7'3""",240,8/2/95,22,Liepaja,Latvia,N,83,NYK,New York,Knicks
+9500,Powell,Norman,24,SG,"6'4""",215,5/25/93,25,"San Diego, CA",USA,N,81,TOR,Toronto,Raptors
+9177,Powell,Dwight,7,PF,"6'11""",240,7/20/91,26,Toronto,Canada,N,108,DAL,Dallas,Mavericks
+11960,Poythress,Alex,0,C,"6'9""",235,9/6/93,24,"Savannah, GA",USA,N,87,IND,Indiana,Pacers
+9549,Pressey,Phil,25,PG,,,2/17/91,27,"Dallas, TX",USA,N,,,,
+9437,Price,Ronnie,,PG,"6'2""",190,6/21/83,34,"Friendswood, TX",USA,N,,,,
+9273,Prigioni,Pablo,9,PG,"6'3""",185,5/17/77,41,Rio Tercero,Argentina,N,,,,
+9349,Prince,Tayshaun,12,SF,,,2/28/80,38,"Compton, CA",USA,N,,,,
+10155,Prince,Taurean,12,SF,"6'8""",220,3/22/94,24,"San Marcos, TX",USA,N,91,ATL,Atlanta,Hawks
+13807,Pullen,Jacob,,PG,,,11/10/89,28,"Maywood, IL",USA,Y,85,PHI,Philadelphia,76ers
+14131,Purvis,Rodney,,G,"6'4""",205,3/9/18,0,,,N,95,ORL,Orlando,Magic
+10170,Quarterman,Tim,55,G,"6'6""",190,10/27/94,23,"Savannah, GA",USA,N,109,HOU,Houston,Rockets
+13814,Rabb,Ivan,10,PF,"6'10""",220,2/3/97,21,"Sacramento, CA",USA,Y,107,MEM,Memphis,Grizzlies
+9282,Randle,Julius,30,PF,"6'9""",250,11/29/94,23,"Dallas, TX",USA,N,105,LAL,Los Angeles,Lakers
+11699,Randle,Chasson,5,PG,"6'2""",185,2/5/93,25,"Rock Island, IL",USA,N,,,,
+9294,Randolph,Zach,50,PF,"6'9""",250,7/16/81,36,"Marion, IN",USA,N,103,SAC,Sacramento,Kings
+14130,Rathan-Mayes,Xavier ,22,G,"6'4""",208,3/4/18,0,,,N,107,MEM,Memphis,Grizzlies
+9264,Redick,JJ,17,SG,"6'4""",200,6/24/84,33,"Cookeville, TN",USA,N,85,PHI,Philadelphia,76ers
+9123,Reed,Willie,35,C,"6'11""",245,5/15/90,28,"Kansas City, MO",USA,N,88,DET,Detroit,Pistons
+13758,Reed,Davon,32,SG,"6'6""",210,6/11/95,22,"Princeton, NJ",USA,Y,104,PHX,Phoenix,Suns
+10141,Richardson,Malachi,23,SG,"6'6""",205,1/4/96,22,"Trenton, NJ",USA,N,81,TOR,Toronto,Raptors
+9317,Richardson,Josh,0,SF,"6'6""",200,9/15/93,24,"Edmond, OK",USA,N,92,MIA,Miami,Heat
+9270,Rivers,Austin,25,PG,"6'4""",200,8/1/92,25,"Santa Monica, CA",USA,N,102,LAC,Los Angeles,Clippers
+13936,Rivers,Doc,,C,,,1/28/18,0,"Chicago, IL",USA,N,102,LAC,Los Angeles,Clippers
+9385,Roberson,Andre,21,SG,"6'7""",210,12/4/91,26,"Las Cruces, NM",USA,N,96,OKL,Oklahoma City,Thunder
+9443,Roberts,Brian,22,PG,"6'1""",173,12/3/85,32,"Toledo, OH",USA,N,,,,
+13810,Robinson,Devin,7,SF,"6'8""",200,3/7/95,23,,,Y,94,WAS,Washington,Wizards
+9122,Robinson,Thomas,15,F,"6'10""",237,3/17/91,27,"Washington, DC",USA,N,,,,
+9534,Robinson,Nate,,PG,,,5/31/84,34,"Seattle, WA",USA,N,,,,
+9257,Robinson III,Glenn,40,SF,"6'7""",215,1/7/94,24,"Gary, IN",USA,N,87,IND,Indiana,Pacers
+10114,Rodriguez,Sergio,14,G,"6'3""",176,6/12/86,31,Tenerife,Spain,N,,,,
+9464,Rondo,Rajon,9,PG,"6'1""",186,2/22/86,32,"Louisville, KY",USA,N,110,NOP,New Orleans,Pelicans
+9142,Rose,Derrick,1,PG,"6'3""",190,10/2/88,29,"Chicago, IL",USA,N,100,MIN,Minnesota,Timberwolves
+9492,Ross,Terrence,31,SG,"6'7""",206,2/5/91,27,"Portland, OR",USA,N,95,ORL,Orlando,Magic
+9105,Rozier,Terry,12,PG,"6'2""",190,3/17/94,24,"Youngstown, OH",USA,N,82,BOS,Boston,Celtics
+9338,Rubio,Ricky,3,PG,"6'4""",190,10/21/90,27,Barcelona,Spain,N,98,UTA,Utah,Jazz
+9345,Rudez,Damjan,3,SF,"6'10""",228,6/17/86,31,Zagreb,Croatia,N,,,,
+9219,Rush,Brandon,4,SG,"6'6""",225,7/4/85,32,"Kansas City, MO",USA,Y,97,POR,Portland,Trail Blazers
+9285,Russell,D'Angelo,1,PG,"6'5""",195,2/20/96,22,"Louisville, KY",USA,N,84,BRO,Brooklyn,Nets
+10113,Sabonis,Domantas,11,PF,"6'10""",252,5/3/96,22,"Portland, OR",USA,N,87,IND,Indiana,Pacers
+9279,Sacre,Robert,50,C,,,6/6/89,28,"Baton Rouge, LA",USA,N,,,,
+9200,Sampson,JaKarr,29,SF,"6'9""",207,3/20/93,25,"Cleveland, OH",USA,N,103,SAC,Sacramento,Kings
+11886,Sanders,Larry,,C,,,11/21/88,29,"Fort Pierce, FL",USA,N,86,CLE,Cleveland,Cavaliers
+10115,Saric,Dario,9,PF,"6'10""",223,4/8/94,24,Sibenik,Croatia,N,85,PHI,Philadelphia,76ers
+10151,Satoransky,Tomas,31,PG,"6'7""",210,10/30/91,26,Prague,Czech Republic,N,94,WAS,Washington,Wizards
+9084,Schroder,Dennis,17,PG,"6'1""",172,9/13/93,24,Braunschweig,Germany,N,91,ATL,Atlanta,Hawks
+9083,Scott,Mike,30,PF,"6'8""",237,7/16/88,29,"Chesapeake, VA",USA,N,94,WAS,Washington,Wizards
+9088,Sefolosha,Thabo,22,SF,"6'7""",220,5/2/84,34,Vevey,Switzerland,N,98,UTA,Utah,Jazz
+11988,Selden,Wayne,7,SG,"6'5""",230,9/30/94,23,"Roxbury, MA",USA,N,107,MEM,Memphis,Grizzlies
+9381,Seraphin,Kevin,1,C,"6'10""",278,12/7/89,28,Cayenne,French Guiana,N,,,,
+9518,Sessions,Ramon,1,PG,,,4/10/86,32,"Myrtle Beach, SC",USA,N,94,WAS,Washington,Wizards
+9162,Shumpert,Iman,4,SG,"6'5""",220,6/25/90,27,"Oak Park, IL",USA,N,103,SAC,Sacramento,Kings
+10123,Siakam,Pascal,43,PF,"6'9""",230,4/2/94,24,Douala,Cameroon,N,81,TOR,Toronto,Raptors
+14349,Silas,Xavier,,SG,,,3/28/18,0,,,Y,82,BOS,Boston,Celtics
+9483,Simmons,Jonathon,17,SF,"6'6""",195,9/14/89,28,"Houston, TX",USA,N,95,ORL,Orlando,Magic
+13815,Simmons,Kobi,2,SG,"6'4""",170,7/4/97,20,"Atlanta, GA",USA,Y,107,MEM,Memphis,Grizzlies
+10087,Simmons,Ben,25,PF,"6'10""",230,7/20/96,21,Fitzroy,Australia,Y,85,PHI,Philadelphia,76ers
+9395,Singler,Kyle,15,SF,"6'8""",228,5/4/88,30,"Medford, OR",USA,N,96,OKL,Oklahoma City,Thunder
+9124,Sloan,Donald,15,PG,"6'3""",205,1/15/88,30,"Shreveport, LA",USA,N,84,BRO,Brooklyn,Nets
+9102,Smart,Marcus,36,SG,"6'4""",220,3/6/94,24,"Flower Mound, TX",USA,N,82,BOS,Boston,Celtics
+9425,Smith,Ish,14,PG,"6'0""",175,7/5/88,29,"Charlotte, NC",USA,N,88,DET,Detroit,Pistons
+9241,Smith,Josh,5,PF,,,12/5/85,32,"College Park, GA",USA,N,110,NOP,New Orleans,Pelicans
+9411,Smith,Jason,14,PF,"7'0""",240,3/2/86,32,"Greeley, CO",USA,N,94,WAS,Washington,Wizards
+9350,Smith,Greg,4,PF,"6'10""",250,1/8/91,27,"Vallejo, CA",USA,N,,,,
+9542,Smith,Russ,,PG,,,4/19/91,27,"New York, NY",USA,N,,,,
+9167,Smith,J.R.,5,SG,"6'6""",225,9/9/85,32,"Freehold, NJ",USA,N,86,CLE,Cleveland,Cavaliers
+13736,Smith Jr.,Dennis,1,PG,"6'3""",195,11/25/97,20,"Fayetteville, NC",USA,Y,108,DAL,Dallas,Mavericks
+9145,Snell,Tony,21,SG,"6'7""",221,11/10/91,26,"Riverside, CA",USA,N,90,MIL,Milwaukee,Bucks
+13879,Snyder,Quin,,C,,,1/26/18,0,,,N,98,UTA,Utah,Jazz
+9225,Speights,Marreese,5,C,"6'10""",255,8/4/87,30,"St. Petersburg, FL",USA,N,95,ORL,Orlando,Magic
+9090,Splitter,Tiago,11,C,"6'11""",245,1/1/85,33,Joinville,Brazil,N,,,,
+13930,Spoelstra,Erik,,C,,,1/26/18,0,,,N,92,MIA,Miami,Heat
+9417,Stauskas,Nik,2,SG,"6'6""",205,10/7/93,24,Mississauga,Canada,N,84,BRO,Brooklyn,Nets
+9293,Stephenson,Lance,1,SF,"6'6""",230,9/5/90,27,"Brooklyn, NY",USA,N,87,IND,Indiana,Pacers
+9562,Stepheson,Alex,35,PF,,,8/7/87,30,"Los Angeles, CA",USA,N,,,,
+13927,Stevens,Brad,,C,,,1/26/18,0,,,N,82,BOS,Boston,Celtics
+14136,Stockton,David,,PG,,,6/23/91,26,,,Y,98,UTA,Utah,Jazz
+9551,Stokes,Jarnell,12,PF,,,1/7/94,24,"Memphis, TN",USA,N,,,,
+10159,Stone,Diamond,,C,"6'11""",255,2/10/97,21,"Milwaukee, WI",USA,Y,102,LAC,Los Angeles,Clippers
+11956,Stone,Julyan,32,SG,"6'6""",200,12/7/88,29,"Alexandria, VA",USA,N,93,CHA,Charlotte,Hornets
+13931,Stotts,Terry,,C,,,1/26/18,0,,,N,97,POR,Portland,Trail Blazers
+9255,Stuckey,Rodney,2,PG,,,4/21/86,32,"Seattle, WA",USA,N,,,,
+9098,Sullinger,Jared,0,PF,,,3/4/92,26,"Columbus, OH",USA,N,,,,
+13798,Sumner,Edmond,5,PG,"6'5""",188,12/29/95,22,"Detroit, MI",USA,Y,87,IND,Indiana,Pacers
+13752,Swanigan,Caleb,50,PF,"6'8""",250,4/18/97,21,"Indianapolis, IN",USA,Y,97,POR,Portland,Trail Blazers
+13730,Tatum,Jayson,0,PF,"6'8""",205,3/3/98,20,"St. Louis, MO",USA,Y,82,BOS,Boston,Celtics
+11743,Tavares,Edy,32,C,"7'3""",265,3/22/92,26,Maio,Cape Verde,N,91,ATL,Atlanta,Hawks
+11979,Taylor,Isaiah,22,PG,"6'3""",170,7/11/94,23,"Hayward, CA",USA,N,91,ATL,Atlanta,Hawks
+9091,Teague,Jeff,0,PG,"6'2""",189,6/10/88,29,"Indianapolis, IN",USA,N,100,MIN,Minnesota,Timberwolves
+14147,Teague,Marquis,,PG,,,3/24/18,0,,,Y,107,MEM,Memphis,Grizzlies
+9438,Teletovic,Mirza,35,PF,"6'9""",242,9/15/85,32,Mostar,Bosnia and Herzegovina,N,90,MIL,Milwaukee,Bucks
+9525,Temple,Garrett,17,SG,"6'6""",195,5/8/86,32,"Baton Rouge, LA",USA,N,103,SAC,Sacramento,Kings
+13761,Teodosic,Milos,4,PG,"6'5""",196,3/19/87,31,Valjevo,Serbia,Y,102,LAC,Los Angeles,Clippers
+9243,Terry,Jason,3,SG,"6'2""",185,9/15/77,40,"Seattle, WA",USA,N,90,MIL,Milwaukee,Bucks
+13777,Theis,Daniel,27,PF,"6'9""",243,4/4/92,26,Salzgitter,Germany,Y,82,BOS,Boston,Celtics
+13925,Thibodeau,Tom,,C,,,1/27/18,0,,,N,100,MIN,Minnesota,Timberwolves
+9101,Thomas,Isaiah,3,PG,"5'9""",185,2/6/89,29,"Tacoma, WA",USA,N,105,LAL,Los Angeles,Lakers
+9382,Thomas,Lance,42,SF,"6'8""",235,4/24/88,30,"Brooklyn, NY",USA,N,83,NYK,New York,Knicks
+9221,Thompson,Klay,11,SG,"6'7""",215,2/8/90,28,"Los Angeles, CA",USA,N,101,GSW,Golden State,Warriors
+9416,Thompson,Hollis,31,SG,,,4/3/91,27,"Pasadena, CA",USA,N,,,,
+9169,Thompson,Tristan,13,PF,"6'9""",238,3/13/91,27,Toronto,Canada,N,86,CLE,Cleveland,Cavaliers
+9501,Thompson,Jason,1,C,"6'11""",250,7/21/86,31,"Camden, NJ",USA,N,,,,
+9532,Thornton,Marcus,15,SG,,,6/4/87,31,"Baton Rouge, LA",USA,N,86,CLE,Cleveland,Cavaliers
+13857,Thornwell,Sindarius,,PG,"6'5""",215,11/15/94,23,"Lancaster, SC",USA,Y,102,LAC,Los Angeles,Clippers
+11739,Tobey,Mike,10,C,,,10/10/94,23,"Monroe, NY",USA,N,,,,
+9208,Tolliver,Anthony,43,PF,"6'8""",240,6/1/85,33,"Springfield, MO",USA,N,88,DET,Detroit,Pistons
+9201,Toupane,Axel,6,SF,"6'7""",210,7/23/92,25,Mulhouse,France,N,,,,
+9346,Towns,Karl-Anthony,32,C,"7'0""",248,11/15/95,22,"Edison, NJ",USA,N,100,MIN,Minnesota,Timberwolves
+13918,Triano,Jay,,C,,,1/28/18,0,,,N,104,PHX,Phoenix,Suns
+9430,Tucker,P.J.,4,SF,"6'6""",245,5/5/85,33,"Raleigh, NC",USA,N,109,HOU,Houston,Rockets
+9104,Turner,Evan,1,SF,"6'7""",220,10/27/88,29,"Chicago, IL",USA,N,97,POR,Portland,Trail Blazers
+9252,Turner,Myles,33,C,"6'11""",255,3/24/96,22,"Bedford, TX",USA,N,87,IND,Indiana,Pacers
+11927,Udoh,Ekpe,33,C,"6'10""",245,5/20/87,31,"Edmond, OK",USA,N,98,UTA,Utah,Jazz
+9541,Udrih,Beno,19,G,"6'3""",205,7/5/82,35,Celje,Slovenia,N,,,,
+10145,Ulis,Tyler,8,PG,"5'10""",160,1/5/96,22,"Detroit, MI",USA,N,104,PHX,Phoenix,Suns
+11993,Uthoff,Jarrod,,SF,"6'9""",221,5/19/93,25,"Cedar Rapids, IA",USA,N,108,DAL,Dallas,Mavericks
+9491,Valanciunas,Jonas,17,C,"7'0""",255,5/6/92,26,Utena,Lithuania,N,81,TOR,Toronto,Raptors
+10157,Valentine,Denzel,45,SF,"6'6""",214,11/16/93,24,"Lansing, MI",USA,N,89,CHI,Chicago,Bulls
+13926,Van Gundy,Stan,,C,,,1/28/18,0,,,N,88,DET,Detroit,Pistons
+10124,VanVleet,Fred,23,PG,"6'0""",195,2/25/94,24,"Rockford, IL",USA,N,81,TOR,Toronto,Raptors
+9333,Vaughn,Rashad,20,SG,"6'6""",202,8/13/96,21,"Minneapolis, MN",USA,N,95,ORL,Orlando,Magic
+9181,Villanueva,Charlie,3,PF,"6'11""",232,8/24/84,33,"Queens, NY",USA,N,,,,
+9451,Vonleh,Noah,21,PF,"6'9""",245,8/23/95,22,"Haverhill, MA",USA,N,89,CHI,Chicago,Bulls
+9412,Vucevic,Nikola,9,C,"7'0""",260,10/24/90,27,Morges,Switzerland,N,95,ORL,Orlando,Magic
+9380,Vujacic,Sasha,18,SG,"6'7""",195,3/8/84,34,Maribor,Slovenia,N,83,NYK,New York,Knicks
+9315,Wade,Dwyane,9,SG,"6'4""",220,1/16/82,36,"Chicago, IL",USA,N,92,MIA,Miami,Heat
+9384,Waiters,Dion,11,SG,"6'4""",215,12/10/91,26,"Philadelphia, PA",USA,N,92,MIA,Miami,Heat
+9129,Walker,Kemba,15,PG,"6'1""",184,5/8/90,28,"Bronx, NY",USA,N,93,CHA,Charlotte,Hornets
+9522,Wall,John,2,PG,"6'4""",210,9/6/90,27,"Raleigh, NC",USA,N,94,WAS,Washington,Wizards
+13948,Wallace,Tyrone,12,SG,"6'5""",198,6/10/94,23,"Bakersfield, CA",USA,Y,102,LAC,Los Angeles,Clippers
+13913,Walton,Luke,,C,,,1/28/18,0,"San Diego, CA",USA,N,105,LAL,Los Angeles,Lakers
+13802,Walton Jr.,Derrick,14,PG,"6'1""",185,4/1/95,23,"Detroit, MI",USA,Y,92,MIA,Miami,Heat
+14132,Warney,Jameel,,F,,,3/11/18,0,,,Y,108,DAL,Dallas,Mavericks
+9433,Warren,TJ,12,SF,"6'8""",215,9/5/93,24,"Durham, NC",USA,N,104,PHX,Phoenix,Suns
+9410,Watson,CJ,32,PG,"6'2""",175,4/17/84,34,"Las Vegas, NV",USA,N,,,,
+14127,Wear,Travis,21,F,"6'10""",225,9/20/90,27,,,N,105,LAL,Los Angeles,Lakers
+13960,Webb III,James,,F,"6'9""",202,8/17/93,24,"Augusta, GA",USA,Y,84,BRO,Brooklyn,Nets
+9320,Weber,Briante,22,PG,,,12/28/92,25,"Chesapeake, VA",USA,N,107,MEM,Memphis,Grizzlies
+9543,Weems,Sonny,,SG,,,7/8/86,31,"West Memphis, AR",USA,N,,,,
+9479,West,David,3,PF,"6'9""",250,8/29/80,37,"Teaneck, NJ",USA,N,101,GSW,Golden State,Warriors
+9387,Westbrook,Russell,0,PG,"6'3""",200,11/12/88,29,"Long Beach, CA",USA,N,96,OKL,Oklahoma City,Thunder
+11706,White,Okaro,15,F,"6'8""",215,8/11/92,25,"Clearwater, FL",USA,N,86,CLE,Cleveland,Cavaliers
+13755,White,Derrick,4,PG,"6'4""",190,7/2/94,23,"Parker, CO",USA,Y,106,SAS,San Antonio,Spurs
+9660,Whitehead,Isaiah,15,PG,"6'4""",213,3/8/95,23,"Brooklyn, NY",USA,N,84,BRO,Brooklyn,Nets
+13773,White III,Andrew,3,C,"6'7""",210,6/16/93,24,"Richmond, VA",USA,Y,91,ATL,Atlanta,Hawks
+9312,Whiteside,Hassan,21,C,"7'0""",265,6/13/89,28,"Gastonia, NC",USA,N,92,MIA,Miami,Heat
+9259,Whittington,Shayne,42,PF,"6'11""",250,3/27/91,27,"Paw Paw, MI",USA,N,,,,
+9342,Wiggins,Andrew,22,SG,"6'8""",202,2/23/95,23,Toronto,Canada,N,100,MIN,Minnesota,Timberwolves
+9266,Wilcox,CJ,23,SG,"6'5""",195,12/30/90,27,"Pleasant Grove, UT",USA,N,97,POR,Portland,Trail Blazers
+13800,Wiley,Jacob,21,SF,,,9/4/94,23,"Bellevue, WA",USA,Y,84,BRO,Brooklyn,Nets
+13797,Wilkins,Damien,12,SG,,,1/11/80,38,"Washington, NC",USA,Y,87,IND,Indiana,Pacers
+9377,Williams,Derrick,22,SF,"6'8""",240,5/25/91,27,"Bellflower, CA",USA,N,105,LAL,Los Angeles,Lakers
+9557,Williams,Elliott,,SG,,,1/24/18,0,"Memphis, TN",USA,N,96,OKL,Oklahoma City,Thunder
+11414,Williams,Troy,5,SF,"6'7""",218,12/29/94,23,"Hampton, VA",USA,N,83,NYK,New York,Knicks
+9163,Williams,Mo,52,PG,"6'1""",198,12/19/82,35,"Jackson, MS",USA,N,,,,
+11973,Williams,C.J.,9,SG,"6'5""",230,2/6/90,28,"Fayetteville, NC",USA,N,102,LAC,Los Angeles,Clippers
+9134,Williams,Marvin,2,PF,"6'9""",237,6/19/86,31,"Bremerton, WA",USA,N,93,CHA,Charlotte,Hornets
+9184,Williams,Deron,8,PG,"6'3""",200,6/26/84,33,"Parkersburg, WV",USA,N,,,,
+9287,Williams,Lou,23,SG,"6'1""",175,10/27/86,31,"Memphis, TN",USA,N,102,LAC,Los Angeles,Clippers
+9441,Williams,Alan,15,PF,"6'8""",265,1/28/93,25,"Phoenix, AZ",USA,N,104,PHX,Phoenix,Suns
+11546,Williams,Reggie,5,F,,,9/14/86,31,"Prince George, VA",USA,N,,,,
+13801,Williams Jr.,Matt,12,SG,,,10/14/93,24,"Orlando, FL",USA,Y,92,MIA,Miami,Heat
+13745,Wilson,D. J.,5,PF,"6'10""",236,2/19/96,22,"Mt. Shasta, CA",USA,Y,90,MIL,Milwaukee,Bucks
+13859,Wilson,Jamil,13,PF,,,11/21/90,27,"Milwaukee, WI",USA,Y,102,LAC,Los Angeles,Clippers
+10148,Wiltjer,Kyle,30,F,"6'10""",240,10/18/92,25,"Portland, OR",USA,N,109,HOU,Houston,Rockets
+9313,Winslow,Justise,20,SF,"6'7""",225,3/26/96,22,"Houston, TX",USA,N,92,MIA,Miami,Heat
+9516,Withey,Jeff,17,C,,,3/7/90,28,"San Diego, CA",USA,N,108,DAL,Dallas,Mavericks
+11897,Wolters,Nate,,PG,,,5/15/91,27,"St. Cloud, MN",USA,N,98,UTA,Utah,Jazz
+9427,Wood,Christian,35,PF,"6'11""",220,9/27/95,22,"Long Beach, CA",USA,N,93,CHA,Charlotte,Hornets
+9291,World Peace,Metta,37,SF,"6'7""",260,11/13/79,38,,,N,,,,
+9304,Wright,Brandan,34,C,"6'10""",235,10/2/87,30,"Nashville, TN",USA,N,109,HOU,Houston,Rockets
+9495,Wright,Delon,55,PG,"6'5""",190,4/26/92,26,"Los Angeles, CA",USA,N,81,TOR,Toronto,Raptors
+13778,Yabusele,Guerschon,30,PF,"6'8""",260,12/17/95,22,Dreux,France,Y,82,BOS,Boston,Celtics
+9103,Young,James,6,SG,"6'6""",215,8/16/95,22,"Flint, MI",USA,N,85,PHI,Philadelphia,76ers
+9119,Young,Thaddeus,21,PF,"6'8""",230,6/21/88,29,"New Orleans, LA",USA,N,87,IND,Indiana,Pacers
+13808,Young,Michael,4,F,,,9/5/94,23,"Pittsburgh, PA",USA,Y,94,WAS,Washington,Wizards
+9260,Young,Joe,3,PG,"6'2""",185,6/27/92,25,"Houston, TX",USA,N,87,IND,Indiana,Pacers
+9280,Young,Nick,6,SG,"6'7""",210,6/1/85,33,"Los Angeles, CA",USA,N,101,GSW,Golden State,Warriors
+9099,Zeller,Tyler,44,C,"7'0""",250,1/16/90,28,"Visalia, CA",USA,N,90,MIL,Milwaukee,Bucks
+9130,Zeller,Cody,40,C,"7'0""",240,10/5/92,25,"Washington, IN",USA,N,93,CHA,Charlotte,Hornets
+13767,Zhou,Qi,9,PF,"7'1""",210,1/13/96,22,,,Y,109,HOU,Houston,Rockets
+10163,Zimmerman,Stephen,33,C,"7'0""",240,9/9/96,21,"Hendersonville, TN",USA,N,105,LAL,Los Angeles,Lakers
+10158,Zipser,Paul,16,SF,"6'8""",226,2/18/94,24,Heidelberg,Germany,N,89,CHI,Chicago,Bulls
+13779,Zizic,Ante,41,C,"6'11""",250,1/3/97,21,Split,Croatia,Y,86,CLE,Cleveland,Cavaliers
+10169,Zubac,Ivica,40,C,"7'1""",240,3/18/97,21,Mostar,Bosnia and Herzegovina,N,105,LAL,Los Angeles,Lakers
