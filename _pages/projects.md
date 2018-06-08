@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 | Fruit            | Price         | Advantages         |
-| ---------------- | ------------- | ------------------ |
+| :---------------- | :------------- | :------------------ |
 | Nassika Dabel    | Natality by State 2016-2017 | <a target="_blank" href="https://github.com/edwindely">sikacodes</a> |
 | Edwin Dely       | <a target="_blank" href="{{ site.url }}/python-stats/_pages/edwindely.html">NBA Player Statistics 2017-2018</a> | <a target="_blank" href="https://github.com/edwindely">edwindely</a> |
 | {::nomarkdown}<p>Malcolm Gyagenda &ensp;</p>{:/} | <a target="_blank" href="{{ site.url }}/python-stats/_pages/gyagenda.html">NBA Player Roster 2017-2018</a> | <a target="_blank" href="https://github.com/gyagenda">gyagenda</a> |

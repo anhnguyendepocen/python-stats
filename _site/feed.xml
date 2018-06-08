@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/python-stats/</link>
     <atom:link href="http://localhost:4000/python-stats/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Jun 2018 22:29:33 -0400</pubDate>
-    <lastBuildDate>Thu, 07 Jun 2018 22:29:33 -0400</lastBuildDate>
+    <pubDate>Fri, 08 Jun 2018 11:58:14 -0400</pubDate>
+    <lastBuildDate>Fri, 08 Jun 2018 11:58:14 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -55,11 +55,22 @@
 
 &lt;p&gt;&lt;strong&gt;Once your project is complete, please update your Github repository and provide the link to the instructor.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet&quot;&gt;Markdown Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;Python Software Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pep8.org/&quot; target=&quot;_blank&quot;&gt;PEP 8&lt;/a&gt; Python Style Guide&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/index.html&quot; target=&quot;_blank&quot;&gt;Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.scipy.org/doc/numpy/&quot; target=&quot;_blank&quot;&gt;NumPy Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pandas.pydata.org/pandas-docs/stable/&quot; target=&quot;_blank&quot;&gt;Pandas Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/&quot; target=&quot;_blank&quot;&gt;Matplotlib Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jupyter.org/&quot; target=&quot;_blank&quot;&gt;Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot; target=&quot;_blank&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v2&quot; target=&quot;_blank&quot;&gt;Pro Git (2nd Edition)&lt;/a&gt; by Scott Chacon and Ben Straub&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 06 Jun 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/python-stats/2018/06/lecture4</link>
@@ -72,10 +83,10 @@
         <title>Probability &amp; Visualization</title>
         <description>&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;visualizing data and relationships&lt;/li&gt;
+  &lt;li&gt;working with series and data frames&lt;/li&gt;
   &lt;li&gt;probability axioms, random variables&lt;/li&gt;
   &lt;li&gt;distribution functions&lt;/li&gt;
-  &lt;li&gt;law of large numbers, central limit theorem&lt;/li&gt;
+  &lt;li&gt;visualizing data and relationships&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
@@ -86,13 +97,13 @@
 
 &lt;h2 id=&quot;datasets&quot;&gt;Datasets&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/bachelors_major_ma_2015_16.csv&quot;&gt;Bachelors’ Degrees by Major and Sex, Massachusetts, 2015-2016&lt;/a&gt;, National Center for Education Statistics&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/ntia_computer_usage.csv&quot;&gt;Computer and Internet Use, 1994-2015&lt;/a&gt;, National Telecommunications and Information Administration&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/county_demographics_2016.csv&quot;&gt;County Demographics, 2016&lt;/a&gt;, US Census Bureau, American Community Survey&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nat_survey_drug_use_2015.csv&quot;&gt;National Survey on Drug Use and Health&lt;/a&gt;, Substance Abuse and Mental Health Services Administration&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/natality_2007_2016.csv&quot;&gt;Natality by State, 2007-2016&lt;/a&gt;, Centers for Disease Control and Prevention&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nba_player_stats_2017_18.csv&quot;&gt;NBA Player Statistics, 2017-2018 Regular Season&lt;/a&gt;, MySportsFeeds&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nba_rosters_2017_18.csv&quot;&gt;NBA Team Rosters, 2017-2018 Regular Season&lt;/a&gt;, MySportsFeeds&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/bachelors_major_ma_2015_16.csv&quot;&gt;Bachelors’ Degrees by Major and Sex, Massachusetts 2015-2016&lt;/a&gt;, National Center for Education Statistics &lt;a href=&quot;https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx&quot; target=&quot;_blank&quot;&gt;Integrated Postsecondary Education Data System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/ntia_computer_usage.csv&quot;&gt;Computer and Internet Use 1994-2015&lt;/a&gt;, National Telecommunications and Information Administration &lt;a href=&quot;https://www.ntia.doc.gov/data/digital-nation-data-explorer#sel=internetUser&amp;amp;disp=map&quot; target=&quot;_blank&quot;&gt;Digital Nation Data Explorer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/county_demographics_2016.csv&quot;&gt;County Demographics 2016&lt;/a&gt;, US Census Bureau &lt;a href=&quot;https://www.census.gov/data/developers/data-sets/acs-5year.html&quot; target=&quot;_blank&quot;&gt;American Community Survey 5-Year Estimates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nat_survey_drug_use_2015.csv&quot;&gt;National Survey on Drug Use and Health 2014-2015&lt;/a&gt;, Substance Abuse and Mental Health Services Administration &lt;a href=&quot;https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health&quot; target=&quot;_blank&quot;&gt;Data Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/natality_2007_2016.csv&quot;&gt;Natality 2007-2016&lt;/a&gt;, Centers for Disease Control and Prevention &lt;a href=&quot;https://wonder.cdc.gov/natality.html&quot; target=&quot;_blank&quot;&gt;Natality Information: Live Births&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nba_player_stats_2017_18.csv&quot;&gt;NBA Player Statistics 2017-2018 Regular Season&lt;/a&gt;, MySportsFeeds &lt;a href=&quot;https://www.mysportsfeeds.com/data-feeds/&quot; target=&quot;_blank&quot;&gt;Sports Data API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/python-stats/download/nba_rosters_2017_18.csv&quot;&gt;NBA Team Rosters 2017-2018 Regular Season&lt;/a&gt;, MySportsFeeds &lt;a href=&quot;https://www.mysportsfeeds.com/data-feeds/&quot; target=&quot;_blank&quot;&gt;Sports Data API&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;activity-instructions&quot;&gt;Activity Instructions&lt;/h2&gt;
@@ -139,11 +150,24 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet&quot;&gt;Markdown Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;Python Software Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pep8.org/&quot; target=&quot;_blank&quot;&gt;PEP 8&lt;/a&gt; Python Style Guide&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/index.html&quot; target=&quot;_blank&quot;&gt;Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.scipy.org/doc/numpy/&quot; target=&quot;_blank&quot;&gt;NumPy Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pandas.pydata.org/pandas-docs/stable/&quot; target=&quot;_blank&quot;&gt;Pandas Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/&quot; target=&quot;_blank&quot;&gt;Matplotlib Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jupyter.org/&quot; target=&quot;_blank&quot;&gt;Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot; target=&quot;_blank&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v2&quot; target=&quot;_blank&quot;&gt;Pro Git (2nd Edition)&lt;/a&gt; by Scott Chacon and Ben Straub&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/python-stats/2018/06/lecture3</link>
@@ -219,10 +243,22 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
-&lt;p&gt;For a full guide to Git, see the free, web-based version of the book &lt;a href=&quot;https://git-scm.com/book/en/v2&quot; target=&quot;_blank&quot;&gt;Pro Git (2nd Edition)&lt;/a&gt; by Scott Chacon and Ben Straub.&lt;/p&gt;
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 
-&lt;p&gt;For a beginner tutorial on using Git with Github, see Github’s &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot; target=&quot;_blank&quot;&gt;Hello World&lt;/a&gt; guide.&lt;/p&gt;
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;Python Software Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pep8.org/&quot; target=&quot;_blank&quot;&gt;PEP 8&lt;/a&gt; Python Style Guide&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/index.html&quot; target=&quot;_blank&quot;&gt;Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.scipy.org/doc/numpy/&quot; target=&quot;_blank&quot;&gt;NumPy Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jupyter.org/&quot; target=&quot;_blank&quot;&gt;Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot; target=&quot;_blank&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v2&quot; target=&quot;_blank&quot;&gt;Pro Git (2nd Edition)&lt;/a&gt; by Scott Chacon and Ben Straub&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 09:00:00 -0400</pubDate>
         <link>http://localhost:4000/python-stats/2018/06/lecture2</link>
@@ -244,6 +280,21 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec1_intro_python.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://localhost:4000/python-stats/download/lec1_intro_python.ipynb&quot;&gt;Jupyter notebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot;&gt;Python Software Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pep8.org/&quot; target=&quot;_blank&quot;&gt;PEP 8&lt;/a&gt; Python Style Guide&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/index.html&quot; target=&quot;_blank&quot;&gt;Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jupyter.org/&quot; target=&quot;_blank&quot;&gt;Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot; target=&quot;_blank&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 05:00:00 -0400</pubDate>
